@@ -1,0 +1,95 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+07G,Fitch H Beach,Charlotte,MI,USA,42.57450861,-84.81143139,,America/Detroit,-4.0
+0D1,South Haven Municipal,South Haven,MI,USA,42.35083333,-86.25613889,,America/Detroit,-4.0
+13C,Lakeview,Lakeview,MI,USA,43.45213722,-85.26480333,,America/Detroit,-4.0
+1D2,Canton -Plymouth -  Mettetal,Plymouth,MI,USA,42.35003667,-83.45826833,,America/Detroit,-4.0
+35D,Padgham ,Allegan,MI,USA,42.53098278,-85.82513556,,America/Detroit,-4.0
+3BS,Jack Barstow,Midland,MI,USA,43.66291528,-84.261325,,America/Detroit,-4.0
+3CM,James Clements Municipal,Bay City,MI,USA,43.54691667,-83.89550222,,America/Detroit,-4.0
+3D4,Frankfort Dow Memorial,Frankfort,MI,USA,44.62506389,-86.20061944,,America/Detroit,-4.0
+3FM,Fremont Municipal,Fremont,MI,USA,43.43890528,-85.99478,,America/Detroit,-4.0
+3GM,Grand Haven Memorial Airpark,Grand Haven,MI,USA,43.03404639,-86.1981625,,America/Detroit,-4.0
+3SG,Harry W Browne,Saginaw - H.Browne,MI,USA,43.43341028,-83.86245833,,America/Detroit,-4.0
+3TR,Jerry Tyler Memorial,Niles,MI,USA,41.83590806,-86.22517611,,America/Detroit,-4.0
+42C,White Cloud,White Cloud,MI,USA,43.55974139,-85.77421944,,America/Detroit,-4.0
+48D,Clare Municipal,Clare,MI,USA,43.83111111,-84.74133333,,America/Detroit,-4.0
+4D0,Abrams Municipal,Grandledge,MI,USA,42.77420167,-84.73309806,,America/Detroit,-4.0
+55D,Grayling Army Airfield,Grayling,MI,USA,44.68032028,-84.72886278,,America/Detroit,-4.0
+5D3,Owosso Community,Owosso,MI,USA,42.99297222,-84.1389125,,America/Detroit,-4.0
+5G9,Toledo Suburban,Lambertville,MI,USA,41.7358775,-83.65541056,,America/Detroit,-4.0
+6D6,Greenville Municipal,Greenville,MI,USA,43.14228139,-85.25380722,,America/Detroit,-4.0
+76G,Marine City,Marine City,MI,USA,42.72086583,-82.59574694,,America/Detroit,-4.0
+77G,Marlette Township,Marlette,MI,USA,43.31183,-83.09091444,,America/Detroit,-4.0
+78D,Caro Municipal,Caro,MI,USA,43.45908333,-83.44522222,,America/Detroit,-4.0
+7D2,Troy-Oakland,Troy,MI,USA,42.54294389,-83.17790861,,America/Detroit,-4.0
+83D,Mackinac County,St Ignace,MI,USA,45.89029056,-84.73755083,,America/Detroit,-4.0
+8D4,Sparta,Sparta,MI,USA,43.12860833,-85.67689778,,America/Detroit,-4.0
+9C8,Evart Municipal,Evart,MI,USA,43.8958525,-85.27920861,,America/Detroit,-4.0
+9D9,Hastings Municipal,Hastings,MI,USA,42.66361778,-85.34625944,,America/Detroit,-4.0
+ACB,Antrim County,Bellaire,MI,USA,44.98857611,-85.198355,,America/Detroit,-4.0
+ADG,Lenawee County,Adrian,MI,USA,41.86943667,-84.07480528,,America/Detroit,-4.0
+AMN,Gratiot Community Airport,Alma,MI,USA,43.3221425,-84.68794917,A,America/Detroit,-4.0
+APN,Alpena County Regional Airport,Alpena,MI,USA,45.0780675,-83.56028583,A,America/Detroit,-4.0
+ARB,Ann Arbor Municipal Airport,Ann Arbor,MI,USA,42.22298361,-83.74560722,A,America/Detroit,-4.0
+AZO,Kalamazoo Battle Creek International Airport,Kalamazoo,MI,USA,42.234875,-85.55205749999999,A,America/Detroit,-4.0
+BAX,Barnaul Airport,Bad Axe,MI,USA,43.78091667,-82.98566667,N,America/Detroit,-4.0
+BEH,Southwest Michigan Regional,Benton Harbor,MI,USA,42.12858333,-86.4285,,America/Detroit,-4.0
+BIV,Tulip City,Holland,MI,USA,42.74316667,-86.10502778,,America/Detroit,-4.0
+BTL,W K Kellogg Airport,Battle Creek,MI,USA,42.30727806,-85.25147972,\N,America/Detroit,-4.0
+C91,Dowagiac Municipal ,Dowagiac,MI,USA,41.99293417,-86.1280125,,America/Detroit,-4.0
+CAD,Wexford County,Cadillac,MI,USA,44.27531333,-85.41892694,,America/Detroit,-4.0
+CIU,Chippewa County International Airport,Sault Ste. Marie,MI,USA,46.25075194,-84.47238528,A,America/Detroit,-4.0
+CMX,Houghton County Memorial Airport,Hancock,MI,USA,47.16841722,-88.48906083,A,America/Detroit,-4.0
+CVX,Charlevoix Municipal,Charlevoix,MI,USA,45.30477778,-85.27477778,,America/Detroit,-4.0
+D87,Harbor Springs,Harbor Springs,MI,USA,45.42556528,-84.91338389,,America/Detroit,-4.0
+D95,Dupont-Lapeer,Lapeer,MI,USA,43.06703333,-83.27244444,,America/Detroit,-4.0
+D98,Romeo,Romeo,MI,USA,42.79699083,-82.97526583,,America/Detroit,-4.0
+DET,Coleman A. Young Municipal Airport,Detroit,MI,USA,42.40919444,-83.00986111,A,America/Detroit,-4.0
+DTW,Detroit Metropolitan Wayne County Airport,Detroit,MI,USA,42.21205889,-83.34883583,A,America/Detroit,-4.0
+ERY,Luce County Hale,Newberry,MI,USA,46.31118694,-85.45731639,,America/Detroit,-4.0
+ESC,Delta County Airport,Escanaba,MI,USA,45.72266972,-87.09373139,A,America/Detroit,-4.0
+FNT,Bishop International Airport,Flint,MI,USA,42.96550333,-83.74345639,A,America/Detroit,-4.0
+GDW,Gladwin Zettel Memorial Airport,Gladwin,MI,USA,43.97063278,-84.47503861,A,America/Detroit,-4.0
+GLR,Gaylord Regional Airport,Gaylord,MI,USA,45.01354806,-84.70318944,A,America/Detroit,-4.0
+GRR,Gerald R. Ford International Airport,Grand Rapids,MI,USA,42.88081972,-85.52276778,A,America/Detroit,-4.0
+HAI,Three Rivers Municipal,Three Rivers,MI,USA,41.95975,-85.59338889,,America/Detroit,-4.0
+HTL,Roscommon County - Blodgett Memorial Airport,Houghton Lake,MI,USA,44.35980556,-84.67111111,A,America/Detroit,-4.0
+IMT,Ford Airport,Iron Mountain/Kingsford,MI,USA,45.81835417,-88.1145425,A,America/Menominee,-5.0
+IRS,Kirsch Municipal,Sturgis,MI,USA,41.8128725,-85.43906111,,America/Detroit,-4.0
+ISQ,Schoolcraft County,Manistique,MI,USA,45.97464056,-86.17183056,,America/Detroit,-4.0
+IWD,Gogebic County,Ironwood,MI,USA,46.52747472,-90.13139667,,America/Menominee,-5.0
+JXN,Jackson County Reynolds Field,Jackson,MI,USA,42.25978556,-84.45940361,A,America/Detroit,-4.0
+JYM,Hillsdale Municipal,Hillsdale,MI,USA,41.92126083,-84.5857625,,America/Detroit,-4.0
+LAN,Capital City Airport,Lansing,MI,USA,42.7787,-84.58735806,A,America/Detroit,-4.0
+LDM,Mason County Airport,Ludington,MI,USA,43.96253278,-86.40791528,A,America/Detroit,-4.0
+MBL,Manistee Co Blacker Airport,Manistee,MI,USA,44.27319722,-86.2490025,A,America/Detroit,-4.0
+MBS,MBS International Airport,Saginaw,MI,USA,43.53291472,-84.07964722,A,America/Detroit,-4.0
+MCD,Mackinac Island,Mackinac Island,MI,USA,45.86493444,-84.63734444,,America/Detroit,-4.0
+MKG,Muskegon County Airport,Muskegon,MI,USA,43.16948806,-86.23822306,A,America/Detroit,-4.0
+MNM,Menominee Regional Airport,Menominee,MI,USA,45.12665028,-87.63844056,A,America/Menominee,-5.0
+MOP,Mount Pleasant Municipal,Mount Pleasant,MI,USA,43.62166833,-84.73748499999999,,America/Detroit,-4.0
+OEB,Branch County Memorial,Coldwater,MI,USA,41.93344861,-85.052585,,America/Detroit,-4.0
+OGM,Ontonagon County,Ontonagon,MI,USA,46.84547028,-89.36708806,,America/Detroit,-4.0
+ONZ,Grosse Ile Municipal,Detroit - Grosse Ile,MI,USA,42.09860472,-83.16105861,,America/Detroit,-4.0
+OSC,Oscoda Wurtsmith Airport,Oscoda,MI,USA,44.45260972,-83.38036389,A,America/Detroit,-4.0
+OZW,Livingston County,Howell,MI,USA,42.62950694,-83.98417361,,America/Detroit,-4.0
+PHN,St Clair County International Airport,Port Huron,MI,USA,42.91095778,-82.52886139,A,America/Detroit,-4.0
+PLN,Pellston Regional Airport of Emmet County Airport,Pellston,MI,USA,45.5709275,-84.796715,A,America/Detroit,-4.0
+PTK,Oakland County International Airport,Pontiac,MI,USA,42.66520389,-83.41870917,A,America/Detroit,-4.0
+PZQ,Presque Isle County,Rogers City,MI,USA,45.40709667,-83.81288556,,America/Detroit,-4.0
+RMY,Mariposa Yosemite Airport,Marshall,MI,USA,42.25118111,-84.9554525,A,America/Detroit,-4.0
+RQB,Roben-Hood,Big Rapids,MI,USA,43.72263278,-85.50407333,,America/Detroit,-4.0
+SAW,Sabiha Gökçen International Airport,Gwinn,MI,USA,46.35361111,-87.39583222,E,America/Detroit,-4.0
+SJX,Beaver Island,St James,MI,USA,45.69227778,-85.56630556,,America/Detroit,-4.0
+TEW,Mason Jewett ,Mason,MI,USA,42.56576833,-84.42321861,,America/Detroit,-4.0
+TTF,Monroe Custer,Monroe,MI,USA,41.93990639,-83.43468306,,America/Detroit,-4.0
+TVC,Cherry Capital Airport,Traverse City,MI,USA,44.74144472,-85.582235,A,America/Detroit,-4.0
+UIZ,Berz-Macomb,Utica,MI,USA,42.66389361,-82.96542583,,America/Detroit,-4.0
+Y15,Cheboygan City-County,Cheboygan,MI,USA,45.65371028,-84.51927306,,America/Detroit,-4.0
+Y31,West Branch Community,West Branch,MI,USA,44.244825,-84.17980472,,America/Detroit,-4.0
+Y47,New Hudson,New Hudson,MI,USA,42.50311694,-83.62371667,,America/Detroit,-4.0
+Y66,Drummond Island,Drummond Island,MI,USA,46.00931139,-83.74393417,,America/Detroit,-4.0
+Y70,Ionia County,Ionia,MI,USA,42.93769972,-85.06066722,,America/Detroit,-4.0
+Y83,Sandusky City,Sandusky,MI,USA,43.45418694,-82.84938028,,America/Detroit,-4.0
+Y93,Atlanta Municipal,Atlanta,MI,USA,45.00000833,-84.13333667,,America/Detroit,-4.0
+YIP,Willow Run Airport,Detroit,MI,USA,42.237927500000005,-83.53040889,A,America/Detroit,-4.0

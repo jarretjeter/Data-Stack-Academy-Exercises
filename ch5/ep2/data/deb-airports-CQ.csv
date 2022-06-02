@@ -1,0 +1,5 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+GRO,Girona Airport,Rota Island,CQ,USA,14.1743075,-145.2425353,E,,0.0
+GSN,Saipan International,Obyan,CQ,USA,15.11900139,-145.7293561,,,0.0
+TNI,Satna Airport,Peipeinimaru,CQ,USA,14.99685028,-145.61803830000002,N,,0.0
+TT01,Pagan Airstrip,Shomu-Shon,CQ,USA,18.12444444,-145.76861110000002,,,0.0

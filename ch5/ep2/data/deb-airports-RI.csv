@@ -1,0 +1,7 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+BID,Block Island State Airport,Block Island,RI,USA,41.16811889,-71.57784167,A,America/New_York,-4.0
+OQU,Quonset State,North Kingstown,RI,USA,41.5971525,-71.41215333,,America/New_York,-4.0
+PVD,Theodore Francis Green State Airport,Providence,RI,USA,41.72399917,-71.42822111,A,America/New_York,-4.0
+SFZ,North Central State Airport,Pawtucket,RI,USA,41.92076333,-71.49138139,A,America/New_York,-4.0
+UUU,Newport State,Newport,RI,USA,41.53243972,-71.28154389,,America/New_York,-4.0
+WST,Westerly State Airport,Westerly,RI,USA,41.34961694,-71.80337778,A,America/New_York,-4.0

@@ -1,0 +1,89 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+06C,Schaumburg,Chicago/Schaumburg,IL,USA,41.98934083,-88.10124278,,America/Chicago,-5.0
+0C0,Dacy,Chicago/Harvard,IL,USA,42.40418556,-88.63343222,,America/Chicago,-5.0
+10C,Galt,Chicago/Greenwood/Wonderlake,IL,USA,42.40266472,-88.37588917,,America/Chicago,-5.0
+11IS,Schaumburg Heliport,Chicago/Schaumburg,IL,USA,42.04808278,-88.05257194,,America/Chicago,-5.0
+12C,Rochelle Municipal,Rochelle,IL,USA,41.89300139,-89.07829,,America/Chicago,-5.0
+1C5,Clow,Chicago/Plainfield,IL,USA,41.69597444,-88.12923056,,America/Chicago,-5.0
+1H2,Effingham County Memorial,Effingham,IL,USA,39.07045083,-88.53351972,,America/Chicago,-5.0
+1H8,Casey Municipal,Casey,IL,USA,39.30250917,-88.00406194,,America/Chicago,-5.0
+2H0,Shelby County,Shelbyville,IL,USA,39.41042861,-88.8454325,,America/Chicago,-5.0
+2I5,Chanute,Rantoul,IL,USA,40.29355556,-88.14236111,,America/Chicago,-5.0
+3CK,Lake In The Hills,Lake In The Hills,IL,USA,42.20680306,-88.32304028,,America/Chicago,-5.0
+3K6,St Louis-Metro East,Troy/Marine/St. Louis,IL,USA,38.73290861,-89.80656722,,America/Chicago,-5.0
+3LC,Logan County,Lincoln,IL,USA,40.15847222,-89.33497222,,America/Chicago,-5.0
+3LF,Litchfield Municipal,Litchfield,IL,USA,39.16635306,-89.67489694,,America/Chicago,-5.0
+3MY,Mt. Hawley Auxiliary,Peoria,IL,USA,40.79525917,-89.6134025,,America/Chicago,-5.0
+9I0,Havana Regional,Havana,IL,USA,40.221155,-90.02289361,,America/Chicago,-5.0
+AJG,Mt Carmel Municipal,Mt Carmel,IL,USA,38.60654722,-87.72669417,,America/Chicago,-5.0
+ALN,St Louis Regional Airport,Alton/St. Louis,IL,USA,38.89029083,-90.04604306,\N,America/Chicago,-5.0
+ARR,D. Casimiro Szlapelis Airport,Chicago/Aurora,IL,USA,41.77192944,-88.47565917,N,America/Chicago,-5.0
+BLV,Scott AFB/Midamerica Airport,Belleville/St. Louis,IL,USA,38.54517861,-89.83518444,A,America/Chicago,-5.0
+BMI,Central Illinois Regional Airport at Bloomington-Normal,Bloomington,IL,USA,40.47798556,-88.91595278,A,America/Chicago,-5.0
+C00,Mercer County,Aledo,IL,USA,41.248645,-90.73708361,,America/Chicago,-5.0
+C09,Morris Municipal,Morris,IL,USA,41.42541667,-88.41869444,,America/Chicago,-5.0
+C15,Pekin Municipal,Pekin,IL,USA,40.48820611,-89.67591083,,America/Chicago,-5.0
+C18,Frankfort,Chicago/Frankfort,IL,USA,41.4775,-87.84047222,,America/Chicago,-5.0
+C34,Gibson City Municipal,Gibson City,IL,USA,40.48578389,-88.2672725,,America/Chicago,-5.0
+C56,Sanger,Chicago/Monee,IL,USA,41.37756167,-87.68137528,,America/Chicago,-5.0
+C66,Monmouth Municipal,Monmouth,IL,USA,40.92970444,-90.63110722,,America/Chicago,-5.0
+C73,Dixon Muni-Charles R Walgreen ,Dixon,IL,USA,41.83369889,-89.44621333,,America/Chicago,-5.0
+C75,Marshall County,Lacon,IL,USA,41.01928583,-89.38642222,,America/Chicago,-5.0
+C77,Poplar Grove ,Poplar Grove,IL,USA,42.32268639,-88.83651833,,America/Chicago,-5.0
+C81,Campbell,Chicago/Round Lake Park,IL,USA,42.32461111,-88.07408806,,America/Chicago,-5.0
+CGX,Chicago Meigs Airport,Chicago,IL,USA,41.85884389,-87.60791167,A,America/Chicago,-5.0
+CIR,Cairo,Cairo,IL,USA,37.06447222,-89.21961111,,America/Chicago,-5.0
+CMI,University of Illinois Willard Airport,Champaign/Urbana,IL,USA,40.03925,-88.27805556,A,America/Chicago,-5.0
+CPS,St. Louis Downtown,Cahokia/St. Louis,IL,USA,38.57072444,-90.15622111,,America/Chicago,-5.0
+CTK,Ingersoll,Canton,IL,USA,40.56909444,-90.07484,,America/Chicago,-5.0
+CUL,Bachigualato Federal International Airport,Carmi,IL,USA,38.08947917,-88.12306111,S,America/Chicago,-5.0
+DEC,Decatur Airport,Decatur,IL,USA,39.8345625,-88.86568917,A,America/Chicago,-5.0
+DKB,Dekalb-Taylor Municipal,Dekalb,IL,USA,41.93188111,-88.70829861,,America/Chicago,-5.0
+DNV,Vermilion Regional Airport,Danville,IL,USA,40.19946861,-87.59553528,A,America/Chicago,-5.0
+DPA,Dupage Airport,Chicago/West Chicago,IL,USA,41.90688333,-88.24841722,A,America/Chicago,-5.0
+ENL,Centralia Municipal,Centralia,IL,USA,38.51479889,-89.09217944,,America/Chicago,-5.0
+EZI,Kewanee Municipal,Kewanee,IL,USA,41.20520361,-89.96386,,America/Chicago,-5.0
+FEP,Albertus,Freeport,IL,USA,42.24626722,-89.58223944,,America/Chicago,-5.0
+FOA,Flora,Flora,IL,USA,38.66494528,-88.45299556,,America/Chicago,-5.0
+FWC,Fairfield Municipal,Fairfield,IL,USA,38.37863306,-88.41265222,,America/Chicago,-5.0
+GBG,Galesburg Municipal Airport,Galesburg,IL,USA,40.93800194,-90.43112556,A,America/Chicago,-5.0
+GRE,Greenville,Greenville,IL,USA,38.83615778,-89.37841111,,America/Chicago,-5.0
+H96,Benton Municipal,Benton,IL,USA,38.00675111,-88.93441528,,America/Chicago,-5.0
+HSB,Harrisburg-Raleigh,Harrisburg,IL,USA,37.8115,-88.54913889,,America/Chicago,-5.0
+I63,Mt. Sterling Municipal,Mt. Sterling,IL,USA,39.9875,-90.80416667,,America/Chicago,-5.0
+I88,Pontiac Municipal,Pontiac,IL,USA,40.92372222,-88.6255,,America/Chicago,-5.0
+IGQ,Lansing Municipal,Chicago/Lansing,IL,USA,41.53988889,-87.53216667,,America/Chicago,-5.0
+IJX,Jacksonville Municipal,Jacksonville,IL,USA,39.77429694,-90.23856583,,America/Chicago,-5.0
+IKK,Greater Kankakee Airport,Kankakee,IL,USA,41.07140417,-87.84626861,A,America/Chicago,-5.0
+JOT,Joliet Regional Airport,Chicago/Joliet,IL,USA,41.51805833,-88.17525583,A,America/Chicago,-5.0
+K06,Greater Beardstown,Beardstown,IL,USA,39.97338139,-90.40373556,,America/Chicago,-5.0
+K96,Tuscola,Tuscola,IL,USA,39.78086528,-88.30615999999999,,America/Chicago,-5.0
+LOT,Lewis University Airport,Chicago/Romeoville,IL,USA,41.60844444,-88.09094444,A,America/Chicago,-5.0
+LWV,Lawrenceville-Vincennes Municipal,Lawrenceville,IL,USA,38.76429639,-87.60549556,,America/Chicago,-5.0
+M30,Metropolis Municipal,Metropolis,IL,USA,37.18588722,-88.75061,,America/Chicago,-5.0
+MDH,Southern Illinois Airport,Carbondale,IL,USA,37.77809583,-89.25203111,\N,America/Chicago,-5.0
+MDW,Chicago Midway International Airport,Chicago,IL,USA,41.7859825,-87.75242444,A,America/Chicago,-5.0
+MLI,Quad City International Airport,Moline,IL,USA,41.44852639,-90.50753917,A,America/Chicago,-5.0
+MQB,Macomb Municipal,Macomb,IL,USA,40.52034556,-90.65246389,,America/Chicago,-5.0
+MTO,Coles County Memorial,Mattoon-Charleston,IL,USA,39.47793722,-88.27923833,,America/Chicago,-5.0
+MVN,Mt Vernon-Outland,Mt. Vernon,IL,USA,38.32335444,-88.85847917,,America/Chicago,-5.0
+MWA,Williamson County Regional Airport,Marion,IL,USA,37.75313528,-89.01159694,A,America/Chicago,-5.0
+OLY,Olney-Noble,Olney-Noble,IL,USA,38.72182722,-88.17643278,,America/Chicago,-5.0
+ORD,Chicago O'Hare International Airport,Chicago,IL,USA,41.979595,-87.90446417,A,America/Chicago,-5.0
+PIA,General Wayne A. Downing Peoria International Airport,Peoria,IL,USA,40.66424333,-89.69330556,A,America/Chicago,-5.0
+PJY,Pinckneyville-Duquoin,Pinckneyville-Duquoin,IL,USA,37.97788417,-89.36044889,,America/Chicago,-5.0
+PPQ,Paraparaumu Airport,Pittsfield,IL,USA,39.63885556,-90.77843111,Z,America/Chicago,-5.0
+PRG,Václav Havel Airport Prague,Paris,IL,USA,39.70015944,-87.66961861,E,America/Chicago,-5.0
+PWK,Chicago Executive Airport,Chicago/Wheeling/Prospect Heights,IL,USA,42.11418083,-87.90148083,A,America/Chicago,-5.0
+RFD,Chicago Rockford International Airport,Rockford,IL,USA,42.19536389,-89.09721111,A,America/Chicago,-5.0
+RSV,Robinson Municipal,Robinson,IL,USA,39.01604222,-87.649775,,America/Chicago,-5.0
+SAR,Sparta Community-Hunter ,Sparta,IL,USA,38.14893833,-89.69870972,,America/Chicago,-5.0
+SFY,Tri-Township ,Savanna,IL,USA,42.04581972,-90.10760056,,America/Chicago,-5.0
+SLO,Salem-Leckrone,Salem,IL,USA,38.64287222,-88.96418528,,America/Chicago,-5.0
+SPI,Abraham Lincoln Capital Airport,Springfield,IL,USA,39.84395194,-89.67761861,A,America/Chicago,-5.0
+SQI,Whiteside Co ,Sterling Rockfalls,IL,USA,41.74284139,-89.67629028,,America/Chicago,-5.0
+TAZ,Daşoguz Airport,Taylorville,IL,USA,39.53418583,-89.32781222,U,America/Chicago,-5.0
+UGN,Waukegan National Airport,Chicago/Waukegan,IL,USA,42.42216,-87.86790694,A,America/Chicago,-5.0
+UIN,Quincy Regional Baldwin Field,Quincy,IL,USA,39.94262417,-91.19445611,A,America/Chicago,-5.0
+VLA,Vandalia Municipal,Vandalia,IL,USA,38.99130556,-89.16622222,,America/Chicago,-5.0
+VYS,Illinois Valley Regional Airport-Walter A Duncan Field,Peru/Lasalle,IL,USA,41.35186806,-89.15308417,A,America/Chicago,-5.0

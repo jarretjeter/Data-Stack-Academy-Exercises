@@ -1,0 +1,52 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0E0,Moriarty,Moriarty,NM,USA,34.98560639,-106.00946609999998,,America/Denver,-6.0
+0E8,Crownpoint,Crownpoint,NM,USA,35.71765889,-108.2015961,,America/Denver,-6.0
+1V0,Navajo State Park ,Navajo Dam,NM,USA,36.80833833,-107.65144440000002,,America/Denver,-6.0
+24N,Jicarilla Apache Nation,Dulce,NM,USA,36.828535,-106.8841914,,America/Denver,-6.0
+52E,Timberon ,Timberon,NM,USA,32.63388889,-105.6863889,,America/Denver,-6.0
+5T6,Dona Ana County  At Santa Teresa,Santa Teresa,NM,USA,31.88098556,-106.7048131,,America/Denver,-6.0
+5V5,Shiprock Airstrip,Shiprock,NM,USA,36.6977775,-108.7011986,,America/Denver,-6.0
+ABQ,Albuquerque International Sunport,Albuquerque,NM,USA,35.04022222,-106.6091944,A,America/Denver,-6.0
+AEG,Aek Godang Airport,Albuquerque,NM,USA,35.14515278,-106.7951617,N,America/Denver,-6.0
+ALM,Alamogordo White Sands Regional Airport,Alamogordo,NM,USA,32.83994444,-105.99058329999998,A,America/Denver,-6.0
+ATS,Artesia Municipal,Artesia,NM,USA,32.85252806,-104.4676864,,America/Denver,-6.0
+AXX,Angel Fire,Angel Fire,NM,USA,36.42240972,-105.2892967,,America/Denver,-6.0
+CAO,Clayton Municipal Airpark,Clayton,NM,USA,36.44585972,-103.1546583,,America/Denver,-6.0
+CNM,Cavern City Air Terminal,Carlsbad,NM,USA,32.33747222,-104.2632778,A,America/Denver,-6.0
+CVN,Clovis Municipal Airport,Clovis,NM,USA,34.42513889,-103.0792778,A,America/Denver,-6.0
+DMN,Deming Municipal Airport,Deming,NM,USA,32.26230917,-107.7206397,\N,America/Denver,-6.0
+E04,Eunice,Eunice,NM,USA,32.45679139,-103.2404708,,America/Denver,-6.0
+E05,Hatch Muni,Hatch,NM,USA,32.66106083,-107.1979339,,America/Denver,-6.0
+E06,Lea County-Zip Franklin Memorial,Lovington,NM,USA,32.95394444,-103.4087778,,America/Denver,-6.0
+E07,Lea County/Tatum ,Tatum,NM,USA,33.26122278,-103.2768939,,America/Denver,-6.0
+E26,Lea County,Jal,NM,USA,32.13107833,-103.1548506,,America/Denver,-6.0
+E80,Alexander Municipal,Belen,NM,USA,34.64519778,-106.8336958,,America/Denver,-6.0
+E89,Conchas State Park,Conchas Dam,NM,USA,35.36671583,-104.1880314,,America/Denver,-6.0
+E94,Glenwood-Catron County,Glenwood,NM,USA,33.35283972,-108.8672858,,America/Denver,-6.0
+FMN,Four Corners Regional Airport,Farmington,NM,USA,36.74125,-108.2299444,A,America/Denver,-6.0
+FSU,Fort Sumner Municipal,Fort Sumner,NM,USA,34.48339944,-104.2171967,,America/Denver,-6.0
+GNT,Grants-Milan Municipal Airport,Grants,NM,USA,35.16531472,-107.9006142,A,America/Denver,-6.0
+GUP,Gallup Municipal Airport,Gallup,NM,USA,35.51105833,-108.7893094,A,America/Denver,-6.0
+HOB,Lea County Regional Airport,Hobbs,NM,USA,32.68752778,-103.2170278,A,America/Denver,-6.0
+LAM,Los Alamos Airport,Los Alamos,NM,USA,35.87980194,-106.2694153,A,America/Denver,-6.0
+LRU,Las Cruces International Airport,Las Cruces,NM,USA,32.28941667,-106.9219722,A,America/Denver,-6.0
+LSB,Lordsburg Municipal,Lordsburg,NM,USA,32.33278083,-108.6909742,,America/Denver,-6.0
+LVS,Las Vegas Municipal Airport,Las Vegas,NM,USA,35.65422222,-105.1423889,A,America/Denver,-6.0
+N24,Questa Municipal Nr 2,Questa,NM,USA,36.80030556,-105.5975,,America/Denver,-6.0
+N29,Magdalena,Magdalena,NM,USA,34.09450778,-107.2978142,,America/Denver,-6.0
+ONM,Socorro Municipal,Socorro,NM,USA,34.02247222,-106.9031389,,America/Denver,-6.0
+Q14,San Juan Pueblo,Espanola,NM,USA,36.02502306,-106.0464114,,America/Denver,-6.0
+Q16,Reserve,Reserve,NM,USA,33.70005472,-108.8506214,,America/Denver,-6.0
+Q34,Portales Municipal,Portales,NM,USA,34.14547222,-103.4103333,,America/Denver,-6.0
+Q37,Carrizozo Municipal,Carrizozo,NM,USA,33.64886139,-105.895685,,America/Denver,-6.0
+Q42,Springer Municipal,Springer,NM,USA,36.32697806,-104.6197117,,America/Denver,-6.0
+Q58,Santa Rosa Municipal,Santa Rosa,NM,USA,34.93442472,-104.643065,,America/Denver,-6.0
+ROW,Roswell International Air Center Airport,Roswell,NM,USA,33.30155556,-104.5305556,A,America/Denver,-6.0
+RTN,Raton Municipal-Crews Field,Raton,NM,USA,36.74152778,-104.5021833,A,America/Denver,-6.0
+SAF,Santa Fe Municipal Airport,Santa Fe,NM,USA,35.61677778,-106.0881389,A,America/Denver,-6.0
+SKX,Saransk Airport,Taos,NM,USA,36.45819,-105.6724289,N,America/Denver,-6.0
+SRR,Sierra Blanca Regional,Ruidoso,NM,USA,33.46285,-105.5347508,,America/Denver,-6.0
+SVC,Grant County,Silver City,NM,USA,32.63654694,-108.15638529999998,,America/Denver,-6.0
+TCC,Tucumcari Municipal Airport,Tucumcari,NM,USA,35.18277806,-103.6031853,A,America/Denver,-6.0
+TCS,Truth Or Consequences Municipal Airport,Truth Or Consequences,NM,USA,33.23694444,-107.27175,A,America/Denver,-6.0
+ZUN,Black Rock,Zuni,NM,USA,35.08322694,-108.7917769,,America/Denver,-6.0

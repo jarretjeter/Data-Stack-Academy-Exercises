@@ -1,0 +1,51 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0I8,Cynthiana-Harrison County,Cynthiana,KY,USA,38.36674167,-84.28410056,,America/New_York,-4.0
+18I,McCreary County ,Pine Knot,KY,USA,36.69591306,-84.39160389,,America/New_York,-4.0
+1A6,Middlesboro-Bell County,Middlesboro,KY,USA,36.6106375,-83.73741611,,America/New_York,-4.0
+1M7,Fulton,Fulton,KY,USA,36.52589417,-88.91561611,,America/Chicago,-5.0
+27K,Georgetown-Scott County,Georgetown,KY,USA,38.23442528,-84.43468667,,America/New_York,-4.0
+2I0,Madisonville Municipal,Madisonville,KY,USA,37.35502778,-87.39963889,,America/Chicago,-5.0
+2M0,Princeton-Caldwell County,Princeton,KY,USA,37.11560444,-87.85556944,,America/Chicago,-5.0
+4M7,Russellville-Logan County,Russellville,KY,USA,36.79991667,-86.81016667,,America/Chicago,-5.0
+5M9,Marion-Crittenden County,Marion,KY,USA,37.33616222,-88.11113611,,America/Chicago,-5.0
+6I2,Lebanon-Springfield,Springfield,KY,USA,37.63355556,-85.24216667,,America/New_York,-4.0
+7K0,Pike County-Hatcher ,Pikeville,KY,USA,37.56173889,-82.56660694,,America/New_York,-4.0
+7K4,Ohio County ,Hartford,KY,USA,37.45832417,-86.84995194,,America/Chicago,-5.0
+9I3,West Liberty,West Liberty,KY,USA,37.91453139,-83.25212111,,America/New_York,-4.0
+AAS,Taylor County,Cambellsville,KY,USA,37.35827778,-85.30941667,,America/New_York,-4.0
+BRY,Samuels ,Bardstown,KY,USA,37.81432167,-85.49963806,,America/New_York,-4.0
+BWG,Bowling Green Warren County Regional Airport,Bowling Green,KY,USA,36.96451667,-86.41967917,A,America/Chicago,-5.0
+CEY,Kyle-Oakley ,Murray,KY,USA,36.66458333,-88.37277722,,America/Chicago,-5.0
+CVG,Cincinnati Northern Kentucky International Airport,Covington,KY,USA,39.04614278,-84.6621725,A,America/New_York,-4.0
+DVK,Stuart Powell ,Danville,KY,USA,37.57791667,-84.76969444,,America/New_York,-4.0
+DWU,Ashland-Boyd County,Ashland,KY,USA,38.5545,-82.738,,America/New_York,-4.0
+EHR,Henderson City-County,Henderson,KY,USA,37.8078425,-87.68569000000001,,America/Chicago,-5.0
+EKQ,Wayne County,Monticello,KY,USA,36.85527778,-84.85613889,,America/Kentucky/Monticello,-4.0
+EKX,Elizabethtown,Elizabethtown,KY,USA,37.68694444,-85.92377778,,America/New_York,-4.0
+FFT,Capital City Airport,Frankfort,KY,USA,38.18248861,-84.90470083,A,America/New_York,-4.0
+FGX,Fleming-Mason,Flemingsburg,KY,USA,38.54180556,-83.74338889,,America/New_York,-4.0
+GLW,Glasgow Municipal Airport,Glasgow,KY,USA,37.03205556,-85.95261111,A,America/Chicago,-5.0
+HVC,Hopkinsville-Christian County,Hopkinsville,KY,USA,36.85658333,-87.45725,,America/Chicago,-5.0
+I05,Sturgis Municipal,Sturgis,KY,USA,37.54083333,-87.95183333,,America/Chicago,-5.0
+I32,Morehead-Rowan County,Morehead,KY,USA,38.13341472,-83.53796528,,America/New_York,-4.0
+I35,Tucker-Guthrie Memorial,Harlan,KY,USA,36.85981028,-83.36101639,,America/New_York,-4.0
+I39,Madison County,Richmond,KY,USA,37.63152778,-84.33244444,,America/New_York,-4.0
+I50,Stanton,Stanton,KY,USA,37.85008167,-83.84575194,,America/New_York,-4.0
+I93,Breckinridge County,Hardinsburg,KY,USA,37.78505944,-86.44192194,,America/Chicago,-5.0
+IOB,Mt Sterling-Montgomery County,Mount Sterling,KY,USA,38.05813889,-83.97958333,,America/New_York,-4.0
+JKL,Kalymnos Airport,Jackson,KY,USA,37.59386111,-83.31725,E,America/New_York,-4.0
+K20,Wendell H. Ford,Hazard,KY,USA,37.38783833,-83.26205889,,America/New_York,-4.0
+K22,Big Sandy Regional,Prestonburg,KY,USA,37.75102778,-82.63669444,,America/New_York,-4.0
+K24,Russell County,Jamestown,KY,USA,37.00888889,-85.10277778,,America/Chicago,-5.0
+K62,Falmouth Pendleton County,Falmouth,KY,USA,38.70423611,-84.39160417,,America/New_York,-4.0
+LEX,Blue Grass Airport,Lexington,KY,USA,38.03697222,-84.60538889,A,America/New_York,-4.0
+LOU,Bowman Field,Louisville,KY,USA,38.228,-85.66372222,A,America/Kentucky/Louisville,-4.0
+LOZ,London-Corbin Airport/Magee Field,London,KY,USA,37.08727778,-84.07677778,A,America/New_York,-4.0
+M21,Muhlenberg County,Greenville,KY,USA,37.22561111,-87.15752778,,America/Chicago,-5.0
+M25,Mayfield-Graves County,Mayfield,KY,USA,36.76911111,-88.58472222,,America/Chicago,-5.0
+M34,Kentucky Dam State Park,Gilbertsville,KY,USA,37.00950028,-88.29586639,,America/Chicago,-5.0
+OWB,Owensboro Daviess County Airport,Owensboro,KY,USA,37.74011111,-87.16683333,A,America/Chicago,-5.0
+PAH,Barkley Regional Airport,Paducah,KY,USA,37.06083333,-88.77375,A,America/Chicago,-5.0
+SDF,Louisville International Standiford Field,Louisville,KY,USA,38.17438889,-85.736,A,America/Kentucky/Louisville,-4.0
+SME,Lake Cumberland Regional Airport,Somerset,KY,USA,37.05419722,-84.61494139,A,America/New_York,-4.0
+TZV,Tompkinsville-Monroe County,Tompkinsville,KY,USA,36.72978,-85.65191556,,America/Chicago,-5.0

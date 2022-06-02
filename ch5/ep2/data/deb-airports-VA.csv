@@ -1,0 +1,48 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0V4,Brookneal/Campbell County,Brookneal,VA,USA,37.14172222,-79.01638889,,America/New_York,-4.0
+6V3,Tazewell County,Richlands,VA,USA,37.06374667,-81.79826944,,America/New_York,-4.0
+AVC,Mecklenburg-Brunswick Regional,South Hill,VA,USA,36.68827778,-78.05447222,,America/New_York,-4.0
+BCB,Virginia Tech,Blacksburg,VA,USA,37.20782361,-80.40832778,,America/New_York,-4.0
+CHO,Charlottesville Albemarle Airport,Charlottesville,VA,USA,38.13863889,-78.45286111,A,America/New_York,-4.0
+CJR,Culpeper Regional,Culpeper,VA,USA,38.5267075,-77.85885528,,America/New_York,-4.0
+CPK,Chesapeake Municipal,Norfolk,VA,USA,36.66561833,-76.32066389,,America/New_York,-4.0
+CXE,Chase City Municipal,Chase City,VA,USA,36.78833556,-78.50155361,,America/New_York,-4.0
+DAN,Danville Regional Airport,Danville,VA,USA,36.57286111,-79.33611111,A,America/New_York,-4.0
+DCA,Ronald Reagan Washington National Airport,Arlington,VA,USA,38.85208333,-77.03772222,A,America/New_York,-4.0
+EMV,Emporia-Greensville Regional,Emporia,VA,USA,36.68691667,-77.48280556,,America/New_York,-4.0
+FCI,Chesterfield County,Richmond,VA,USA,37.4065375,-77.52498667,,America/New_York,-4.0
+FKN,Franklin Municipal-John Beverly Rose,Franklin,VA,USA,36.69817806,-76.90312694,,America/New_York,-4.0
+FRR,Front Royal-Warren County,Front Royal,VA,USA,38.9175325,-78.25351472,,America/New_York,-4.0
+FVX,Farmville Municipal,Farmville,VA,USA,37.35752861,-78.43779806,,America/New_York,-4.0
+GDY,Grundy Municipal,Grundy,VA,USA,37.23240111,-82.12499083,,America/New_York,-4.0
+HEF,Manassas Reg./Harry P Davis ,Manassas,VA,USA,38.72141667,-77.51544444,,America/New_York,-4.0
+HLX,Twin County,Galax,VA,USA,36.76611472,-80.82356556,,America/New_York,-4.0
+HSP,Ingalls ,Hot Springs,VA,USA,37.95144444,-79.83389444,,America/New_York,-4.0
+IAD,Washington Dulles International Airport,Chantilly,VA,USA,38.94453194,-77.45580972,A,America/New_York,-4.0
+JYO,Leesburg Executive ,Leesburg,VA,USA,39.07797222,-77.5575,,America/New_York,-4.0
+LKU,Louisa County / Freeman ,Louisa,VA,USA,38.00983333,-77.97013889,,America/New_York,-4.0
+LNP,Lonesome Pine,Wise,VA,USA,36.98743194,-82.53017361,,America/New_York,-4.0
+LYH,Lynchburg Regional Preston Glenn Field,Lynchburg,VA,USA,37.32668528,-79.20043056,A,America/New_York,-4.0
+MFV,Accomack County,Melfa,VA,USA,37.64688889,-75.76105556,,America/New_York,-4.0
+MKJ,Mountain Empire,Marion,VA,USA,36.8948525,-81.34995500000001,,America/New_York,-4.0
+MTV,Mota Lava Airport,Martinsville,VA,USA,36.63074861,-80.01834917,U,America/New_York,-4.0
+OFP,Hanover County Municipal,Richmond,VA,USA,37.7080325,-77.43601028,,America/New_York,-4.0
+OKV,Winchester Regional,Winchester,VA,USA,39.14352139,-78.14444444,,America/New_York,-4.0
+OMH,Urmia Airport,Orange,VA,USA,38.24721639,-78.04561028,E,America/New_York,-4.0
+ORF,Norfolk International Airport,Norfolk,VA,USA,36.89461111,-76.20122222,A,America/New_York,-4.0
+PHF,Newport News Williamsburg International Airport,Newport News,VA,USA,37.13189556,-76.4929875,A,America/New_York,-4.0
+PSK,New River Valley,Dublin,VA,USA,37.13734528,-80.67848167,,America/New_York,-4.0
+PTB,Dinwiddie County Airport,Petersburg,VA,USA,37.18375833,-77.50738889,A,America/New_York,-4.0
+PVG,Shanghai Pudong International Airport,Portsmouth,VA,USA,36.78014889,-76.44883472,U,America/New_York,-4.0
+RIC,Richmond International Airport,Richmond,VA,USA,37.50516667,-77.31966667,A,America/New_York,-4.0
+ROA,Roanoke–Blacksburg Regional Airport,Roanoke,VA,USA,37.32546833,-79.97542833,A,America/New_York,-4.0
+SFQ,Şanlıurfa Airport,Suffolk,VA,USA,36.68235361,-76.60187333,E,America/New_York,-4.0
+SHD,Shenandoah Valley Regional Airport,Staunton/Harrisonburg,VA,USA,38.26384333,-78.89643806,A,America/New_York,-4.0
+TGI,Tingo Maria Airport,Tangier,VA,USA,37.82513889,-75.99777778,N,America/New_York,-4.0
+VJI,Virginia Highlands,Abingdon,VA,USA,36.68711028,-82.03333583,,America/New_York,-4.0
+W31,Lunenburg County,Kenbridge,VA,USA,36.96015,-78.18499861,,America/New_York,-4.0
+W45,Luray Caverns,Luray,VA,USA,38.66705556,-78.50058333,,America/New_York,-4.0
+W66,Warrenton-Fauquier,Warrenton,VA,USA,38.58704667,-77.71138389,,America/New_York,-4.0
+W78,William M Tuck,South Boston,VA,USA,36.710045,-78.84802028,,America/New_York,-4.0
+W96,New Kent County,Quinton,VA,USA,37.50320139,-77.12552694,,America/New_York,-4.0
+W97,Middle Peninsula Regional,West Point,VA,USA,37.52122778,-76.76468249999999,,America/New_York,-4.0

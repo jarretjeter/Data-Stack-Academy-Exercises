@@ -1,0 +1,14 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0B7,Warren-Sugar Bush,Warren,VT,USA,44.11672722,-72.82705806,,America/New_York,-4.0
+1B3,Fair Haven,Fair Haven,VT,USA,43.61534389,-73.27455556,,America/New_York,-4.0
+2B9,Post Mills,Post Mills,VT,USA,43.884235,-72.25370333,,America/New_York,-4.0
+6B0,Middlebury State,Middlebury,VT,USA,43.98478278,-73.09594889,,America/New_York,-4.0
+6B8,Caledonia County State,Lyndonville,VT,USA,44.56911417,-72.01797889,,America/New_York,-4.0
+BTV,Burlington International Airport,Burlington,VT,USA,44.47300361,-73.1503125,A,America/New_York,-4.0
+DDH,William H. Morse State,Bennington,VT,USA,42.8913325,-73.24640749999999,,America/New_York,-4.0
+EFK,Newport State,Newport,VT,USA,44.88879722,-72.22915833,,America/New_York,-4.0
+FSO,Franklin County State,Highgate,VT,USA,44.94028083,-73.09746,,America/New_York,-4.0
+MPV,Edward F Knapp State Airport,Barre-Montpelier,VT,USA,44.203505,-72.56232944,A,America/New_York,-4.0
+MVL,Morrisville Stowe State Airport,Morrisville,VT,USA,44.53460806,-72.61400444,A,America/New_York,-4.0
+RUT,Rutland - Southern Vermont Regional Airport,Rutland,VT,USA,43.52990694,-72.94961500000001,A,America/New_York,-4.0
+VSF,Springfield State/Hartness,Springfield,VT,USA,43.34362889,-72.5173125,,America/New_York,-4.0

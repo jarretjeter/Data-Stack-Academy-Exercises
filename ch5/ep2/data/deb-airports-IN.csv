@@ -1,0 +1,66 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+05C,Griffith-Merrillville ,Griffith,IN,USA,41.51961917,-87.40109333,,America/Chicago,-5.0
+07C,Dekalb County,Auburn,IN,USA,41.30716667,-85.06433333,,America/Indiana/Indianapolis,-4.0
+1I9,Delphi Municipal,Delphi,IN,USA,40.54281417,-86.68167194,,America/Indiana/Indianapolis,-4.0
+4I7,Putnam County,Greencastle,IN,USA,39.63359556,-86.81383249999999,,America/Indiana/Indianapolis,-4.0
+50I,Kentland Municipal,Kentland,IN,USA,40.75873222,-87.42821917,,America/Chicago,-5.0
+5I4,Sheridan,Sheridan,IN,USA,40.17792583,-86.21729889,,America/Indiana/Indianapolis,-4.0
+AID,Anderson Municipal Darlington Field,Anderson,IN,USA,40.10862139,-85.61299472,A,America/Indiana/Indianapolis,-4.0
+ANQ,Tri State Steuben County Airport,Angola,IN,USA,41.63969833,-85.08349333,A,America/Indiana/Indianapolis,-4.0
+ASW,Aswan International Airport,Warsaw,IN,USA,41.2747,-85.84005556,U,America/Indiana/Indianapolis,-4.0
+BAK,Columbus Municipal,Columbus,IN,USA,39.26191861,-85.89634556,,America/Indiana/Indianapolis,-4.0
+BFR,Virgil I Grissom Municipal,Bedford,IN,USA,38.84003306,-86.44536361,,America/Indiana/Indianapolis,-4.0
+BMG,Monroe County Airport,Bloomington,IN,USA,39.14602139,-86.61668278,A,America/Indiana/Indianapolis,-4.0
+C62,Kendallville Municipal,Kendallville,IN,USA,41.47271639,-85.26080833,,America/Indiana/Indianapolis,-4.0
+C65,Plymouth Municipal,Plymouth,IN,USA,41.36513333,-86.30050417,,America/Indiana/Indianapolis,-4.0
+CEV,Mettel ,Connersville,IN,USA,39.69803139,-85.13124528,,America/Indiana/Indianapolis,-4.0
+CFJ,Crawfordsville Municipal,Crawfordsville,IN,USA,39.97562861,-86.91986361,,America/Indiana/Indianapolis,-4.0
+DCY,Daocheng Yading Airport,Washington,IN,USA,38.70042333,-87.12973222,N,America/Indiana/Vincennes,-4.0
+EKM,Elkhart Municipal,Elkhart,IN,USA,41.71935833,-86.00168361,,America/Indiana/Indianapolis,-4.0
+EVV,Evansville Regional Airport,Evansville,IN,USA,38.03799139,-87.53062667,A,America/Chicago,-5.0
+EYE,Eagle Creek Airpark,Indianapolis,IN,USA,39.83070944,-86.29438056,,America/Indiana/Indianapolis,-4.0
+FKR,Frankfort Municipal,Frankfort,IN,USA,40.27343083,-86.56217028,,America/Indiana/Indianapolis,-4.0
+FRH,French Lick Municipal,French Lick,IN,USA,38.50622139,-86.63693528,,America/Indiana/Indianapolis,-4.0
+FWA,Fort Wayne International Airport,Fort Wayne,IN,USA,40.97846583,-85.19514639,A,America/Indiana/Indianapolis,-4.0
+GEZ,Shelbyville Municipal,Shelbyville,IN,USA,39.58316583,-85.80481,,America/Indiana/Indianapolis,-4.0
+GGP,Logansport Municipal,Logansport,IN,USA,40.71126139,-86.37449917,,America/Indiana/Indianapolis,-4.0
+GSH,Goshen Municipal,Goshen,IN,USA,41.52716028,-85.79210278,,America/Indiana/Indianapolis,-4.0
+GYY,Gary Chicago International Airport,Gary,IN,USA,41.61627306,-87.41278806,A,America/Chicago,-5.0
+HFY,Greenwood Municipal,Indianapolis/Greenwood,IN,USA,39.62841667,-86.08788889,,America/Indiana/Indianapolis,-4.0
+HHG,Huntington Municipal,Huntington,IN,USA,40.852990000000005,-85.45941917,,America/Indiana/Indianapolis,-4.0
+HNB,Huntingburg,Huntingburg,IN,USA,38.24902583,-86.95371833,,America/Indiana/Vincennes,-4.0
+HUF,"Terre Haute Regional Airport, Hulman Field",Terre Haute,IN,USA,39.45146361,-87.30756111,A,America/Indiana/Indianapolis,-4.0
+I22,Randolph County,Winchester,IN,USA,40.16885083,-84.92585333,,America/Indiana/Indianapolis,-4.0
+I34,Greensburg-Decatur County ,Greensburg,IN,USA,39.32691111,-85.52252694,,America/Indiana/Indianapolis,-4.0
+I42,Paoli Municipal,Paoli,IN,USA,38.58338806,-86.46248778,,America/Indiana/Indianapolis,-4.0
+I76,Peru Municipal,Peru,IN,USA,40.78631889,-86.14638306,,America/Indiana/Indianapolis,-4.0
+I83,Salem Municipal,Salem,IN,USA,38.60200167,-86.13997889,,America/Indiana/Indianapolis,-4.0
+IMS,Madison Municipal,Madison,IN,USA,38.75888889,-85.46552778,,America/Indiana/Indianapolis,-4.0
+IN03,Indianapolis Downtown,Indianapolis,IN,USA,39.76587639,-86.148875,,America/Indiana/Indianapolis,-4.0
+IND,Indianapolis International Airport,Indianapolis,IN,USA,39.71732917,-86.29438417,A,America/Indiana/Indianapolis,-4.0
+IWH,Wabash Municipal,Wabash,IN,USA,40.76195972,-85.79873417,,America/Indiana/Indianapolis,-4.0
+JVY,Clark County,Jeffersonville,IN,USA,38.36562278,-85.73829639,,America/Kentucky/Louisville,-4.0
+LAF,Purdue University Airport,Lafayette,IN,USA,40.41231694,-86.93689889,A,America/Indiana/Indianapolis,-4.0
+MCX,Uytash Airport,Monticello,IN,USA,40.70881639,-86.76676139,N,America/Indiana/Indianapolis,-4.0
+MGC,Michigan City Municipal Airport,Michigan City,IN,USA,41.70331694,-86.82124167,A,America/Chicago,-5.0
+MIE,Delaware County Johnson Field,Muncie,IN,USA,40.24234806,-85.39586,U,America/Indiana/Indianapolis,-4.0
+MQJ,Moma Airport,Indianapolis,IN,USA,39.84348556,-85.89706389,N,America/Indiana/Indianapolis,-4.0
+MZZ,Marion Municipal,Marion,IN,USA,40.49037278,-85.67914389,,America/Indiana/Indianapolis,-4.0
+OKK,Kokomo Municipal Airport,Kokomo,IN,USA,40.528177500000005,-86.05899000000001,A,America/Indiana/Indianapolis,-4.0
+OVO,North Vernon,North Vernon,IN,USA,39.04563667,-85.60533000000001,,America/Indiana/Indianapolis,-4.0
+OXI,Starke County,Knox,IN,USA,41.3301875,-86.66473194,,America/Indiana/Knox,-5.0
+PLD,Playa Samara/Carrillo Airport,Portland,IN,USA,40.45076167,-84.99007917,U,America/Indiana/Indianapolis,-4.0
+PPO,La Porte Municipal,La Porte,IN,USA,41.57276194,-86.73413139,,America/Chicago,-5.0
+RCR,Fulton County,Rochester,IN,USA,41.06554833,-86.18170444,,America/Indiana/Indianapolis,-4.0
+RID,Richmond Municipal,Richmond,IN,USA,39.75721528,-84.84281999999999,,America/Indiana/Indianapolis,-4.0
+RWN,Rivne International Airport,Winamac,IN,USA,41.09226306,-86.61287111,E,America/Indiana/Winamac,-4.0
+RZL,Jasper County,Rensselaer,IN,USA,40.94789861,-87.18257944,,America/Chicago,-5.0
+SBN,South Bend Regional Airport,South Bend,IN,USA,41.70895361,-86.31847417,A,America/Indiana/Indianapolis,-4.0
+SER,Freeman Municipal,Seymour,IN,USA,38.92355361,-85.90736556,,America/Indiana/Indianapolis,-4.0
+SIV,Sullivan County,Sullivan,IN,USA,39.1147125,-87.44832917,,America/Indiana/Indianapolis,-4.0
+SMD,Smith Field,Fort Wayne,IN,USA,41.14335389,-85.15277694,A,America/Indiana/Indianapolis,-4.0
+TEL,Perry County Municipal,Tell City,IN,USA,38.01769694,-86.69093000000001,,America/Indiana/Tell_City,-5.0
+TYQ,Indianapolis Terry,Indianapolis,IN,USA,40.03064972,-86.2514375,,America/Indiana/Indianapolis,-4.0
+UMP,Indianapolis Metropolitan,Indianapolis,IN,USA,39.9352025,-86.04495333,,America/Indiana/Indianapolis,-4.0
+UWL,New Castle-Henry Co ,New Castle,IN,USA,39.87585167,-85.32646806,,America/Indiana/Indianapolis,-4.0
+VPZ,Porter County Municipal Airport,Valparaiso,IN,USA,41.45396667,-87.00707139,A,America/Chicago,-5.0

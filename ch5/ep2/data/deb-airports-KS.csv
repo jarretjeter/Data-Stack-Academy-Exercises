@@ -1,0 +1,79 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0H1,Trego Wakeeney ,Wakeeney,KS,USA,39.0044525,-99.89289917,,America/Chicago,-5.0
+13K,Eureka Municipal,Eureka,KS,USA,37.8515825,-96.29169806,,America/Chicago,-5.0
+1K9,Satanta Municipal,Satanta,KS,USA,37.45419111,-100.9921119,,America/Chicago,-5.0
+2K3,Stanton County Municipal,Johnson,KS,USA,37.58271111,-101.73281,,America/Chicago,-5.0
+36K,Lakin,Lakin,KS,USA,37.96946389,-101.2554472,,America/Chicago,-5.0
+3AU,Augusta Municipal,Augusta,KS,USA,37.67162778,-97.07787222,,America/Chicago,-5.0
+3JC,Freeman ,Junction City,KS,USA,39.04327556,-96.84328694,,America/Chicago,-5.0
+3K3,Syracuse-Hamilton County Municipal,Syracuse,KS,USA,37.99167972,-101.7462822,,America/Denver,-6.0
+3K7,Mark Hoard Memorial,Leoti,KS,USA,38.45696333,-101.3532161,,America/Chicago,-5.0
+48K,Ness City Municipal,Ness City,KS,USA,38.47110278,-99.90806667,,America/Chicago,-5.0
+53K,Osage City Municipal,Osage City,KS,USA,38.63334222,-95.80859806,,America/Chicago,-5.0
+5K2,Tribune Municipal,Tribune,KS,USA,38.45418222,-101.7462828,,America/Denver,-6.0
+8K8,Cimarron Municipal,Cimarron,KS,USA,37.83057667,-100.3504222,,America/Chicago,-5.0
+9K7,Ellsworth Municipal ,Ellsworth,KS,USA,38.74750889,-98.23061222,,America/Chicago,-5.0
+9K8,Kingman Municipal,Kingman,KS,USA,37.66660278,-98.12264722,,America/Chicago,-5.0
+AAO,Anaco Airport,Wichita,KS,USA,37.74755556,-97.22113889,U,America/Chicago,-5.0
+ADT,Ada Regional Airport,Atwood,KS,USA,39.84013889,-101.0420278,A,America/Chicago,-5.0
+ANY,Anthony Municipal,Anthony,KS,USA,37.15852194,-98.07964667,,America/Chicago,-5.0
+CBK,Shaltz ,Colby,KS,USA,39.42753083,-101.0465719,,America/Chicago,-5.0
+CFV,Coffeyville Municipal Airport,Coffeyville,KS,USA,37.0940475,-95.57189417,A,America/Chicago,-5.0
+CNK,Blosser Municipal,Concordia,KS,USA,39.54925139,-97.65231667,,America/Chicago,-5.0
+CNU,Chanute Martin Johnson Airport,Chanute,KS,USA,37.66879722,-95.48506444,\N,America/Chicago,-5.0
+CYW,Captain Rogelio Castillo National Airport,Clay Center,KS,USA,39.38713889,-97.15721417,S,America/Chicago,-5.0
+DDC,Dodge City Regional Airport,Dodge City,KS,USA,37.76312194,-99.96542389,A,America/Chicago,-5.0
+EGT,Wellington Municipal,Wellington,KS,USA,37.32441028,-97.38732333,,America/Chicago,-5.0
+EHA,Elkhart-Morton County,Elkhart,KS,USA,37.00188194,-101.8821258,,America/Chicago,-5.0
+EMP,Emporia Municipal Airport,Emporia,KS,USA,38.33211111,-96.19116667,E,America/Chicago,-5.0
+EQA,Captain Jack Thomas,El Dorado,KS,USA,37.77410833,-96.81762778,,America/Chicago,-5.0
+EWK,Newton City-County Airport,Newton,KS,USA,38.05710528,-97.27522861,A,America/Chicago,-5.0
+FOE,Topeka Regional Airport - Forbes Field,Topeka,KS,USA,38.95095194,-95.66361444,A,America/Chicago,-5.0
+FSK,Fort Scott Municipal,Fort Scott,KS,USA,37.79843056,-94.76938111,,America/Chicago,-5.0
+GBD,Great Bend Municipal Airport,Great Bend,KS,USA,38.34441861,-98.85917028,A,America/Chicago,-5.0
+GCK,Garden City Regional Airport,Garden City,KS,USA,37.92751556,-100.7244147,A,America/Chicago,-5.0
+GLD,Renner Field-Goodland Municipal Airport,Goodland,KS,USA,39.37062194,-101.6989919,A,America/Denver,-6.0
+HLC,Hill City Municipal,Hill City,KS,USA,39.37883611,-99.83149444,,America/Chicago,-5.0
+HQG,Hugoton Municipal,Hugoton,KS,USA,37.16308056,-101.3705267,,America/Chicago,-5.0
+HRU,Herington Municipal,Herington,KS,USA,38.68322389,-96.80800639,,America/Chicago,-5.0
+HUT,Hutchinson Municipal Airport,Hutchinson,KS,USA,38.06548306,-97.86063361,A,America/Chicago,-5.0
+HYS,Hays Regional Airport,Hays,KS,USA,38.84494167,-99.27403361,A,America/Chicago,-5.0
+ICT,Wichita Eisenhower National Airport,Wichita,KS,USA,37.64995889,-97.43304583,A,America/Chicago,-5.0
+IDP,Independence Municipal Airport,Independence,KS,USA,37.15837222,-95.77838333,A,America/Chicago,-5.0
+IXD,Allahabad Airport,Olathe,KS,USA,38.83090472,-94.89030333,N,America/Chicago,-5.0
+K34,Municipal,Gardner,KS,USA,38.80708333,-94.95602778,,America/Chicago,-5.0
+K59,Amelia Earhart,Atchison,KS,USA,39.57052472,-95.18033139,,America/Chicago,-5.0
+K61,Moritz Memorial,Beloit,KS,USA,39.47115222,-98.12878389,,America/Chicago,-5.0
+K67,Oswego Municipal,Oswego,KS,USA,37.15978667,-95.04246222,,America/Chicago,-5.0
+K68,Garnett Municipal,Garnett,KS,USA,38.27918833,-95.21691833,,America/Chicago,-5.0
+K78,Abilene Municipal,Abilene.,KS,USA,38.90405583,-97.23585389,,America/Chicago,-5.0
+K81,Miami County,Paola,KS,USA,38.53751389,-94.92524194,,America/Chicago,-5.0
+K82,Smith Center Municipal,Smith Center,KS,USA,39.76112278,-98.79343639,,America/Chicago,-5.0
+K83,Sabetha Municipal,Sabetha,KS,USA,39.90416667,-95.7794325,,America/Chicago,-5.0
+K88,Allen County,Iola,KS,USA,37.87008333,-95.38638889,,America/Chicago,-5.0
+LBL,Liberal Mid-America Regional Airport,Liberal,KS,USA,37.04420944,-100.9598611,A,America/Chicago,-5.0
+LQR,Larned-Pawnee County,Larned,KS,USA,38.20809667,-99.08607306,,America/Chicago,-5.0
+LWC,Lawrence Municipal Airport,Lawrence,KS,USA,39.01115222,-95.21657694,A,America/Chicago,-5.0
+LYO,Lyons-Rice County Municipal,Lyons,KS,USA,38.34261472,-98.22709639,,America/Chicago,-5.0
+MEJ,Meade Municipal,Meade,KS,USA,37.27938889,-100.3563056,,America/Chicago,-5.0
+MHK,Manhattan Regional Airport,Manhattan,KS,USA,39.14096722,-96.67083278,A,America/Chicago,-5.0
+MPR,McPherson,McPherson,KS,USA,38.35243722,-97.69133028,,America/Chicago,-5.0
+MYZ,Monkey Bay Airport,Marysville,KS,USA,39.85416833,-96.63021389,N,America/Chicago,-5.0
+NRN,Weeze Airport,Norton,KS,USA,39.84914444,-99.89320583,E,America/Chicago,-5.0
+OEL,Oryol Yuzhny Airport,Oakley,KS,USA,39.10994444,-100.8164444,A,America/Chicago,-5.0
+OIN,Oberlin Municipal,Oberlin,KS,USA,39.83378278,-100.5394236,,America/Chicago,-5.0
+OJC,Johnson County Executive Airport,Olathe,KS,USA,38.84760194,-94.73758583,A,America/Chicago,-5.0
+OWI,Ottawa Municipal,Ottawa,KS,USA,38.53866667,-95.25297222,,America/Chicago,-5.0
+PHG,Phillipsburg Municipal,Phillipsburg,KS,USA,39.73530556,-99.31741667,,America/Chicago,-5.0
+PPF,Tri-City Airport,Parsons,KS,USA,37.33125778,-95.50900667,A,America/Chicago,-5.0
+PTS,Atkinson Municipal,Pittsburg,KS,USA,37.44855556,-94.73133333,,America/Chicago,-5.0
+PTT,Pratt Regional Airport,Pratt,KS,USA,37.7000175,-98.7462025,A,America/Chicago,-5.0
+RPB,Roper Bar Airport,Belleville,KS,USA,39.81790861,-97.659625,U,America/Chicago,-5.0
+RSL,Russell Municipal Airport,Russell,KS,USA,38.87212222,-98.81177611,\N,America/Chicago,-5.0
+SLN,Salina Municipal Airport,Salina,KS,USA,38.7914825,-97.65060333,A,America/Chicago,-5.0
+SYF,Cheyenne County Municipal,St Francis,KS,USA,39.76104833,-101.7958414,,America/Chicago,-5.0
+TOP,Philip Billard Municipal Airport,Topeka,KS,USA,39.0686575,-95.62248361,A,America/Chicago,-5.0
+TQK,Scott City Municipal,Scott City,KS,USA,38.47427778,-100.8849444,,America/Chicago,-5.0
+UKL,Coffey County,Burlington,KS,USA,38.30248472,-95.7249575,,America/Chicago,-5.0
+ULS,Ulysses,Ulysses,KS,USA,37.60375278,-101.3733889,,America/Chicago,-5.0
+WLD,Strother Field,Winfield/Arkansas City,KS,USA,37.16861556,-97.03752194,A,America/Chicago,-5.0

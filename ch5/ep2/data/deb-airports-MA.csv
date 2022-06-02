@@ -1,0 +1,31 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0B5,Turners Falls,Montague,MA,USA,42.59136361,-72.52275472,,America/New_York,-4.0
+1B9,Mansfield Municipal,Mansfield,MA,USA,42.00013306,-71.19677139,,America/New_York,-4.0
+32M,Norfolk,Norfolk,MA,USA,42.12787528,-71.37033556,,America/New_York,-4.0
+3B0,Southbridge Municipal,Southbridge,MA,USA,42.10092806,-72.03840833,,America/New_York,-4.0
+3B2,Marshfield,Marshfield,MA,USA,42.09824111,-70.67212083,,America/New_York,-4.0
+6B6,Minute Man Airfield,Stow,MA,USA,42.46045361,-71.51791444,,America/New_York,-4.0
+7B2,La Fleur,Northampton,MA,USA,42.32816806,-72.61151667,,America/New_York,-4.0
+ACK,Nantucket Memorial Airport,Nantucket,MA,USA,41.25305194,-70.06018139,A,America/New_York,-4.0
+AQW,Harriman And West,North Adams,MA,USA,42.69591417,-73.17038306,,America/New_York,-4.0
+BAF,Westfield-Barnes Regional Airport,Westfield,MA,USA,42.15773111,-72.71562028,A,America/New_York,-4.0
+BED,Laurence G Hanscom Field,Bedford,MA,USA,42.46995306,-71.28903000000001,A,America/New_York,-4.0
+BOS,General Edward Lawrence Logan International Airport,Boston,MA,USA,42.3643475,-71.00517917,A,America/New_York,-4.0
+BVY,Beverly Municipal Airport,Beverly,MA,USA,42.58417111,-70.91651833,A,America/New_York,-4.0
+CEF,Westover ARB/Metropolitan Airport,Chicopee,MA,USA,42.19826389,-72.53425833,A,America/New_York,-4.0
+CQX,Chatham Municipal,Chatham,MA,USA,41.68840028,-69.98952417,,America/New_York,-4.0
+EWB,New Bedford Regional Airport,New Bedford,MA,USA,41.67614167,-70.95694167,A,America/New_York,-4.0
+FIT,Fitchburg Municipal,Fitchburg,MA,USA,42.55412194,-71.75895639,,America/New_York,-4.0
+GBR,Great Barrington,Great Barrington,MA,USA,42.18421417,-73.40324056,,America/New_York,-4.0
+GDM,Gardner Municipal,Gardner,MA,USA,42.54986639,-72.01602194,,America/New_York,-4.0
+HYA,Barnstable Municipal Boardman Polando Field,Hyannis,MA,USA,41.66933639,-70.28035583,A,America/New_York,-4.0
+LWM,Lawrence Municipal Airport,Lawrence,MA,USA,42.71720944,-71.12343,A,America/New_York,-4.0
+MVY,Martha's Vineyard Airport,Marthas Vineyard,MA,USA,41.39302583,-70.61433249999999,A,America/New_York,-4.0
+ORE,Orléans-Bricy (BA 123) Air Base,Orange,MA,USA,42.57011889,-72.28860667,E,America/New_York,-4.0
+ORH,Worcester Regional Airport,Worcester,MA,USA,42.26733944,-71.87570944,A,America/New_York,-4.0
+OWD,Norwood Memorial Airport,Norwood,MA,USA,42.19079694,-71.17310389,A,America/New_York,-4.0
+PMX,Metropolitan,Palmer,MA,USA,42.22328722,-72.31138694,,America/New_York,-4.0
+PSF,Pittsfield Municipal,Pittsfield,MA,USA,42.42684667,-73.29292806,,America/New_York,-4.0
+PVC,Provincetown Municipal Airport,Provincetown,MA,USA,42.07199833,-70.22137667,A,America/New_York,-4.0
+PYM,Plymouth Municipal Airport,Plymouth,MA,USA,41.90902444,-70.72878778,A,America/New_York,-4.0
+TAN,Taunton Municipal,Taunton,MA,USA,41.87460139,-71.01687583,,America/New_York,-4.0

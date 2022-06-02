@@ -1,0 +1,74 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+02A,Gragg-Wade ,Clanton,AL,USA,32.85048667,-86.61145333,,America/Chicago,-5.0
+06A,Moton  Municipal,Tuskegee,AL,USA,32.46047167,-85.68003611,,America/Chicago,-5.0
+08A,Wetumpka Municipal,Wetumpka,AL,USA,32.52943944,-86.32822139,,America/Chicago,-5.0
+09A,Butler-Choctaw County,Butler,AL,USA,32.11931306,-88.1274625,,America/Chicago,-5.0
+0A8,Bibb County,Centreville,AL,USA,32.93679056,-87.08888306,,America/Chicago,-5.0
+0J0,Abbeville Municipal,Abbeville,AL,USA,31.60016778,-85.23882222,,America/Chicago,-5.0
+0J4,Florala Municipal,Florala,AL,USA,31.04247361,-86.31156111,,America/Chicago,-5.0
+0J6,Headland Municipal,Headland,AL,USA,31.364895,-85.30965556,,America/Chicago,-5.0
+0R1,Atmore Municipal,Atmore,AL,USA,31.01621528,-87.44675972,,America/Chicago,-5.0
+11A,Clayton Municipal,Clayton,AL,USA,31.88329917,-85.48491361,,America/Chicago,-5.0
+12J,Brewton Municipal,Brewton,AL,USA,31.05126306,-87.06796833,,America/Chicago,-5.0
+14J,Carl Folsom,Elba,AL,USA,31.40988861,-86.08883583,,America/Chicago,-5.0
+1A9,Autauga County,Prattville,AL,USA,32.438775,-86.51044778,,America/Chicago,-5.0
+1M4,Posey ,Haleyville,AL,USA,34.28034806,-87.60044139,,America/Chicago,-5.0
+1R8,Bay Minette Municipal,Bay Minette,AL,USA,30.87046278,-87.81738167,,America/Chicago,-5.0
+20A,Robbins ,Oneonta,AL,USA,33.97231972,-86.37942722,,America/Chicago,-5.0
+26A,Ashland/Lineville,Ashland/Lineville,AL,USA,33.28761417,-85.80412861,,America/Chicago,-5.0
+2R5,St Elmo,St Elmo,AL,USA,30.50190833,-88.27511667,,America/Chicago,-5.0
+33J,Geneva Municipal,Geneva,AL,USA,31.05527778,-85.88033333,,America/Chicago,-5.0
+3A0,Grove Hill Municipal,Grove Hill,AL,USA,31.68932389,-87.7613875,,America/Chicago,-5.0
+3A1,Folsom ,Cullman,AL,USA,34.26870833,-86.85833611,,America/Chicago,-5.0
+3M8,North Pickens ,Reform,AL,USA,33.38900611,-88.00557806,,America/Chicago,-5.0
+4A6,Scottsboro Municipal,Scottsboro,AL,USA,34.68897278,-86.0058125,,America/Chicago,-5.0
+4A9,Isbell ,Fort Payne,AL,USA,34.4728925,-85.72221722,,America/Chicago,-5.0
+4R3,Jackson Municipal,Jackson,AL,USA,31.47210861,-87.89472083,,America/Chicago,-5.0
+4R4,Fairhope Municipal,Fairhope,AL,USA,30.4621125,-87.87801972,,America/Chicago,-5.0
+4R9,Dauphin Island,Dauphin Island,AL,USA,30.26048083,-88.12749972,,America/Chicago,-5.0
+5M0,Rountree ,Hartselle,AL,USA,34.40823444,-86.93295056,,America/Chicago,-5.0
+5R4,Foley Municipal,Foley,AL,USA,30.42769722,-87.70082,,America/Chicago,-5.0
+61A,Camden Municipal,Camden,AL,USA,31.97987056,-87.33888056,,America/Chicago,-5.0
+71J,Blackwell ,Ozark,AL,USA,31.43113889,-85.61922222,,America/Chicago,-5.0
+79J,Andalusia,Andalusia,AL,USA,31.30875278,-86.39376083,,America/Chicago,-5.0
+7A0,Greensboro Municipal,Greensboro,AL,USA,32.68147222,-87.66208333,,America/Chicago,-5.0
+7A2,Demopolis Municipal,Demopolis,AL,USA,32.46381944,-87.95406389,,America/Chicago,-5.0
+7A3,Lanett Municipal,Lanett,AL,USA,32.81204611,-85.22958111,,America/New_York,-4.0
+7A5,Roanoke Municipal,Roanoke,AL,USA,33.12928722,-85.366615,,America/Chicago,-5.0
+8A0,Albertville Municipal ,Albertville,AL,USA,34.22910972,-86.25575806,,America/Chicago,-5.0
+8A1,Guntersville Municipal,Guntersville,AL,USA,34.39944167,-86.27016111,,America/Chicago,-5.0
+9A4,Lawrence County ,Courtland,AL,USA,34.65938889,-87.34883333,,America/Chicago,-5.0
+A04,Centre Municipal,Centre,AL,USA,34.15987361,-85.63512944,,America/Chicago,-5.0
+AIV,George Downer ,Aliceville,AL,USA,33.10706889,-88.19725167,,America/Chicago,-5.0
+AL08,Vaiden ,Marion,AL,USA,32.51235611,-87.38555472,,America/Chicago,-5.0
+ALX,Thomas C Russell Field,Alexander City,AL,USA,32.91475167,-85.96295611,A,America/Chicago,-5.0
+ANB,Anniston Regional Airport,Anniston,AL,USA,33.58816667,-85.85811111,A,America/Chicago,-5.0
+ASN,Talladega Municipal Airport,Talladega,AL,USA,33.56991111,-86.05085833,A,America/Chicago,-5.0
+AUO,Auburn University Regional Airport,Auburn,AL,USA,32.61635417,-85.43355944,A,America/Chicago,-5.0
+BFM,Mobile Downtown Airport,Mobile,AL,USA,30.62646944,-88.06799861,A,America/Chicago,-5.0
+BHM,Birmingham-Shuttlesworth International Airport,Birmingham,AL,USA,33.56294306,-86.75354972,A,America/Chicago,-5.0
+DCU,Pryor Field Regional Airport,Decatur,AL,USA,34.65264667,-86.94536778,A,America/Chicago,-5.0
+DHN,Dothan Regional Airport,Dothan,AL,USA,31.32133917,-85.44962889,A,America/Chicago,-5.0
+EDN,Enterprise Municipal,Enterprise,AL,USA,31.29972222,-85.89986111,,America/Chicago,-5.0
+EET,Shelby County,Alabaster,AL,USA,33.17781083,-86.78323722,,America/Chicago,-5.0
+EKY,Bessemer Municipal,Bessemer,AL,USA,33.31288444,-86.92591889,,America/Chicago,-5.0
+EUF,Weedon Field,Eufaula,AL,USA,31.95131917,-85.128925,A,America/Chicago,-5.0
+GAD,Northeast Alabama Regional Airport,Gadsden,AL,USA,33.97262528,-86.08900139,A,America/Chicago,-5.0
+GZH,Middleton ,Evergreen,AL,USA,31.41580111,-87.04404333,,America/Chicago,-5.0
+HAB,Marion County,Hamilton,AL,USA,34.11757222,-87.99819583,,America/Chicago,-5.0
+HSV,Huntsville International Carl T Jones Field,Huntsville,AL,USA,34.6404475,-86.77310944,A,America/Chicago,-5.0
+JFX,Walker County,Jasper,AL,USA,33.90199528,-87.31416639,,America/Chicago,-5.0
+JKA,Jack Edwards,Gulf Shores,AL,USA,30.28951667,-87.67371472,,America/Chicago,-5.0
+M22,Russellville Municipal,Russellville,AL,USA,34.44953972,-87.71030833,,America/Chicago,-5.0
+M82,Madison County Executive ,Huntsville,AL,USA,34.85645028,-86.55621472,,America/Chicago,-5.0
+M95,Richard Arthur ,Fayette,AL,USA,33.71221972,-87.81504639,,America/Chicago,-5.0
+MGM,Montgomery Regional (Dannelly Field) Airport,Montgomery,AL,USA,32.30064417,-86.39397611,A,America/Chicago,-5.0
+MOB,Mobile Regional Airport,Mobile,AL,USA,30.69141667,-88.24283333,A,America/Chicago,-5.0
+MSL,Northwest Alabama Regional Airport,Muscle Shoals,AL,USA,34.74532028,-87.61023222,A,America/Chicago,-5.0
+MVC,Monroe County,Monroeville,AL,USA,31.45805306,-87.35104028,,America/Chicago,-5.0
+PLR,St Clair County,Pell City,AL,USA,33.55883333,-86.24905556,,America/Chicago,-5.0
+PRN,Priština International Airport,Greenville,AL,USA,31.84540222,-86.61044583,E,America/Chicago,-5.0
+SCD,Merkel Field Sylacauga Municipal ,Sylacauga,AL,USA,33.17183583,-86.30553778,,America/Chicago,-5.0
+SEM,Craig Field,Selma,AL,USA,32.34394667,-86.98780333,A,America/Chicago,-5.0
+TCL,Tuscaloosa Regional Airport,Tuscaloosa,AL,USA,33.2206275,-87.61140139,A,America/Chicago,-5.0
+TOI,Troy Municipal Airport at N Kenneth Campbell Field,Troy,AL,USA,31.86041667,-86.01213889,A,America/Chicago,-5.0

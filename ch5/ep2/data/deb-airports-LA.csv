@@ -1,0 +1,56 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0M8,Byerley,Lake Providence,LA,USA,32.82587917,-91.187665,,America/Chicago,-5.0
+0R3,Abbeville Chris Crusta Memorial,Abbeville,LA,USA,29.97576083,-92.08415167,,America/Chicago,-5.0
+0R4,Concordia Parish,Vidalia,LA,USA,31.56683278,-91.50011889,,America/Chicago,-5.0
+0R5,David G Joyce,Winnfield,LA,USA,31.96366222,-92.66026056,,America/Chicago,-5.0
+0R7,Red River,Coushatta,LA,USA,31.99071694,-93.30739306,,America/Chicago,-5.0
+1L0,St. John the Baptist Parish,Reserve,LA,USA,30.08720833,-90.58266528,,America/Chicago,-5.0
+1R1,Jena,Jena,LA,USA,31.671005,-92.15846722,,America/Chicago,-5.0
+2F8,Morehouse Memorial,Bastrop,LA,USA,32.75607944,-91.88057194,,America/Chicago,-5.0
+3F3,De Soto Parish,Mansfield,LA,USA,32.07345972,-93.76551889,,America/Chicago,-5.0
+3F4,Vivian,Vivian,LA,USA,32.86133333,-94.01015361,,America/Chicago,-5.0
+3R2,Le Gros Memorial,Crowley,LA,USA,30.16173611,-92.48396111,,America/Chicago,-5.0
+3R4,Hart,Many,LA,USA,31.54489667,-93.48645306,,America/Chicago,-5.0
+3R7,Jennings,Jennings,LA,USA,30.24269333,-92.67344778,,America/Chicago,-5.0
+4R7,Eunice,Eunice,LA,USA,30.46628389,-92.42379917,,America/Chicago,-5.0
+5F4,Homer Municipal,Homer,LA,USA,32.78850806,-93.00366083,,America/Chicago,-5.0
+5R8,De Quincy Industrial Airpark,De Quincy,LA,USA,30.44117222,-93.47349722,,America/Chicago,-5.0
+7N0,New Orleans Downtown Heliport,New Orleans,LA,USA,29.95194444,-90.08166667,,America/Chicago,-5.0
+9M6,Kelly,Oak Grove,LA,USA,32.84921361,-91.40390611,,America/Chicago,-5.0
+AEX,Alexandria International Airport,Alexandria,LA,USA,31.32737167,-92.54855611,A,America/Chicago,-5.0
+ARA,Acadiana Regional Airport,New Iberia,LA,USA,30.03775833,-91.88389611,A,America/Chicago,-5.0
+ASD,Andros Town Airport,Slidell,LA,USA,30.345055,-89.82078833,U,America/Chicago,-5.0
+BTR,Baton Rouge Metropolitan Airport,Baton Rouge,LA,USA,30.53316083,-91.14963444,A,America/Chicago,-5.0
+BXA,George R Carr Memorial,Bogalusa,LA,USA,30.81368639,-89.86496444,,America/Chicago,-5.0
+CWF,Chennault International ,Lake Charles,LA,USA,30.21059167,-93.14318944,,America/Chicago,-5.0
+DRI,Beauregard Regional Airport,De Ridder,LA,USA,30.83152778,-93.33963889,A,America/Chicago,-5.0
+DTN,Shreveport Downtown Airport,Shreveport,LA,USA,32.54021889,-93.7450225,A,America/Chicago,-5.0
+ESF,Esler Regional Airport,Alexandria,LA,USA,31.3949025,-92.29577194,A,America/Chicago,-5.0
+F24,Minden-Webster,Minden,LA,USA,32.64601,-93.29808556,,America/Chicago,-5.0
+F87,Farmerville,Farmerville,LA,USA,32.72495583,-92.33716583,,America/Chicago,-5.0
+F88,Jonesboro,Jonesboro,LA,USA,32.20199028,-92.73293028,,America/Chicago,-5.0
+F89,Winnsboro Municipal,Winnsboro,LA,USA,32.15431917,-91.70012472,,America/Chicago,-5.0
+HDC,Hammond Municipal,Hammond,LA,USA,30.52096889,-90.41762056,,America/Chicago,-5.0
+HUM,Houma-Terrebonne,Houma,LA,USA,29.5665,-90.66041667,,America/Chicago,-5.0
+HZR,False River Air Park,New Roads,LA,USA,30.71832333,-91.47866972,,America/Chicago,-5.0
+IER,Natchitoches Municipal,Natchitoches,LA,USA,31.73572,-93.09913639,,America/Chicago,-5.0
+L31,Greater St. Tammany Parish ,Covington,LA,USA,30.44505417,-89.98887889,,America/Chicago,-5.0
+L38,Louisiana Regional,Gonzales,LA,USA,30.17135306,-90.94039583,,America/Chicago,-5.0
+L39,Leesville,Leesville,LA,USA,31.16819444,-93.34245833,,America/Chicago,-5.0
+L42,Allen Parish,Oakdale,LA,USA,30.75016667,-92.68847222,,America/Chicago,-5.0
+L49,South Lafourche,Galliano,LA,USA,29.44482222,-90.26111667,,America/Chicago,-5.0
+L75,Southland ,Sulphur,LA,USA,30.13138889,-93.37611111,,America/Chicago,-5.0
+L83,Thibodaux Municipal,Thibodaux,LA,USA,29.74779194,-90.83289889,,America/Chicago,-5.0
+LCH,Lake Charles Regional Airport,Lake Charles,LA,USA,30.1260975,-93.22340361,A,America/Chicago,-5.0
+LFT,Lafayette Regional Airport,Lafayette,LA,USA,30.20527972,-91.987655,A,America/Chicago,-5.0
+M79,John H Hooks Jr Memorial,Rayville,LA,USA,32.48633611,-91.77087528,,America/Chicago,-5.0
+MKV,Marksville Municipal,Marksville,LA,USA,31.09466,-92.06906861,,America/Chicago,-5.0
+MLU,Monroe Regional Airport,Monroe,LA,USA,32.51086556,-92.03768778,A,America/Chicago,-5.0
+MSY,Louis Armstrong New Orleans International Airport,New Orleans,LA,USA,29.99338889,-90.25802778,A,America/Chicago,-5.0
+NEW,Lakefront Airport,New Orleans,LA,USA,30.04242056,-90.02825694,A,America/Chicago,-5.0
+OPL,St Landry Parish - Ahart ,Opelousas,LA,USA,30.55840556,-92.099375,,America/Chicago,-5.0
+PTN,Harry P. Williams Memorial,Patterson,LA,USA,29.71081917,-91.33971778,,America/Chicago,-5.0
+RSN,Ruston Regional,Ruston,LA,USA,32.51444444,-92.58833333,,America/Chicago,-5.0
+SHV,Shreveport Regional Airport,Shreveport,LA,USA,32.446627500000005,-93.82559833,A,America/Chicago,-5.0
+SPH,Springhill,Springhill,LA,USA,32.98316472,-93.41081028,,America/Chicago,-5.0
+TVR,Vicksburg Tallulah Regional,Tallulah,LA,USA,32.35160639,-91.02768917,,America/Chicago,-5.0

@@ -1,0 +1,72 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+1S3,Tillitt ,Forsyth,MT,USA,46.27110639,-106.6239206,,America/Denver,-6.0
+29S,Gardiner,Gardiner,MT,USA,45.04993556,-110.7466008,,America/Denver,-6.0
+32S,Stevensville,Stevensville,MT,USA,46.52511111,-114.0528056,,America/Denver,-6.0
+38S,Deer Lodge-City-County,Deer Lodge,MT,USA,46.38881583,-112.7669842,,America/Denver,-6.0
+3U3,Bowman ,Anaconda,MT,USA,46.15313278,-112.86784,,America/Denver,-6.0
+3U7,Benchmark,Benchmark,MT,USA,47.48133194,-112.8697678,,America/Denver,-6.0
+3U8,Big Sandy,Big Sandy,MT,USA,48.16247972,-110.1132631,,America/Denver,-6.0
+42S,Poplar,Poplar,MT,USA,48.11595861,-105.1821928,,America/Denver,-6.0
+48S,Harlem,Harlem,MT,USA,48.56666472,-108.7729339,,America/Denver,-6.0
+4U3,Liberty County,Chester,MT,USA,48.51072222,-110.9908639,,America/Denver,-6.0
+4U6,Circle Town County,Circle,MT,USA,47.41861972,-105.5619431,,America/Denver,-6.0
+5U3,Ennis - Big Sky,Ennis,MT,USA,45.27175833,-111.6486389,,America/Denver,-6.0
+5U8,Geraldine,Geraldine,MT,USA,47.59664,-110.26603670000002,,America/Denver,-6.0
+6S0,Big Timber,Big Timber,MT,USA,45.80638889,-109.9811111,,America/Denver,-6.0
+6S3,Columbus,Columbus,MT,USA,45.6291075,-109.2507167,,America/Denver,-6.0
+6S5,Ravalli County,Hamilton,MT,USA,46.25149444,-114.1255403,,America/Denver,-6.0
+6S8,Laurel Municipal,Laurel,MT,USA,45.70308833,-108.7610886,,America/Denver,-6.0
+79S,Fort Benton,Fort Benton,MT,USA,47.84583333,-110.6336111,,America/Denver,-6.0
+7S0,Ronan,Ronan,MT,USA,47.57076861,-114.0967783,,America/Denver,-6.0
+7S1,Twin Bridges,Twin Bridges,MT,USA,45.53325917,-112.3091656,,America/Denver,-6.0
+7S6,White Sulphur Springs,White Sulphur Springs,MT,USA,46.50410722,-110.9132667,,America/Denver,-6.0
+7S7,Valier,Valier,MT,USA,48.29997583,-112.25087109999998,,America/Denver,-6.0
+88M,Eureka,Eureka,MT,USA,48.96885444,-115.0704464,,America/Denver,-6.0
+8S1,Polson,Polson,MT,USA,47.69543861,-114.1851178,,America/Denver,-6.0
+8U6,Terry,Terry,MT,USA,46.77917333,-105.3047083,,America/Denver,-6.0
+8U8,Townsend,Townsend,MT,USA,46.33111111,-111.4813889,,America/Denver,-6.0
+97M,Ekalaka,Ekalaka,MT,USA,45.87791444,-104.5375072,,America/Denver,-6.0
+9S2,Scobey,Scobey,MT,USA,48.80772722,-105.43947,,America/Denver,-6.0
+9S4,Mineral County,Superior,MT,USA,47.16825944,-114.85374109999998,,America/Denver,-6.0
+9S5,Three Forks,Three Forks,MT,USA,45.87852778,-111.5691389,,America/Denver,-6.0
+9S7,Winifred,Winifred,MT,USA,47.55164778,-109.37767920000002,,America/Denver,-6.0
+9U0,Turner,Turner,MT,USA,48.85417361,-108.4090214,,America/Denver,-6.0
+BDX,Broadus,Broadus,MT,USA,45.433325,-105.4172133,,America/Denver,-6.0
+BHK,Bukhara Airport,Baker City,MT,USA,46.34763639,-104.2594475,U,America/Denver,-6.0
+BIL,Billings Logan International Airport,Billings,MT,USA,45.8076625,-108.5428611,A,America/Denver,-6.0
+BTM,Bert Mooney Airport,Butte,MT,USA,45.95479528,-112.49746,A,America/Denver,-6.0
+BZN,Gallatin Field,Bozeman,MT,USA,45.77690139,-111.1530072,A,America/Denver,-6.0
+CII,Choteau,Choteau,MT,USA,47.82528056,-112.1662136,,America/Denver,-6.0
+CTB,Cut Bank International Airport,Cut Bank,MT,USA,48.60835444,-112.3761464,A,America/Denver,-6.0
+DLN,Dillon,Dillon,MT,USA,45.25536056,-112.5525067,,America/Denver,-6.0
+FCA,Glacier Park International Airport,Kalispell,MT,USA,48.31140472,-114.2550694,A,America/Denver,-6.0
+GDV,Dawson Community Airport,Glendive,MT,USA,47.13871861,-104.8071994,A,America/Denver,-6.0
+GGW,Wokal Field Glasgow International Airport,Glasgow,MT,USA,48.21246417,-106.6148231,A,America/Denver,-6.0
+GTF,Great Falls International Airport,Great Falls,MT,USA,47.48200194,-111.3706853,A,America/Denver,-6.0
+HLN,Helena Regional Airport,Helena,MT,USA,46.60681806,-111.9827503,A,America/Denver,-6.0
+HVR,Havre City County Airport,Havre,MT,USA,48.542985,-109.7623419,A,America/Denver,-6.0
+HWQ,Wheatland County  At Harlowton,Harlowton,MT,USA,46.4541225,-109.8549061,,America/Denver,-6.0
+JDN,Jordan,Jordan,MT,USA,47.33333417,-106.9339564,,America/Denver,-6.0
+LVM,Mission Field,Livingston,MT,USA,45.69938889,-110.44830559999998,A,America/Denver,-6.0
+LWT,Lewistown Municipal Airport,Lewistown,MT,USA,47.04913944,-109.4666006,A,America/Denver,-6.0
+M46,Colstrip,Colstrip,MT,USA,45.85285,-106.7092722,,America/Denver,-6.0
+M75,Malta,Malta,MT,USA,48.36694167,-107.9193444,,America/Denver,-6.0
+MLS,Frank Wiley Field,Miles City,MT,USA,46.42795972,-105.8862397,A,America/Denver,-6.0
+MSO,Missoula International Airport,Missoula,MT,USA,46.91630556,-114.0905556,A,America/Denver,-6.0
+OLF,L M Clayton Airport,Wolf Point,MT,USA,48.09451778,-105.5750536,A,America/Denver,-6.0
+PWD,Sher-Wood,Plentywood,MT,USA,48.79030583,-104.533845,,America/Denver,-6.0
+RED,Red Lodge,Red Lodge,MT,USA,45.18744472,-109.2673778,,America/Denver,-6.0
+RPX,Roundup,Roundup,MT,USA,46.47357528,-108.5576333,,America/Denver,-6.0
+S01,Conrad,Conrad,MT,USA,48.16863889,-111.9764722,,America/Denver,-6.0
+S27,Kalispell City,Kalispell,MT,USA,48.17856944,-114.3037408,,America/Denver,-6.0
+S34,Plains,Plains,MT,USA,47.47243611,-114.900135,,America/Denver,-6.0
+S59,Libby,Libby,MT,USA,48.28384528,-115.4902453,,America/Denver,-6.0
+S64,Stanford,Stanford,MT,USA,47.14718944,-110.2299289,,America/Denver,-6.0
+S69,Lincoln,Lincoln,MT,USA,46.97494083,-112.6447606,,America/Denver,-6.0
+S71,Edgar G Obie,Chinook,MT,USA,48.59194444,-109.2488889,,America/Denver,-6.0
+S85,Big Sky ,Culbertson,MT,USA,48.15333333,-104.5038889,,America/Denver,-6.0
+SBX,Shelby,Shelby,MT,USA,48.54125278,-111.8720722,,America/Denver,-6.0
+SDY,Sidney - Richland Regional Airport,Sidney,MT,USA,47.70685778,-104.1925544,A,America/Denver,-6.0
+THM,Thompson Falls,Thompson Falls,MT,USA,47.57493556,-115.2843164,,America/Denver,-6.0
+U05,Riddick ,Philipsburg,MT,USA,46.31936972,-113.3050642,,America/Denver,-6.0
+WYS,Yellowstone Airport,West Yellowstone,MT,USA,44.68839917,-111.1176375,A,America/Denver,-6.0

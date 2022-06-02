@@ -1,0 +1,103 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0F7,Fountainhead Lodge Airpark,Eufaula,OK,USA,35.38898833,-95.60165111,,America/Chicago,-5.0
+0F8,William R Pogue Municipal,Sand Springs,OK,USA,36.17528,-96.15181028,,America/Chicago,-5.0
+0F9,Tishomingo Airpark,Tishomingo,OK,USA,34.19592833,-96.67555694,,America/Chicago,-5.0
+17K,Boise City,Boise City,OK,USA,36.77430028,-102.5104364,,America/Chicago,-5.0
+1F0,Downtown Ardmore,Ardmore,OK,USA,34.14698917,-97.12265194,,America/Chicago,-5.0
+1F1,Lake Murray State Park,Overbrook,OK,USA,34.07509694,-97.10667917,,America/Chicago,-5.0
+1F4,Madill Municipal,Madill,OK,USA,34.14040194,-96.81203222,,America/Chicago,-5.0
+1K2,Lindsay Municipal,Lindsay,OK,USA,34.85007333,-97.58642028,,America/Chicago,-5.0
+1K4,David J. Perry,Goldsby,OK,USA,35.1550675,-97.47039389,,America/Chicago,-5.0
+1K5,Waynoka Municipal,Waynoka,OK,USA,36.56670028,-98.85231333,,America/Chicago,-5.0
+1O1,Grandfield Municipal,Grandfield,OK,USA,34.23758944,-98.74200917,,America/Chicago,-5.0
+1O4,Thomas Municipal,Thomas,OK,USA,35.73338222,-98.73063833,,America/Chicago,-5.0
+2F6,Skiatook Municipal,Skiatook,OK,USA,36.357035,-96.01138556,,America/Chicago,-5.0
+2K4,Scott ,Mangum,OK,USA,34.89172583,-99.52675667,,America/Chicago,-5.0
+2M3,Sallisaw Municipal,Sallisaw,OK,USA,35.43816667,-94.80277778,,America/Chicago,-5.0
+2O8,Hinton Municipal,Hinton,OK,USA,35.50592472,-98.34236111,,America/Chicago,-5.0
+3F7,Jones Memorial,Bristow,OK,USA,35.80685278,-96.42185556,,America/Chicago,-5.0
+3O3,Municipal,Purcell,OK,USA,34.97979444,-97.38586167,,America/Chicago,-5.0
+3O4,Sayre Municipal,Sayre,OK,USA,35.16755222,-99.65787361,,America/Chicago,-5.0
+3O5,Walters Municipal,Walters,OK,USA,34.37258444,-98.40588583,,America/Chicago,-5.0
+3O9,Grand Lake Regional,Afton,OK,USA,36.5775775,-94.86190028,,America/Chicago,-5.0
+4O3,Blackwell-Tonkawa Municipal,Blackwell-Tonkawa,OK,USA,36.74511583,-97.34959972,,America/Chicago,-5.0
+4O4,McCurtain County Regional,Idabel,OK,USA,33.909325,-94.85835278,,America/Chicago,-5.0
+4O5,Cherokee Municipal,Cherokee,OK,USA,36.78336306,-98.35035083,,America/Chicago,-5.0
+6F1,Talihina Municipal,Talihina,OK,USA,34.70777139,-95.07378583,,America/Chicago,-5.0
+6K4,Fairview Municipal,Fairview,OK,USA,36.29014667,-98.47582833,,America/Chicago,-5.0
+80F,Antlers Municipal,Antlers,OK,USA,34.19260083,-95.64985889,,America/Chicago,-5.0
+86F,Carnegie Municipal,Carnegie,OK,USA,35.12061417,-98.5806175,,America/Chicago,-5.0
+91F,Arrowhead,Canadian,OK,USA,35.15426444,-95.62026389,,America/Chicago,-5.0
+93F,Mignon Laird Municipal,Cheyenne,OK,USA,35.60393694,-99.70343889,,America/Chicago,-5.0
+95F,Cleveland Municipal,Cleveland,OK,USA,36.28340306,-96.46418833,,America/Chicago,-5.0
+ADH,Aldan Airport,Ada,OK,USA,34.80434056,-96.6712775,N,America/Chicago,-5.0
+ADM,Ardmore Municipal Airport,Ardmore,OK,USA,34.30320667,-97.01952167,A,America/Chicago,-5.0
+AVK,Arvaikheer Airport,Alva,OK,USA,36.77317,-98.66994611,U,America/Chicago,-5.0
+AXS,Altus Municipal,Altus,OK,USA,34.69878194,-99.3381,,America/Chicago,-5.0
+BFK,Buckley Air Force Base,Buffalo,OK,USA,36.86330139,-99.61873056,A,America/Chicago,-5.0
+BVO,Bartlesville Municipal,Bartlesville,OK,USA,36.76247611,-96.01115167,,America/Chicago,-5.0
+CHK,Chickasha Municipal,Chickasha,OK,USA,35.09614694,-97.96618361,,America/Chicago,-5.0
+CLK,Clinton Municipal,Clinton,OK,USA,35.53832778,-98.932695,,America/Chicago,-5.0
+CQB,Chandler Municipal,Chandler,OK,USA,35.72381556,-96.82027306,,America/Chicago,-5.0
+CSM,Clinton Sherman Airport,Clinton,OK,USA,35.33983917,-99.20049944,A,America/Chicago,-5.0
+CUH,Cushing Municipal Airport,Cushing,OK,USA,35.949925,-96.77305278,A,America/Chicago,-5.0
+DUA,Eaker ,Durant,OK,USA,33.942265,-96.39451806,,America/Chicago,-5.0
+DUC,Halliburton Field,Duncan,OK,USA,34.470875,-97.95986111,A,America/Chicago,-5.0
+ELK,Elk City Municipal,Elk City,OK,USA,35.42941083,-99.39425917,,America/Chicago,-5.0
+F08,Eufaula Municipal,Eufaula,OK,USA,35.29593194,-95.62526417,,America/Chicago,-5.0
+F10,Henryetta Municipal,Henryetta,OK,USA,35.40687972,-96.01583278,,America/Chicago,-5.0
+F22,Perry Municipal,Perry,OK,USA,36.38559583,-97.27721083,,America/Chicago,-5.0
+F28,El Reno Municipal,El Reno,OK,USA,35.47163639,-98.00599444,,America/Chicago,-5.0
+F29,Clarence E. Page Municipal,Oklahoma City,OK,USA,35.488082500000004,-97.82354556,,America/Chicago,-5.0
+F30,Sulphur Municipal,Sulphur,OK,USA,34.52453278,-96.98973944,,America/Chicago,-5.0
+F31,Lake Texoma State Park,Kingston,OK,USA,33.99287639,-96.64249722,,America/Chicago,-5.0
+F32,Healdton Municipal,Healdton,OK,USA,34.24925806,-97.47391306,,America/Chicago,-5.0
+F36,Cordell Municipal,Cordell,OK,USA,35.30421917,-98.96702167,,America/Chicago,-5.0
+F80,Atoka Municipal,Atoka,OK,USA,34.39833889,-96.14805972,,America/Chicago,-5.0
+F81,Okemah Flying ,Okemah,OK,USA,35.42925306,-96.28778361,,America/Chicago,-5.0
+F84,Stigler Municipal,Stigler,OK,USA,35.28910556,-95.09389722,,America/Chicago,-5.0
+F91,Thomas P Stafford,Weatherford,OK,USA,35.54482944,-98.66849028,,America/Chicago,-5.0
+F99,Holdenville Municipal,Holdenville,OK,USA,35.085875,-96.41666667,,America/Chicago,-5.0
+FDR,Frederick Municipal,Frederick,OK,USA,34.35219472,-98.98460222,,America/Chicago,-5.0
+GAG,Gage,Gage,OK,USA,36.29553889,-99.77642361,,America/Chicago,-5.0
+GCM,Owen Roberts International Airport,Claremore,OK,USA,36.29441667,-95.47966667,N,America/Chicago,-5.0
+GMJ,Grove Municipal,Grove,OK,USA,36.60527056,-94.73856667,,America/Chicago,-5.0
+GOK,Guthrie Municipal,Guthrie,OK,USA,35.84980556,-97.41560833,,America/Chicago,-5.0
+GUY,Guymon Municipal Airport,Guymon,OK,USA,36.68507194,-101.5077817,A,America/Chicago,-5.0
+H04,Vinita Municipal,Vinita,OK,USA,36.63301806,-95.15136111,,America/Chicago,-5.0
+H05,Wilburton Municipal,Wilburton,OK,USA,34.91954278,-95.39469722,,America/Chicago,-5.0
+H45,Seminole Municipal,Seminole,OK,USA,35.27467806,-96.67516194,,America/Chicago,-5.0
+H66,Nowata Municipal,Nowata,OK,USA,36.72092222,-95.62525583,,America/Chicago,-5.0
+H71,Mid-America Industrial,Pryor,OK,USA,36.22539389,-95.33006333,,America/Chicago,-5.0
+H92,Hominy,Hominy,OK,USA,36.43340222,-96.38362861,,America/Chicago,-5.0
+H97,Pawnee Municipal,Pawnee,OK,USA,36.38338556,-96.8103125,,America/Chicago,-5.0
+HBR,Hobart Regional Airport,Hobart,OK,USA,34.9913075,-99.0513525,A,America/Chicago,-5.0
+HHW,Stan Stamper Municipal,Hugo,OK,USA,34.03482556,-95.54190611,,America/Chicago,-5.0
+JWG,Watonga,Watonga,OK,USA,35.86469444,-98.42075,,America/Chicago,-5.0
+LAW,Lawton Fort Sill Regional Airport,Lawton,OK,USA,34.56771444,-98.41663667,A,America/Chicago,-5.0
+MDF,Mooreland Municipal,Mooreland,OK,USA,36.48475778,-99.19415778,,America/Chicago,-5.0
+MIO,Miami Municipal,Miami,OK,USA,36.90922083,-94.88750028,,America/Chicago,-5.0
+MKO,Davis ,Muskogee,OK,USA,35.65773028,-95.36164889,,America/Chicago,-5.0
+MLC,Mc Alester Regional Airport,McAlester,OK,USA,34.88240194,-95.78346278,A,America/Chicago,-5.0
+O11,Cherokee Nation,Stilwell,OK,USA,35.75703083,-94.64994417,,America/Chicago,-5.0
+O35,Hollis Municipal,Hollis,OK,USA,34.70839417,-99.90871194,,America/Chicago,-5.0
+O45,Hooker Municipal,Hooker,OK,USA,36.85708306,-101.2270903,,America/Chicago,-5.0
+O47,Prague Municipal,Prague,OK,USA,35.48201417,-96.71862944,,America/Chicago,-5.0
+O53,Medford Municipal,Medford,OK,USA,36.79058417,-97.74899722,,America/Chicago,-5.0
+O65,Okeene Municipal,Okeene,OK,USA,36.11253667,-98.3086825,,America/Chicago,-5.0
+OKC,Will Rogers World Airport,Oklahoma City,OK,USA,35.39308833,-97.60073389,A,America/Chicago,-5.0
+OKM,Okmulgee Regional Airport,Okmulgee,OK,USA,35.66813889,-95.94869444,A,America/Chicago,-5.0
+OUN,University of Oklahoma Westheimer,Norman,OK,USA,35.24556444,-97.47212861,,America/Chicago,-5.0
+PNC,Ponca City Regional Airport,Ponca City,OK,USA,36.73058417,-97.09976833,A,America/Chicago,-5.0
+PVJ,Pauls Valley Municipal,Pauls Valley,OK,USA,34.71105361,-97.22321694,,America/Chicago,-5.0
+PWA,Wiley Post Airport,Oklahoma City,OK,USA,35.53455,-97.64721556,A,America/Chicago,-5.0
+Q44,Beaver Municipal,Beaver,OK,USA,36.79891472,-100.5298708,,America/Chicago,-5.0
+RKR,Robert S Kerr,Poteau,OK,USA,35.02162639,-94.6212525,,America/Chicago,-5.0
+RVS,Richard Lloyd Jones Jr Airport,Tulsa,OK,USA,36.0396275,-95.984635,A,America/Chicago,-5.0
+SNL,Shawnee Municipal,Shawnee,OK,USA,35.35730333,-96.94282833,,America/Chicago,-5.0
+SUD,Stroud Municipal,Stroud,OK,USA,35.78756833,-96.65862861,,America/Chicago,-5.0
+SWO,Stillwater Regional Airport,Stillwater,OK,USA,36.16025194,-97.08577028,A,America/Chicago,-5.0
+TQH,Tahlequah Municipal,Tahlequah,OK,USA,35.92891667,-95.00452778,,America/Chicago,-5.0
+TUL,Tulsa International Airport,Tulsa,OK,USA,36.19837222,-95.88824167,A,America/Chicago,-5.0
+WDG,Enid Woodring Municipal,Enid,OK,USA,36.37920333,-97.79111222,,America/Chicago,-5.0
+WWR,West Woodward Airport,Woodward,OK,USA,36.4367025,-99.5209975,\N,America/Chicago,-5.0

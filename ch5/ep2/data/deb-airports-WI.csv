@@ -1,0 +1,85 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+02C,Capitol,Brookfield,WI,USA,43.08751,-88.17786917,,America/Chicago,-5.0
+2P2,Washington Island,Washington Island,WI,USA,45.38620833,-86.92448056,,America/Chicago,-5.0
+3CU,Cable Union,Cable,WI,USA,46.19424889,-91.24640972,,America/Chicago,-5.0
+3D2,Ephraim/Gibraltar,Ephraim,WI,USA,45.13535778,-87.18586556,,America/Chicago,-5.0
+3T3,Boyceville Municipal ,Boyceville,WI,USA,45.042185,-92.0293475,,America/Chicago,-5.0
+3WO,Shawano Municipal,Shawano,WI,USA,44.78777778,-88.56152444,,America/Chicago,-5.0
+4R5,Madeline Island,La Pointe,WI,USA,46.78865556,-90.75866944,,America/Chicago,-5.0
+57C,East Troy Municipal,East Troy,WI,USA,42.79711111,-88.3725,,America/Chicago,-5.0
+61C,Fort Atkinson Municipal,Fort Atkinson,WI,USA,42.96320278,-88.81762806,,America/Chicago,-5.0
+63C,Adams County Legion ,Adams/Friendship,WI,USA,43.96117222,-89.78804889,,America/Chicago,-5.0
+73C,Lancaster,Lancaster,WI,USA,42.78054722,-90.68096028,,America/Chicago,-5.0
+82C,Mauston-New Lisbon Union,New Lisbon,WI,USA,43.83872167,-90.13768389,,America/Chicago,-5.0
+87Y,Blackhawk Airfield,Madison,WI,USA,43.10491444,-89.18553833,,America/Chicago,-5.0
+88C,Palmyra Municipal,Palmyra,WI,USA,42.88355556,-88.59743056,,America/Chicago,-5.0
+8D1,New Holstein Municipal,New Holstein,WI,USA,43.94424111,-88.1134775,,America/Chicago,-5.0
+91C,Sauk - Prairie,Prairie Du Sac,WI,USA,43.2969325,-89.75595639,,America/Chicago,-5.0
+93C,Richland,Richland Center,WI,USA,43.28333333,-90.29827778,,America/Chicago,-5.0
+AHH,Amery Municipal,Amery,WI,USA,45.28114833,-92.37539222,,America/Chicago,-5.0
+AIG,Langlade County,Antigo,WI,USA,45.15419444,-89.11072222,,America/Chicago,-5.0
+ARV,Lakeland-Noble F. Lee Memorial field,Minocqua-Woodruff,WI,USA,45.92792556,-89.73094278,A,America/Chicago,-5.0
+ASX,John F Kennedy Memorial,Ashland,WI,USA,46.54852806,-90.91896639,,America/Chicago,-5.0
+ATW,Appleton International Airport,Appleton,WI,USA,44.25740806,-88.51947556,A,America/Chicago,-5.0
+AUW,Wausau Downtown Airport,Wausau,WI,USA,44.92847222,-89.62661111,U,America/Chicago,-5.0
+BCK,Black River Falls Area,Black River Falls,WI,USA,44.25073861,-90.85528028,,America/Chicago,-5.0
+C29,Morey,Middleton,WI,USA,43.11424444,-89.53073222,,America/Chicago,-5.0
+C35,Reedsburg Municipal,Reedsburg,WI,USA,43.52589944,-89.98322194,,America/Chicago,-5.0
+C47,Portage Municipal,Portage,WI,USA,43.5600925,-89.48309278,,America/Chicago,-5.0
+C52,Burlington Municipal,Burlington,WI,USA,42.69056389,-88.30464,,America/Chicago,-5.0
+CLI,Clintonville Municipal,Clintonville,WI,USA,44.61381306,-88.73126667,,America/Chicago,-5.0
+CMY,Sparta/Fort McCoy,Sparta,WI,USA,43.95834806,-90.7378975,,America/Chicago,-5.0
+CWA,Central Wisconsin Airport,Mosinee,WI,USA,44.77761917,-89.66677944,A,America/Chicago,-5.0
+D25,Manitowish Waters,Manitowish Waters,WI,USA,46.12197222,-89.88233333,,America/Chicago,-5.0
+DLL,Baraboo - Wisconsin Dells,Baraboo,WI,USA,43.52195389,-89.77090222,,America/Chicago,-5.0
+EAU,Chippewa Valley Regional Airport,Eau Claire,WI,USA,44.86525722,-91.48507194,A,America/Chicago,-5.0
+EFT,Monroe Municipal,Monroe,WI,USA,42.61493972,-89.59075583,,America/Chicago,-5.0
+EGV,Eagle River Union Airport,Eagle River,WI,USA,45.93179639,-89.26906778,A,America/Chicago,-5.0
+ENW,Kenosha Regional Airport,Kenosha,WI,USA,42.5957075,-87.92780333,A,America/Chicago,-5.0
+ETB,West Bend Municipal Airport,West Bend,WI,USA,43.42219444,-88.12792667,A,America/Chicago,-5.0
+FLD,Fond du Lac County Airport,Fond Du Lac,WI,USA,43.77117417,-88.48842917,A,America/Chicago,-5.0
+GRB,Austin Straubel International Airport,Green Bay,WI,USA,44.48507333,-88.12959000000001,A,America/Chicago,-5.0
+HXF,Hartford Municipal,Hartford,WI,USA,43.34927806,-88.39112528,,America/Chicago,-5.0
+HYR,Sawyer County Airport,Hayward,WI,USA,46.02585722,-91.44424278,\N,America/Chicago,-5.0
+ISW,Alexander Field South Wood County Airport,Wisconsin Rapids,WI,USA,44.36033833,-89.83897056,A,America/Chicago,-5.0
+JVL,Southern Wisconsin Regional Airport,Janesville,WI,USA,42.61958222,-89.04034028,A,America/Chicago,-5.0
+LNL,Longnan Chengzhou Airport,Land O' Lakes,WI,USA,46.15387722,-89.21194417,N,America/Chicago,-5.0
+LSE,La Crosse Municipal Airport,La Crosse,WI,USA,43.87937972,-91.25653778,A,America/Chicago,-5.0
+MDZ,El Plumerillo Airport,Medford,WI,USA,45.10097556,-90.30341,N,America/Chicago,-5.0
+MFI,Marshfield Municipal Airport,Marshfield,WI,USA,44.63687972,-90.18932667,A,America/Chicago,-5.0
+MKE,General Mitchell International Airport,Milwaukee,WI,USA,42.94722222,-87.89658333,A,America/Chicago,-5.0
+MRJ,Iowa County,Mineral Point,WI,USA,42.88532917,-90.23198583,,America/Chicago,-5.0
+MSN,Dane County Regional Truax Field,Madison,WI,USA,43.13985778,-89.33751361,A,America/Chicago,-5.0
+MTW,Manitowoc County,Manitowoc,WI,USA,44.1287725,-87.68058472,,America/Chicago,-5.0
+MWC,Lawrence J Timmerman Airport,Milwaukee,WI,USA,43.11092694,-88.03442194,A,America/Chicago,-5.0
+OCQ,Oconto Municipal,Oconto,WI,USA,44.8735825,-87.9090525,,America/Chicago,-5.0
+OEO,L. O. Simenstad Municipal,Osceola,WI,USA,45.30858944,-92.69008056,,America/Chicago,-5.0
+OSH,Wittman Regional Airport,Oshkosh,WI,USA,43.98436639,-88.55705944,A,America/Chicago,-5.0
+OVS,Sovetskiy Airport,Boscobel,WI,USA,43.16063056,-90.67421833,N,America/Chicago,-5.0
+PBH,Paro Airport,Phillips,WI,USA,45.70895028,-90.40248472,N,America/Chicago,-5.0
+PCZ,Waupaca Municipal,Waupaca,WI,USA,44.33368778,-89.01549861,,America/Chicago,-5.0
+PDC,Prairie Du Chien Municipal,Prairie Du Chien,WI,USA,43.01928889,-91.12374722,,America/Chicago,-5.0
+PKF,Park Falls Municipal,Park Falls,WI,USA,45.95502361,-90.42441806,,America/Chicago,-5.0
+PVB,Platteville Municipal,Platteville,WI,USA,42.68935583,-90.44439278,,America/Chicago,-5.0
+RAC,John H Batten Airport,Racine,WI,USA,42.76119139,-87.81389806,A,America/Chicago,-5.0
+RCX,Rusk County,Ladysmith,WI,USA,45.49825694,-91.00186361,,America/Chicago,-5.0
+RHI,Rhinelander Oneida County Airport,Rhinelander,WI,USA,45.63119306,-89.46745361,A,America/Chicago,-5.0
+RNH,New Richmond Municipal,New Richmond,WI,USA,45.14831139,-92.53806139,,America/Chicago,-5.0
+RPD,Rice Lake Regional-Carl's ,Rice Lake,WI,USA,45.41809056,-91.77365194,,America/Chicago,-5.0
+RRL,Merrill Municipal,Merrill,WI,USA,45.19927083,-89.71143389,,America/Chicago,-5.0
+RYV,Watertown Municipal,Watertown,WI,USA,43.16963222,-88.72321222,,America/Chicago,-5.0
+RZN,Burnett County,Siren,WI,USA,45.8227275,-92.37250083,,America/Chicago,-5.0
+SBM,Sheboygan County Memorial Airport,Sheboygan,WI,USA,43.76949444,-87.85158944,A,America/Chicago,-5.0
+SSQ,Shell Lake Municipal,Shell Lake,WI,USA,45.73138139,-91.92066194,,America/Chicago,-5.0
+STE,Stevens Point Municipal Airport,Stevens Point,WI,USA,44.54513556,-89.53028444,A,America/Chicago,-5.0
+SUE,Door County Cherryland,Sturgeon Bay,WI,USA,44.84366222,-87.42154111,,America/Chicago,-5.0
+SUW,Richard I Bong,Superior,WI,USA,46.6897175,-92.094655,,America/Chicago,-5.0
+T08,Tomahawk Regional,Tomahawk,WI,USA,45.46913889,-89.80569444,,America/Chicago,-5.0
+UBE,Cumberland Municipal ,Cumberland,WI,USA,45.50597028,-91.98108694,,America/Chicago,-5.0
+UES,Waukesha County,Waukesha,WI,USA,43.04102778,-88.23705556,,America/Chicago,-5.0
+UNU,Dodge County,Juneau,WI,USA,43.42658333,-88.70322222,,America/Chicago,-5.0
+VIQ,Neillsville Municipal,Neillsville,WI,USA,44.55812861,-90.51224694,,America/Chicago,-5.0
+W11,Menomonie Municipal - Score ,Menomonie,WI,USA,44.89234639,-91.86777944,,America/Chicago,-5.0
+Y50,Wautoma Municipal,Wautoma,WI,USA,44.04162556,-89.30448694,,America/Chicago,-5.0
+Y51,Viroqua Municipal,Viroqua,WI,USA,43.57913917,-90.90096333,,America/Chicago,-5.0
+Y55,Crandon Municipal,Crandon,WI,USA,45.51662972,-88.93344694,,America/Chicago,-5.0

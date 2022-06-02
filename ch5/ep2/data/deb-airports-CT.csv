@@ -1,0 +1,16 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+22B,Mountain Meadow Airstrip,Burlington,CT,USA,41.77287528,-73.01121667,,America/New_York,-4.0
+3B9,Chester,Chester,CT,USA,41.38390472,-72.50589444,,America/New_York,-4.0
+4B8,Robertson ,Plainville,CT,USA,41.69037667,-72.8648225,,America/New_York,-4.0
+4B9,Simsbury Tri-Town,Simsbury,CT,USA,41.91676389,-72.77731778,,America/New_York,-4.0
+5B3,Danielson,Danielson,CT,USA,41.81974056,-71.90096306,,America/New_York,-4.0
+BDL,Bradley International Airport,Windsor Locks,CT,USA,41.93887417,-72.68322833,A,America/New_York,-4.0
+BDR,Igor I Sikorsky Memorial Airport,Bridgeport,CT,USA,41.16348417,-73.12617861,A,America/New_York,-4.0
+DXR,Danbury Municipal Airport,Danbury,CT,USA,41.37153528,-73.48219056,A,America/New_York,-4.0
+GON,Groton New London Airport,Groton,CT,USA,41.33005778,-72.04513556,A,America/New_York,-4.0
+HFD,Hartford Brainard Airport,Hartford,CT,USA,41.73626861,-72.65021389,A,America/New_York,-4.0
+HVN,Tweed New Haven Airport,New Haven,CT,USA,41.26389889,-72.8871,A,America/New_York,-4.0
+IJD,Windham,Willimantic,CT,USA,41.74404028,-72.18023583,,America/New_York,-4.0
+MMK,Murmansk Airport,Meriden,CT,USA,41.50871472,-72.82947833,N,America/New_York,-4.0
+N04,Griswold,Madison,CT,USA,41.27118222,-72.54972972,,America/New_York,-4.0
+OXC,Waterbury Oxford Airport,Oxford,CT,USA,41.47855556,-73.13525,A,America/New_York,-4.0

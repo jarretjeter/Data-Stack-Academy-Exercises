@@ -1,0 +1,210 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+00R,Livingston Municipal,Livingston,TX,USA,30.68586111,-95.01792778,,America/Chicago,-5.0
+05F,Gatesville - City/County,Gatesville,TX,USA,31.42127556,-97.79696778,,America/Chicago,-5.0
+07F,Gladewater Municipal,Gladewater,TX,USA,32.52883861,-94.97174556,,America/Chicago,-5.0
+0F2,Bowie Municipal,Bowie,TX,USA,33.60166667,-97.77556,,America/Chicago,-5.0
+11R,Brenham Municipal,Brenham,TX,USA,30.219,-96.37427778,,America/Chicago,-5.0
+15F,Haskell Municipal,Haskell,TX,USA,33.19155556,-99.71793056,,America/Chicago,-5.0
+1F9,Bridgeport Municipal,Bridgeport,TX,USA,33.17533333,-97.82838889,,America/Chicago,-5.0
+21F,Jacksboro Municipal,Jacksboro,TX,USA,33.228725,-98.14671083,,America/Chicago,-5.0
+23R,Devine Municipal,Devine,TX,USA,29.1384075,-98.94189028,,America/Chicago,-5.0
+25R,International,Edinburg,TX,USA,26.44201083,-98.12945306,,America/Chicago,-5.0
+26R,Jackson County,Edna/Ganado,TX,USA,29.00101,-96.58194667,,America/Chicago,-5.0
+2F5,Lamesa Municipal,Lamesa,TX,USA,32.75627778,-101.9194722,,America/Chicago,-5.0
+2F7,Commerce Municipal,Commerce,TX,USA,33.29288889,-95.89641806,,America/Chicago,-5.0
+2R9,Karnes County,Kenedy,TX,USA,28.8250075,-97.86558333,,America/Chicago,-5.0
+2T1,Muleshoe Municipal,Muleshoe,TX,USA,34.18513639,-102.6410981,,America/Chicago,-5.0
+31F,Gaines County,Seminole,TX,USA,32.67535389,-102.652685,,America/Chicago,-5.0
+3R0,Beeville Municipal,Beeville,TX,USA,28.36455528,-97.79208194,,America/Chicago,-5.0
+3R1,Bay City Municipal,Bay City,TX,USA,28.973255,-95.86345528,,America/Chicago,-5.0
+3T5,Fayette Regional Air Center,La Grange,TX,USA,29.90930556,-96.9505,,America/Chicago,-5.0
+45R,Kountz - Hawthorne ,Kountze/Silsbee,TX,USA,30.33633806,-94.25754361,,America/Chicago,-5.0
+49T,Downtown Heliport,Dallas,TX,USA,32.77333333,-96.80027778,,America/Chicago,-5.0
+4F2,Panola County-Sharpe ,Carthage,TX,USA,32.17608333,-94.29880556,,America/Chicago,-5.0
+4F4,Gilmer-Upshur County,Gilmer,TX,USA,32.699,-94.94886111,,America/Chicago,-5.0
+4T6,Mid-Way,Midlothian-Waxahachie,TX,USA,32.45609722,-96.91240972,,America/Chicago,-5.0
+50R,Lockhart Municipal,Lockhart,TX,USA,29.85033333,-97.67241667,,America/Chicago,-5.0
+5F1,Post-Garza County Municipal,Post,TX,USA,33.20370556,-101.340415,,America/Chicago,-5.0
+5R3,Rusty Allen ,Lago Vista,TX,USA,30.498585,-97.96947222,,America/Chicago,-5.0
+5R5,Wharton Municipal,Wharton,TX,USA,29.25427778,-96.15438889,,America/Chicago,-5.0
+5T5,Hillsboro Municipal,Hillsboro,TX,USA,32.08348611,-97.09722722,,America/Chicago,-5.0
+5T9,Maverick County Meml Intl,Eagle Pass,TX,USA,28.85719361,-100.5122997,,America/Chicago,-5.0
+60F,Seymour Municipal,Seymour,TX,USA,33.64870417,-99.26063056,,America/Chicago,-5.0
+62H,Giddings-Lee County,Giddings,TX,USA,30.16927167,-96.98001083,,America/Chicago,-5.0
+6R3,Cleveland Municipal,Cleveland,TX,USA,30.35643,-95.00801472,,America/Chicago,-5.0
+6R9,Llano Municipal,Llano,TX,USA,30.78450278,-98.66025083,,America/Chicago,-5.0
+7F3,Caddo Mills Municipal,Caddo Mills,TX,USA,33.03622222,-96.24313889,,America/Chicago,-5.0
+7F6,Clarksville-Red River County,Clarksville,TX,USA,33.59316472,-95.06355528,,America/Chicago,-5.0
+7F7,Clifton Municipal,Clifton,TX,USA,31.81682333,-97.56696361,,America/Chicago,-5.0
+7F9,Comanche County-City,Comanche,TX,USA,31.91681306,-98.600325,,America/Chicago,-5.0
+84R,Smithville Municipal,Smithville,TX,USA,30.03048028,-97.16687194,,America/Chicago,-5.0
+8F7,Decatur Municipal,Decatur,TX,USA,33.25463889,-97.58055556,,America/Chicago,-5.0
+ABI,Abilene Regional Airport,Abilene,TX,USA,32.41132,-99.68189722,A,America/Chicago,-5.0
+ACT,Waco Regional Airport,Waco,TX,USA,31.61128833,-97.23051917,A,America/Chicago,-5.0
+ADS,Addison Airport,Dallas/Addison,TX,USA,32.96855944,-96.83644778,A,America/Chicago,-5.0
+AFW,Fort Worth Alliance Airport,Fort Worth,TX,USA,32.98763889,-97.31880556,A,America/Chicago,-5.0
+ALI,Alice International Airport,Alice,TX,USA,27.74088889,-98.02694444,A,America/Chicago,-5.0
+AMA,Rick Husband Amarillo International Airport,Amarillo,TX,USA,35.2193725,-101.7059272,A,America/Chicago,-5.0
+ASL,Marshall - Harrison County,Marshall,TX,USA,32.5205,-94.30777778,,America/Chicago,-5.0
+ATA,Comandante FAP German Arias Graziani Airport,Atlanta,TX,USA,33.101805,-94.19532694,U,America/Chicago,-5.0
+AUS,Austin Bergstrom International Airport,Austin,TX,USA,30.19453278,-97.66987194,A,America/Chicago,-5.0
+BAZ,Barcelos Airport,New Braunfels,TX,USA,29.7045,-98.04222222,S,America/Chicago,-5.0
+BBD,Curtis Field,Brady,TX,USA,31.17816667,-99.32463889,\N,America/Chicago,-5.0
+BGD,Hutchinson County Airport,Borger,TX,USA,35.70004194,-101.3940536,A,America/Chicago,-5.0
+BKD,Stephens County Airport,Breckenridge,TX,USA,32.71904694,-98.89099972,A,America/Chicago,-5.0
+BMQ,Burnet Muni-Kate Craddock ,Burnet,TX,USA,30.73894444,-98.23858333,,America/Chicago,-5.0
+BMT,Beaumont Municipal Airport,Beaumont,TX,USA,30.07044111,-94.21553806,A,America/Chicago,-5.0
+BPT,Southeast Texas Regional Airport,Beaumont/Port Arthur,TX,USA,29.95083333,-94.02069444,A,America/Chicago,-5.0
+BRO,Brownsville South Padre Island International Airport,Brownsville,TX,USA,25.90683333,-97.42586111,A,America/Chicago,-5.0
+BWD,Brownwood Municipal,Brownwood,TX,USA,31.79362222,-98.95649528,,America/Chicago,-5.0
+CFD,Coulter Field,Bryan,TX,USA,30.71569444,-96.33136111,A,America/Chicago,-5.0
+CLL,Easterwood Field,College Station,TX,USA,30.58858944,-96.36382417,A,America/Chicago,-5.0
+CNW,TSTC Waco Airport,Waco,TX,USA,31.63783139,-97.07413889,A,America/Chicago,-5.0
+COM,Coleman Municipal,Coleman,TX,USA,31.84113889,-99.40361111,,America/Chicago,-5.0
+COT,Cotulla-La Salle County Airport,Cotulla,TX,USA,28.45825583,-99.22016389,A,America/Chicago,-5.0
+CRP,Corpus Christi International Airport,Corpus Christi,TX,USA,27.77036083,-97.50121528,A,America/Chicago,-5.0
+CRS,C Davis Campbell -Corsicana Muni,Corsicana,TX,USA,32.02748861,-96.39803611,,America/Chicago,-5.0
+CXO,Conroe-North Houston Regional Airport,Conroe,TX,USA,30.35183333,-95.4144675,A,America/Chicago,-5.0
+CZT,Dimmit County,Carrizo Springs,TX,USA,28.52225111,-99.82363444,,America/Chicago,-5.0
+DAL,Dallas Love Field,Dallas,TX,USA,32.84711389,-96.85177222,A,America/Chicago,-5.0
+DFW,Dallas Fort Worth International Airport,Dallas-Fort Worth,TX,USA,32.89595056,-97.0372,A,America/Chicago,-5.0
+DHT,Dalhart Municipal Airport,Dalhart,TX,USA,36.022585,-102.5472775,A,America/Chicago,-5.0
+DRT,Del Rio International Airport,Del Rio,TX,USA,29.37181222,-100.9232339,A,America/Chicago,-5.0
+DTO,Denton Municipal,Denton,TX,USA,33.20072167,-97.19797722,,America/Chicago,-5.0
+DUX,Moore County,Dumas,TX,USA,35.85792833,-102.0130978,,America/Chicago,-5.0
+DWH,David Wayne Hooks Memorial Airport,Houston,TX,USA,30.06186111,-95.55277778,A,America/Chicago,-5.0
+E01,Monahans-Roy Hurd Memorial,Monahans,TX,USA,31.58246583,-102.9090428,,America/Chicago,-5.0
+E11,Andrews County,Andrews,TX,USA,32.33111111,-102.5295278,,America/Chicago,-5.0
+E15,Graham Municipal,Graham,TX,USA,33.11022222,-98.55527861,,America/Chicago,-5.0
+E19,Gruver Municipal,Gruver,TX,USA,36.23372611,-101.4321894,,America/Chicago,-5.0
+E35,Fabens,Fabens,TX,USA,31.51567306,-106.1471978,,America/Denver,-6.0
+E38,Alpine-Casparis Municipal,Alpine,TX,USA,30.38422222,-103.6835833,,America/Chicago,-5.0
+E42,Spearman Municipal,Spearman,TX,USA,36.221,-101.1945,,America/Chicago,-5.0
+E52,Oldham County,Vega,TX,USA,35.23199833,-102.3990931,,America/Chicago,-5.0
+EFD,Ellington Airport,Houston,TX,USA,29.60733333,-95.15875,A,America/Chicago,-5.0
+ELA,Eagle Lake Municipal,Eagle Lake,TX,USA,29.60301389,-96.32248444,,America/Chicago,-5.0
+ELP,El Paso International Airport,El Paso,TX,USA,31.80666667,-106.3778056,A,America/Denver,-6.0
+ERV,Kerrville Municipal Louis Schreiner Field,Kerrville,TX,USA,29.976735,-99.08567972,A,America/Chicago,-5.0
+ETN,Eastland Municipal,Eastland,TX,USA,32.41349167,-98.80975667,,America/Chicago,-5.0
+F00,Jones ,Bonham,TX,USA,33.61172222,-96.17938889,,America/Chicago,-5.0
+F01,Quanah Municipal,Quanah,TX,USA,34.27708306,-99.75926861,,America/Chicago,-5.0
+F05,Vernon - Wilbarger County,Vernon,TX,USA,34.22566806,-99.28375,,America/Chicago,-5.0
+F06,Marian Airpark,Wellington,TX,USA,34.84561083,-100.1959481,,America/Chicago,-5.0
+F12,Rusk County,Henderson,TX,USA,32.14172222,-94.85172222,,America/Chicago,-5.0
+F17,Center Municipal,Center,TX,USA,31.83158333,-94.15641667,,America/Chicago,-5.0
+F18,Cleburne Municipal,Cleburne,TX,USA,32.35376389,-97.43375,,America/Chicago,-5.0
+F21,Memphis Municipal,Memphis,TX,USA,34.73958944,-100.5297008,,America/Chicago,-5.0
+F39,Grayson County,Sherman/Denison,TX,USA,33.71411111,-96.67366667,,America/Chicago,-5.0
+F41,Ennis Municipal,Ennis,TX,USA,32.32969444,-96.66388889,,America/Chicago,-5.0
+F44,Athens Jones Municipal,Athens,TX,USA,32.16384778,-95.82835306,,America/Chicago,-5.0
+F46,Rockwall Municipal,Rockwall,TX,USA,32.93059444,-96.43548556,,America/Chicago,-5.0
+F49,Slaton Municipal,Slaton,TX,USA,33.48481,-101.6607158,,America/Chicago,-5.0
+F51,Winnsboro Municipal,Winnsboro,TX,USA,32.93884556,-95.27886083,,America/Chicago,-5.0
+F53,Franklin County,Mount Vernon,TX,USA,33.21530583,-95.2374925,,America/Chicago,-5.0
+F55,Granbury Municipal,Granbury,TX,USA,32.44441583,-97.8169475,,America/Chicago,-5.0
+F56,Arledge ,Stamford,TX,USA,32.91019472,-99.73422972,,America/Chicago,-5.0
+F85,Morton-Cochran County,Morton,TX,USA,33.72926389,-102.7338183,,America/Chicago,-5.0
+FST,Fort Stockton Pecos County Airport,Fort Stockton,TX,USA,30.91566667,-102.9161389,A,America/Chicago,-5.0
+FTW,Fort Worth Meacham International Airport,Fort Worth,TX,USA,32.81977778,-97.36244444,A,America/Chicago,-5.0
+FWS,Spinks,Fort Worth,TX,USA,32.56522778,-97.30807778,,America/Chicago,-5.0
+GGG,East Texas Regional Airport,Longview,TX,USA,32.38486111,-94.71171,A,America/Chicago,-5.0
+GKY,Arlington Municipal,Arlington,TX,USA,32.66241528,-97.09391139,,America/Chicago,-5.0
+GLE,Gainesville Municipal,Gainesville,TX,USA,33.65136111,-97.19702778,,America/Chicago,-5.0
+GLS,Scholes International At Galveston Airport,Galveston,TX,USA,29.26532333,-94.86040667,A,America/Chicago,-5.0
+GPM,Grand Prairie Municipal,Grand Prairie,TX,USA,32.69858333,-97.04652778,,America/Chicago,-5.0
+GRK,Robert Gray  Army Air Field Airport,Killeen,TX,USA,31.06489778,-97.82779778,A,America/Chicago,-5.0
+GTU,Georgetown Municipal,Georgetown,TX,USA,30.67880889,-97.67938389,,America/Chicago,-5.0
+GVT,Majors Airport,Greenville,TX,USA,33.06783889,-96.0653325,A,America/Chicago,-5.0
+HBV,Jim Hogg County,Hebbronville,TX,USA,27.34955556,-98.73697222,,America/Chicago,-5.0
+HDO,Hondo Municipal,Hondo,TX,USA,29.35952778,-99.17666667,,America/Chicago,-5.0
+HHF,Hemphill County,Canadian,TX,USA,35.89530778,-100.4036397,,America/Chicago,-5.0
+HOU,William P Hobby Airport,Houston,TX,USA,29.64541861,-95.27888889,A,America/Chicago,-5.0
+HQZ,Mesquite Metro,Mesquite,TX,USA,32.74696278,-96.53041722,,America/Chicago,-5.0
+HRL,Valley International Airport,Harlingen,TX,USA,26.22850611,-97.65439389,A,America/Chicago,-5.0
+HRX,Hereford Municipal,Hereford,TX,USA,34.85761639,-102.3272017,,America/Chicago,-5.0
+HYI,San Marcos Municipal,San Marcos,TX,USA,29.89361111,-97.86469444,,America/Chicago,-5.0
+IAH,George Bush Intercontinental Houston Airport,Houston,TX,USA,29.98047222,-95.33972222,A,America/Chicago,-5.0
+ILE,Killeen Municipal,Killeen,TX,USA,31.08583333,-97.6865,,America/Chicago,-5.0
+INK,Winkler County Airport,Wink,TX,USA,31.77962833,-103.2013619,A,America/Chicago,-5.0
+IWS,West Houston Airport,Houston,TX,USA,29.81819444,-95.67261111,A,America/Chicago,-5.0
+JAS,Jasper County Airport-Bell Field,Jasper,TX,USA,30.89058333,-94.03483333,A,America/Chicago,-5.0
+JCT,Kimble County Airport,Junction,TX,USA,30.51126,-99.76345528,\N,America/Chicago,-5.0
+JSO,Jacksonville-Cherokee County,Jacksonville,TX,USA,31.86933667,-95.21739028,,America/Chicago,-5.0
+LBB,Lubbock Preston Smith International Airport,Lubbock,TX,USA,33.66363889,-101.8227778,A,America/Chicago,-5.0
+LBX,Lubang Airport,Angleton,TX,USA,29.10863889,-95.46208056,N,America/Chicago,-5.0
+LFK,Angelina County Airport,Lufkin,TX,USA,31.23401389,-94.75,A,America/Chicago,-5.0
+LNC,Lancaster,Lancaster,TX,USA,32.57919111,-96.71905111,,America/Chicago,-5.0
+LRD,Laredo International Airport,Laredo,TX,USA,27.54373861,-99.46154361,A,America/Chicago,-5.0
+LVJ,Clover ,Houston,TX,USA,29.52130556,-95.24216667,,America/Chicago,-5.0
+LXY,Mexia-Limestone County,Mexia,TX,USA,31.63983472,-96.51472222,,America/Chicago,-5.0
+MAF,Midland International Airport,Midland,TX,USA,31.94252778,-102.2019139,A,America/Chicago,-5.0
+MDD,Midland Airpark,Midland,TX,USA,32.03652444,-102.1010278,,America/Chicago,-5.0
+MFE,Mc Allen Miller International Airport,McAllen,TX,USA,26.17583333,-98.23861111,A,America/Chicago,-5.0
+MNZ,Manassas Regional Airport/Harry P. Davis Field,Hamilton,TX,USA,31.66592639,-98.1486375,A,America/Chicago,-5.0
+MRF,Marfa Municipal Airport,Marfa,TX,USA,30.37147222,-104.0166944,A,America/Chicago,-5.0
+MSA,Muskrat Dam Airport,Mount Pleasant,TX,USA,33.12936111,-94.97563889,A,America/Chicago,-5.0
+MWL,Mineral Wells Airport,Mineral Wells,TX,USA,32.78160556,-98.060175,A,America/Chicago,-5.0
+OCH,Nacogdoches-A.L. Mangham Jr. Regional,Nacogdoches,TX,USA,31.57802778,-94.70954167,,America/Chicago,-5.0
+ODO,Bodaybo Airport,Odessa,TX,USA,31.92056722,-102.3870892,N,America/Chicago,-5.0
+ONY,Olney Municipal,Olney,TX,USA,33.35088056,-98.81916667,,America/Chicago,-5.0
+ORG,Zorg en Hoop Airport,Orange,TX,USA,30.06916667,-93.80091667,U,America/Chicago,-5.0
+OZA,Ozona Municipal Airport,Ozona,TX,USA,30.73528028,-101.2029719,A,America/Chicago,-5.0
+PEQ,Pecos Municipal Airport,Pecos City,TX,USA,31.3823575,-103.5107017,A,America/Chicago,-5.0
+PEZ,Penza Airport,Pleasanton,TX,USA,28.95419444,-98.51998917,N,America/Chicago,-5.0
+PIL,Carlos Miguel Gimenez Airport,Port Isabel,TX,USA,26.16621,-97.34588611,S,America/Chicago,-5.0
+PPA,Perry Lefors Field,Pampa,TX,USA,35.61298806,-100.9962608,A,America/Chicago,-5.0
+PRX,Cox Field,Paris,TX,USA,33.63660667,-95.45073194,A,America/Chicago,-5.0
+PSN,Palestine Municipal,Palestine,TX,USA,31.77969444,-95.70630556,,America/Chicago,-5.0
+PSX,Palacios Municipal Airport,Palacios,TX,USA,28.72751778,-96.2509675,A,America/Chicago,-5.0
+PVW,Hale County,Plainview,TX,USA,34.16814722,-101.7173361,,America/Chicago,-5.0
+PWG,McGregor Exectuive ,Waco,TX,USA,31.48491667,-97.31652778,,America/Chicago,-5.0
+PYX,Perryton Ochiltree County,Perryton,TX,USA,36.41200333,-100.7517883,,America/Chicago,-5.0
+Q00,Littlefield Municipal,Littlefield,TX,USA,33.92395306,-102.38668309999998,,America/Chicago,-5.0
+Q06,City of Tulia/Swisher County Municipal,Tulia,TX,USA,34.56682472,-101.7814611,,America/Chicago,-5.0
+Q24,Levelland Municipal,Levelland,TX,USA,33.54980833,-102.3727333,,America/Chicago,-5.0
+Q26,Terry County,Brownfield,TX,USA,33.173675,-102.1926208,,America/Chicago,-5.0
+Q41,Floydada Municipal,Floydada,TX,USA,34.00230056,-101.330435,,America/Chicago,-5.0
+Q55,Dimmitt Municipal,Dimmitt,TX,USA,34.56673556,-102.3226947,,America/Chicago,-5.0
+RBD,Dallas Executive Airport,Dallas,TX,USA,32.68086111,-96.86819444,A,America/Chicago,-5.0
+RFG,Refugio-Rooke ,Refugio,TX,USA,28.29361694,-97.32304833,,America/Chicago,-5.0
+RKP,Aransas County Airport,Rockport,TX,USA,28.08677778,-97.04461111,A,America/Chicago,-5.0
+SAT,San Antonio International Airport,San Antonio,TX,USA,29.53369444,-98.46977778,A,America/Chicago,-5.0
+SEP,Stephenville Clark Regional Airport,Stephenville,TX,USA,32.21532333,-98.17766722,A,America/Chicago,-5.0
+SGR,Sugar Land Regional Airport,Houston,TX,USA,29.62225306,-95.65652889,A,America/Chicago,-5.0
+SJT,San Angelo Regional Mathis Field,San Angelo,TX,USA,31.35775,-100.4963056,A,America/Chicago,-5.0
+SLR,Sulphur Springs Municipal,Sulphur Springs,TX,USA,33.15983333,-95.62113889,,America/Chicago,-5.0
+SNK,Winston ,Snyder,TX,USA,32.69338667,-100.9504525,,America/Chicago,-5.0
+SPS,Sheppard Air Force Base-Wichita Falls Municipal Airport,Wichita Falls,TX,USA,33.98879611,-98.49189333,A,America/Chicago,-5.0
+SPX,Houston-Gulf,Houston,TX,USA,29.50836111,-95.05133333,,America/Chicago,-5.0
+SSF,Stinson Municipal Airport,San Antonio,TX,USA,29.3370075,-98.47114056,A,America/Chicago,-5.0
+SWW,Avenger ,Sweetwater,TX,USA,32.46736806,-100.4665508,,America/Chicago,-5.0
+T00,Chambers County,Anahauac,TX,USA,29.77,-94.66361194,,America/Chicago,-5.0
+T18,Brooks County,Falfurrias,TX,USA,27.20683333,-98.12117083,,America/Chicago,-5.0
+T28,Lampasas Municipal,Lampasas,TX,USA,31.10672694,-98.19600194,,America/Chicago,-5.0
+T35,Cameron Municipal Airpark,Cameron,TX,USA,30.87935556,-96.97109694,,America/Chicago,-5.0
+T41,La Porte Municipal,La Porte,TX,USA,29.66925,-95.06419444,,America/Chicago,-5.0
+T47,Kickapoo Downtown Airpark,Wichita Falls,TX,USA,33.86122222,-98.4904425,,America/Chicago,-5.0
+T49,Big Spring McMahon-Wrinkle,Big Spring,TX,USA,32.21261111,-101.5216389,,America/Chicago,-5.0
+T53,Robstown-Nueces County,Robstown,TX,USA,27.77854306,-97.69052389,,America/Chicago,-5.0
+T56,Crockett-Houston County,Crockett,TX,USA,31.30696111,-95.40383056,,America/Chicago,-5.0
+T57,Garland Heliport,Garland,TX,USA,32.887625,-96.6836075,,America/Chicago,-5.0
+T60,Stonewall County,Aspermont,TX,USA,33.17231861,-100.19760440000002,,America/Chicago,-5.0
+T65,Mid Valley,Weslaco,TX,USA,26.17763889,-97.97305556,,America/Chicago,-5.0
+T69,Sinton-San Patricio County,Sinton,TX,USA,28.03925,-97.54244444,,America/Chicago,-5.0
+T71,Cuero Municipal,Cuero,TX,USA,29.08358806,-97.26693417,,America/Chicago,-5.0
+T72,Hearne Municipal,Hearne,TX,USA,30.87182917,-96.62222639,,America/Chicago,-5.0
+T74,Taylor Municipal,Taylor,TX,USA,30.57194444,-97.44316667,,America/Chicago,-5.0
+T78,Liberty Municipal,Liberty,TX,USA,30.07780556,-94.69855556,,America/Chicago,-5.0
+T80,Kleberg County,Kingsville,TX,USA,27.55086111,-98.03091833,,America/Chicago,-5.0
+T82,Gillespie County,Fredericksburg,TX,USA,30.24369444,-98.90952778,,America/Chicago,-5.0
+T89,Castroville Municipal,Castroville,TX,USA,29.34192083,-98.85090056,,America/Chicago,-5.0
+T90,Chambers County,Winnie/Stowell,TX,USA,29.80411,-94.43102306,,America/Chicago,-5.0
+T97,Calhoun County,Port Lavaca,TX,USA,28.65405111,-96.6813125,,America/Chicago,-5.0
+TKI,McKinney Municipal,McKinney,TX,USA,33.17794778,-96.5905275,,America/Chicago,-5.0
+TPL,Draughon Miller Central Texas Regional Airport,Temple,TX,USA,31.1525,-97.40777778,A,America/Chicago,-5.0
+TRL,Terrell Municipal,Terrell,TX,USA,32.71004667,-96.26742306,,America/Chicago,-5.0
+TYR,Tyler Pounds Regional Airport,Tyler,TX,USA,32.35413889,-95.40238611,A,America/Chicago,-5.0
+UTS,Ust-Tsylma Airport,Huntsville,TX,USA,30.74688667,-95.58716667,N,America/Chicago,-5.0
+UVA,Garner Field,Uvalde,TX,USA,29.21135028,-99.74358306,A,America/Chicago,-5.0
+VCT,Victoria Regional Airport,Victoria,TX,USA,28.85255556,-96.91848722,A,America/Chicago,-5.0
+VHN,Culberson County,Van Horn,TX,USA,31.05784417,-104.7838056,,America/Chicago,-5.0

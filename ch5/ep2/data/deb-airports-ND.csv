@@ -1,0 +1,53 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+06D,Rolla Municipal,Rolla,ND,USA,48.88434111,-99.62087694,,America/Chicago,-5.0
+08D,Stanley Municipal,Stanley,ND,USA,48.30079861,-102.4063514,,America/Chicago,-5.0
+1ND3,Hamry ,Kindred,ND,USA,46.6485775,-97.00564306,,America/Chicago,-5.0
+20U,Beach,Beach,ND,USA,46.92362444,-103.9785389,,America/Denver,-6.0
+2D5,Oakes Municipal,Oakes,ND,USA,46.17301972,-98.07987556,,America/Chicago,-5.0
+3ND0,Northwood Municipal,Northwood,ND,USA,47.72423333,-97.59042222,,America/Chicago,-5.0
+46D,Carrington Municipal,Carrington,ND,USA,47.45111111,-99.15111111,,America/Chicago,-5.0
+51D,Edgeley Municipal ,Edgeley,ND,USA,46.34858333,-98.73555556,,America/Chicago,-5.0
+5N8,Casselton Regional,Casselton,ND,USA,46.85469528,-97.20870028,,America/Chicago,-5.0
+5ND6,Hillsboro Municipal,Hillsboro,ND,USA,47.35940778,-97.06041639,,America/Chicago,-5.0
+6D8,Barnes County Municipal,Valley City,ND,USA,46.94100778,-98.01762611,,America/Chicago,-5.0
+96D,Walhalla Municipal,Walhalla,ND,USA,48.94057222,-97.902775,,America/Chicago,-5.0
+9D7,Cando Municipal,Cando,ND,USA,48.4841675,-99.23680389,,America/Chicago,-5.0
+BIS,Bismarck Municipal Airport,Bismarck,ND,USA,46.77411111,-100.7467222,A,America/Chicago,-5.0
+BWP,Harry Stern,Wahpeton,ND,USA,46.24640083,-96.6056825,,America/Chicago,-5.0
+D04,Bowman Municipal,Bowman,ND,USA,46.18699111,-103.4280806,,America/Denver,-6.0
+D05,Garrison Municipal,Garrison,ND,USA,47.65594444,-101.4372222,,America/Chicago,-5.0
+D09,Bottineau Municipal,Bottineau,ND,USA,48.83039167,-100.4171361,,America/Chicago,-5.0
+D50,Crosby Municipal,Crosby,ND,USA,48.92851556,-103.2972514,,America/Chicago,-5.0
+D55,Robertson ,Langdon,ND,USA,48.75301778,-98.39333694,,America/Chicago,-5.0
+D57,Glen Ullin Municipal,Glen Ullin,ND,USA,46.81278306,-101.8601556,,America/North_Dakota/New_Salem,-5.0
+D60,Tioga Municipal,Tioga,ND,USA,48.3805325,-102.8979853,,America/Chicago,-5.0
+DIK,Dickinson Theodore Roosevelt Regional Airport,Dickinson,ND,USA,46.79738889,-102.8019528,A,America/Denver,-6.0
+DVL,Devils Lake Regional Airport,Devils Lake,ND,USA,48.11424528,-98.90877833,A,America/Chicago,-5.0
+FAR,Hector International Airport,Fargo,ND,USA,46.91934889,-96.81498889,A,America/Chicago,-5.0
+GAF,Gafsa Ksar International Airport,Grafton,ND,USA,48.40469444,-97.37094444,E,America/Chicago,-5.0
+GFK,Grand Forks International Airport,Grand Forks,ND,USA,47.949255,-97.17611111,A,America/Chicago,-5.0
+GWR,Gwinner-Roger Melroe ,Gwinner,ND,USA,46.21872222,-97.64325,,America/Chicago,-5.0
+HBC,Mohall Municipal,Mohall,ND,USA,48.76838333,-101.5369953,,America/Chicago,-5.0
+HEI,Heide-Büsum Airport,Hettinger,ND,USA,46.01494444,-102.6559722,E,America/Denver,-6.0
+HZE,Mercer County Regional,Hazen,ND,USA,47.28986111,-101.5809444,,America/North_Dakota/Beulah,-5.0
+ISN,Sloulin Field International Airport,Williston,ND,USA,48.17793861,-103.6423467,A,America/Chicago,-5.0
+JMS,Jamestown Regional Airport,Jamestown,ND,USA,46.92971944,-98.67819528,A,America/Chicago,-5.0
+MOT,Minot International Airport,Minot,ND,USA,48.25937778,-101.2803339,A,America/Chicago,-5.0
+ND06,Cavalier Municipal,Cavalier,ND,USA,48.78388139,-97.62981028,,America/Chicago,-5.0
+ND12,Ellendale Municipal,Ellendale,ND,USA,46.01247194,-98.51287889,,America/Chicago,-5.0
+ND17,Harvey Municipal,Harvey,ND,USA,47.79123306,-99.93174222,,America/Chicago,-5.0
+ND26,Kenmare Municipal,Kenmare,ND,USA,48.66758278,-102.0475944,,America/Chicago,-5.0
+ND28,Lakota Municipal,Lakota,ND,USA,48.0313875,-98.32788111,,America/Chicago,-5.0
+ND29,La Moure Rott Municipal,La Moure (New Site),ND,USA,46.34663556,-98.28371,,America/Chicago,-5.0
+ND33,Linton Municipal,Linton,ND,USA,46.21830472,-100.2450028,,America/Chicago,-5.0
+ND44,Mott Municipal,Mott,ND,USA,46.359725,-102.3229389,,America/Denver,-6.0
+ND66,Washburn Municipal,Washburn,ND,USA,47.35305,-101.0273681,,America/Chicago,-5.0
+PMB,Pembina Municipal Airport,Pembina,ND,USA,48.9425,-97.24083333,A,America/Chicago,-5.0
+RUG,Rugao Air Base,Rugby,ND,USA,48.39035917,-100.0242739,\N,America/Chicago,-5.0
+S25,Watford City Municipal,Watford City,ND,USA,47.79569972,-103.2536992,,America/Chicago,-5.0
+S28,International Peace Garden,Dunseith,ND,USA,48.99778194,-100.0434589,,America/Chicago,-5.0
+S32,Cooperstown Municipal,Cooperstown,ND,USA,47.42277361,-98.10587139,,America/Chicago,-5.0
+Y19,Mandan Municipal,Mandan,ND,USA,46.76823667,-100.8943433,,America/North_Dakota/New_Salem,-5.0
+Y27,Standing Rock,Fort Yates,ND,USA,46.06638556,-100.6348492,,America/Chicago,-5.0
+Y37,Park River Municipal,Park River,ND,USA,48.39443778,-97.78147889,,America/Chicago,-5.0
+Y74,Hankins ,Parshall,ND,USA,47.93640083,-102.1421142,,America/Chicago,-5.0

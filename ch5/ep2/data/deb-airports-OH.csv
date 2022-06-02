@@ -1,0 +1,101 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+02G,Columbiana County,East Liverpool,OH,USA,40.67331278,-80.64140639,,America/New_York,-4.0
+0G6,Williams County,Bryan,OH,USA,41.46736111,-84.50655556,,America/New_York,-4.0
+10G,Holmes County,Millersburg,OH,USA,40.53716667,-81.95436111,,America/New_York,-4.0
+16G,Seneca County,Tiffin,OH,USA,41.09405556,-83.2125,,America/New_York,-4.0
+17G,Port Bucyrus-Crawford County,Bucyrus,OH,USA,40.78141667,-82.97469444,,America/New_York,-4.0
+1G0,Wood County,Bowling Green,OH,USA,41.391000000000005,-83.63013889,,America/New_York,-4.0
+1G3,Kent State University,Kent,OH,USA,41.15186167,-81.41658306,,America/New_York,-4.0
+1G5,Freedom ,Medina,OH,USA,41.13144444,-81.76491667,,America/New_York,-4.0
+22I,Vinton County,McArthur,OH,USA,39.328125,-82.44182167,,America/New_York,-4.0
+29G,Portage County,Ravenna,OH,USA,41.210195,-81.25163083,,America/New_York,-4.0
+2D1,Barber,Alliance,OH,USA,40.97089139,-81.09981889,,America/New_York,-4.0
+2G2,Jefferson County Airpark,Steubenville,OH,USA,40.35944306,-80.70007806,,America/New_York,-4.0
+3G3,Wadsworth Municipal,Wadsworth,OH,USA,41.00158222,-81.75513111,,America/New_York,-4.0
+3G4,Ashland County,Ashland,OH,USA,40.90297222,-82.25563889,,America/New_York,-4.0
+3I7,Phillipsburg,Phillipsburg,OH,USA,39.91344194,-84.40030889,,America/New_York,-4.0
+45OH,North Bass Island,North Bass Island,OH,USA,41.71932528,-82.82196917,,America/New_York,-4.0
+4G5,Monroe County,Woodsfield,OH,USA,39.77904472,-81.10277222,,America/New_York,-4.0
+4I3,Knox County,Mount Vernon,OH,USA,40.32872222,-82.52377778,,America/New_York,-4.0
+4I9,Morrow County,Mt. Gilead,OH,USA,40.52452778,-82.85005556,,America/New_York,-4.0
+56D,Wyandot County,Upper Sandusky,OH,USA,40.88336139,-83.3145325,,America/New_York,-4.0
+5G7,Bluffton,Bluffton,OH,USA,40.88544444,-83.86863889,,America/New_York,-4.0
+62D,Warren,Warren,OH,USA,41.26672278,-80.92897778,,America/New_York,-4.0
+6G5,Barnesville - Bradfield,Barnesville,OH,USA,40.00243139,-81.19183000000001,,America/New_York,-4.0
+7G8,Geauga County,Middlefield,OH,USA,41.44960972,-81.06292972,,America/New_York,-4.0
+7I7,Bellefontaine Municipal,Bellefontaine,OH,USA,40.41208333,-83.73686111,,America/New_York,-4.0
+89D,Kelleys Island Land ,Kelleys Island,OH,USA,41.60282583,-82.684625,,America/New_York,-4.0
+8G6,Harrison County,Cadiz,OH,USA,40.23820667,-81.01256917,,America/New_York,-4.0
+AKR,Akure Airport,Akron,OH,USA,41.0375,-81.46693944,N,America/New_York,-4.0
+AMT,Amata Airport,West Union,OH,USA,38.85148778,-83.56627778,O,America/New_York,-4.0
+AOH,Lima Allen County Airport,Lima,OH,USA,40.70694444,-84.02666667,A,America/New_York,-4.0
+AXV,Neil Armstrong,Wapakoneta,OH,USA,40.49338889,-84.29894444,,America/New_York,-4.0
+BJJ,Wayne County,Wooster,OH,USA,40.87480556,-81.88825,,America/New_York,-4.0
+BKL,Burke Lakefront Airport,Cleveland,OH,USA,41.5175,-81.68333333,A,America/New_York,-4.0
+CAK,Akron Canton Regional Airport,Akron,OH,USA,40.91631194,-81.44246556,A,America/New_York,-4.0
+CDI,Cambridge Municipal,Cambridge,OH,USA,39.97504417,-81.57759528,,America/New_York,-4.0
+CGF,Cuyahoga County Airport,Cleveland,OH,USA,41.56512389,-81.48635389,A,America/New_York,-4.0
+CLE,Cleveland Hopkins International Airport,Cleveland,OH,USA,41.41089417,-81.84939667,A,America/New_York,-4.0
+CMH,John Glenn Columbus International Airport,Columbus,OH,USA,39.99798528,-82.89188278,A,America/New_York,-4.0
+CQA,Canarana Airport,Celina,OH,USA,40.48408333,-84.56011111,S,America/New_York,-4.0
+CYO,Vilo Acuña International Airport,Circleville,OH,USA,39.51600611,-82.98215361,U,America/New_York,-4.0
+DAY,James M Cox Dayton International Airport,Dayton,OH,USA,39.90237583,-84.219375,A,America/New_York,-4.0
+DFI,Defiance Memorial,Defiance,OH,USA,41.3375,-84.42880556,,America/New_York,-4.0
+DLZ,Dalanzadgad Airport,Delaware,OH,USA,40.27970139,-83.11480167,U,America/New_York,-4.0
+FDY,Findlay Airport,Findlay,OH,USA,41.01352778,-83.66869444,U,America/New_York,-4.0
+FZI,Fostoria Metropolitan,Fostoria,OH,USA,41.19083111,-83.39453639,,America/New_York,-4.0
+GAS,Garissa Airport,Gallipolis,OH,USA,38.83410833,-82.16342306,U,America/New_York,-4.0
+GEO,Cheddi Jagan International Airport,Georgetown,OH,USA,38.88195778,-83.88273278,U,America/New_York,-4.0
+GQQ,Galion Municipal Airport,Galion,OH,USA,40.75338889,-82.72380556,A,America/New_York,-4.0
+HAO,Butler Co Regional Airport - Hogan Field,Hamilton,OH,USA,39.36448861,-84.52457722,A,America/New_York,-4.0
+HOC,Highland County,Hillsboro,OH,USA,39.18875944,-83.53880694,,America/New_York,-4.0
+HTW,"Lawrence County Airpark,Inc",Chesapeake,OH,USA,38.41924861,-82.4943225,,America/New_York,-4.0
+HZY,Ashtabula County,Ashtabula,OH,USA,41.77797528,-80.69551333,,America/New_York,-4.0
+I12,Sidney Municipal,Sidney,OH,USA,40.24127944,-84.15101167,,America/New_York,-4.0
+I19,Greene County,Dayton,OH,USA,39.69172639,-83.99023806,,America/New_York,-4.0
+I23,Fayette County,Washington Court House,OH,USA,39.57040167,-83.42052444,,America/New_York,-4.0
+I40,Richard Downing,Coshocton,OH,USA,40.30918056,-81.85338194,,America/New_York,-4.0
+I43,James A Rhodes,Jackson,OH,USA,38.98135194,-82.57785667,,America/New_York,-4.0
+I57,Pike County,Waverly,OH,USA,39.16693333,-82.928175,,America/New_York,-4.0
+I66,Clinton ,Wilmington,OH,USA,39.50286111,-83.86305556,,America/New_York,-4.0
+I67,Cincinnati West,Harrison,OH,USA,39.25894444,-84.77430556,,America/New_York,-4.0
+I68,Lebanon-Warren County,Lebanon,OH,USA,39.46217306,-84.25184722,,America/New_York,-4.0
+I69,Clermont County,Batavia,OH,USA,39.07839722,-84.21020722,,America/New_York,-4.0
+I74,Grimes ,Urbana,OH,USA,40.12928306,-83.7548775,,America/New_York,-4.0
+I78,Union County,Marysville,OH,USA,40.22469444,-83.35161111,,America/New_York,-4.0
+I86,Perry County,New Lexington,OH,USA,39.69159667,-82.19778583,,America/New_York,-4.0
+I95,Hardin County,Kenton,OH,USA,40.61072,-83.64359694,,America/New_York,-4.0
+ISZ,Cincinnati-Blue Ash,Cincinnati,OH,USA,39.24669444,-84.38897222,,America/New_York,-4.0
+LCK,Rickenbacker International Airport,Columbus,OH,USA,39.81375917,-82.92786472,A,America/New_York,-4.0
+LHQ,Fairfield County,Lancaster,OH,USA,39.75564722,-82.65711,,America/New_York,-4.0
+LNN,Willoughby Lost Nation Municipal Airport,Willoughby,OH,USA,41.68391667,-81.39030556,A,America/New_York,-4.0
+LPR,Lorain Co Regional,Lorain/Elyria,OH,USA,41.34427778,-82.17763889,,America/New_York,-4.0
+LUK,Cincinnati Municipal Airport Lunken Field,Cincinnati,OH,USA,39.10334417,-84.41861417,A,America/New_York,-4.0
+MFD,Mansfield Lahm Regional Airport,Mansfield,OH,USA,40.82141667,-82.51663889,A,America/New_York,-4.0
+MGY,Dayton-Wright Brothers Airport,Dayton,OH,USA,39.58897222,-84.22486111,U,America/New_York,-4.0
+MNN,Marion Municipal,Marion,OH,USA,40.61625,-83.06347222,,America/New_York,-4.0
+MWO,Hook Field Municipal,Middletown,OH,USA,39.53102778,-84.39527778,,America/New_York,-4.0
+OH17,Henry County,Napoleon,OH,USA,41.37427778,-84.06791667,,America/New_York,-4.0
+OH21,Huron County,Norwalk,OH,USA,41.24476583,-82.55122722,,America/New_York,-4.0
+OH30,Put In Bay,Put In Bay,OH,USA,41.63674333,-82.82833333,,America/New_York,-4.0
+OSU,The Ohio State University Airport - Don Scott Field,Columbus,OH,USA,40.07977778,-83.07302778,U,America/New_York,-4.0
+OWX,Putnam County,Ottawa,OH,USA,41.0355825,-83.98202444,,America/New_York,-4.0
+OXD,Miami University,Oxford,OH,USA,39.50203917,-84.7841425,,America/New_York,-4.0
+PCW,Carl R. Keller ,Port Clinton,OH,USA,41.51627778,-82.86869444,,America/New_York,-4.0
+PHD,Harry Clever Field,New Philadelphia,OH,USA,40.47091667,-81.41975,A,America/New_York,-4.0
+PMH,Greater Portsmouth Regional Airport,Portsmouth,OH,USA,38.84047,-82.84731361,A,America/New_York,-4.0
+RZT,Ross County,Chillicothe,OH,USA,39.44136778,-83.02251556,,America/New_York,-4.0
+S24,Sandusky Co,Fremont,OH,USA,41.29570556,-83.03723056,,America/New_York,-4.0
+SGH,Springfield-Beckley Municipal Airport,Springfield,OH,USA,39.84028194,-83.84015056,A,America/New_York,-4.0
+TDZ,Toledo Metcalf,Toledo,OH,USA,41.56487194,-83.48226139,,America/New_York,-4.0
+TOL,Toledo Express Airport,Toledo,OH,USA,41.58680556,-83.80783333,A,America/New_York,-4.0
+TSO,Carroll County-Tolson,Carrollton,OH,USA,40.56186833,-81.07748611,,America/New_York,-4.0
+TZR,Taszár Air Base,Columbus,OH,USA,39.90081778,-83.13719361,A,America/New_York,-4.0
+UNI,Union Island International Airport,Athens/Albany,OH,USA,39.21096222,-82.23142583,U,America/New_York,-4.0
+USE,Fulton County,Wauseon,OH,USA,41.61033333,-84.12552778,,America/New_York,-4.0
+UYF,Madison County,London,OH,USA,39.93272694,-83.46200361,,America/New_York,-4.0
+VES,Darke County,Versailles,OH,USA,40.20441667,-84.53191667,,America/New_York,-4.0
+VNW,Van Wert County,Van Wert,OH,USA,40.86472222,-84.60944444,,America/New_York,-4.0
+VTA,Newark-Heath,Newark,OH,USA,40.024675,-82.46182194,,America/New_York,-4.0
+YNG,Youngstown Warren Regional Airport,Youngstown,OH,USA,41.26073556,-80.67909667,A,America/New_York,-4.0
+ZZV,Zanesville Municipal Airport,Zanesville,OH,USA,39.94445833,-81.89210528,\N,America/New_York,-4.0

@@ -1,0 +1,36 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+1L7,Escalante Municipal,Escalante,UT,USA,37.74532639,-111.5701653,,America/Denver,-6.0
+1L9,Parowan,Parowan,UT,USA,37.85969694,-112.816055,,America/Denver,-6.0
+36U,Heber City Municipal/Russ McDonald ,Heber,UT,USA,40.48180556,-111.4288056,,America/Denver,-6.0
+38U,Wayne Wonderland,Loa,UT,USA,38.36247972,-111.5960164,,America/Denver,-6.0
+40U,Manila,Manila,UT,USA,40.98607,-109.6784811,,America/Denver,-6.0
+41U,Manti-Ephraim,Manti,UT,USA,39.32912833,-111.6146397,,America/Denver,-6.0
+74V,Roosevelt Municipal,Roosevelt,UT,USA,40.27829167,-110.0512619,,America/Denver,-6.0
+BCE,Bryce Canyon Airport,Bryce Canyon,UT,USA,37.70637111,-112.1454725,A,America/Denver,-6.0
+BDG,Blanding Muni,Blanding,UT,USA,37.58303472,-109.4832889,,America/Denver,-6.0
+BMC,Brigham City Regional Airport,Brigham City,UT,USA,41.55239139,-112.0622625,A,America/Denver,-6.0
+CDC,Cedar City Regional Airport,Cedar City,UT,USA,37.70097028,-113.098575,A,America/Denver,-6.0
+CNY,Canyonlands Field,Moab,UT,USA,38.75495611,-109.7548439,A,America/Denver,-6.0
+DTA,Delta Municipal Airport,Delta,UT,USA,39.38328861,-112.5096683,A,America/Denver,-6.0
+ENV,Wendover Airport,Wendover,UT,USA,40.71869528,-114.03089,A,America/Denver,-6.0
+HVE,Hanksville,Hanksville,UT,USA,38.41803722,-110.7040378,,America/Denver,-6.0
+KNB,Kanab Muni,Kanab,UT,USA,37.01110583,-112.5311936,,America/Denver,-6.0
+LGU,Logan-Cache Airport,Logan,UT,USA,41.78773083,-111.8526822,A,America/Denver,-6.0
+MLF,Milford Municipal,Milford,UT,USA,38.4266325,-113.0124564,,America/Denver,-6.0
+OGD,Ogden Hinckley Airport,Ogden,UT,USA,41.19594417,-112.012175,A,America/Denver,-6.0
+PUC,Carbon County Regional/Buck Davis Field,Price,UT,USA,39.61391556,-110.7514183,A,America/Denver,-6.0
+PVU,Provo Municipal Airport,Provo,UT,USA,40.21919444,-111.7233611,A,America/Denver,-6.0
+RIF,Richfield Muni,Richfield,UT,USA,38.73643611,-112.0989444,,America/Denver,-6.0
+SGU,St George Municipal Airport,St George,UT,USA,37.09058333,-113.5930556,A,America/Denver,-6.0
+SLC,Salt Lake City International Airport,Salt Lake City,UT,USA,40.78838778,-111.9777731,A,America/Denver,-6.0
+TVY,Dawei Airport,Tooele,UT,USA,40.6122725,-112.3507719,U,America/Denver,-6.0
+U14,Nephi Municipal,Nephi,UT,USA,39.73884333,-111.8716011,,America/Denver,-6.0
+U34,Green River Muni,Green River,UT,USA,38.96136167,-110.2273619,,America/Denver,-6.0
+U42,Salt Lake City Municipal 2,Salt Lake City,UT,USA,40.61954,-111.9928858,,America/Denver,-6.0
+U43,Monticello,Monticello,UT,USA,37.937215,-109.3465053,,America/Denver,-6.0
+U52,Beaver Municipal,Beaver,UT,USA,38.23071,-112.6753497,,America/Denver,-6.0
+U55,Panguitch Municipal,Panguitch,UT,USA,37.84523333,-112.3918731,,America/Denver,-6.0
+U69,Duchesne Municipal,Duchesne,UT,USA,40.19190167,-110.3809886,,America/Denver,-6.0
+U77,Spanish Fork-Springville,Spanish Fork,UT,USA,40.14162139,-111.6613125,,America/Denver,-6.0
+U96,Cal Black Memorial,Halls Crossing,UT,USA,37.44221444,-110.5695836,,America/Denver,-6.0
+VEL,Vernal Regional Airport,Vernal,UT,USA,40.44090167,-109.5099203,A,America/Denver,-6.0

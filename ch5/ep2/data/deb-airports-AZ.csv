@@ -1,0 +1,60 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0V7,Kayenta,Kayenta,AZ,USA,36.70972139,-110.2367978,,America/Denver,-6.0
+1G4,Grand Canyon West,Peach Springs,AZ,USA,35.99221,-113.81661640000002,,America/Phoenix,-7.0
+4PH,Polacca,Polacca,AZ,USA,35.79167222,-110.4234653,,America/Phoenix,-7.0
+85V,Ganado,Ganado,AZ,USA,35.70140278,-109.5103814,,America/Denver,-6.0
+AVQ,Marana Northwest Regional,Marana,AZ,USA,32.40939028,-111.2185086,,America/Phoenix,-7.0
+AZC,Colorado City Municipal,Colorado City,AZ,USA,36.95994444,-113.0138889,,America/Phoenix,-7.0
+BXK,Buckeye Municipal Airport,Buckeye,AZ,USA,33.42088556,-112.6863,U,America/Phoenix,-7.0
+CFT,Greenlee County,Clifton-Morenci,AZ,USA,32.95284306,-109.2103453,,America/Phoenix,-7.0
+CGZ,Casa Grande Municipal Airport,Casa Grande,AZ,USA,32.95488889,-111.7668333,U,America/Phoenix,-7.0
+CHD,Chandler Municipal,Chandler,AZ,USA,33.26908333,-111.8111389,,America/Phoenix,-7.0
+DUG,Bisbee Douglas International Airport,Douglas Bisbee,AZ,USA,31.46902778,-109.60366670000002,A,America/Phoenix,-7.0
+DVT,Phoenix Deer Valley Airport,Phoenix,AZ,USA,33.68831667,-112.0825614,A,America/Phoenix,-7.0
+E24,Whiteriver,Whiteriver,AZ,USA,33.81255056,-109.9867658,,America/Phoenix,-7.0
+E25,Wickenburg Municipal,Wickenburg,AZ,USA,33.96891833,-112.7985128,,America/Phoenix,-7.0
+E51,Bagdad,Bagdad,AZ,USA,34.59585278,-113.170195,,America/Phoenix,-7.0
+E60,Eloy Municipal,Eloy,AZ,USA,32.80700583,-111.58679,,America/Phoenix,-7.0
+E63,Gila Bend Municipal,Gila Bend,AZ,USA,32.95810083,-112.67821809999998,,America/Phoenix,-7.0
+E91,Chinle Municipal,Chinle,AZ,USA,36.11088056,-109.5754222,,America/Denver,-6.0
+E95,Benson Municipal,Benson,AZ,USA,31.99972222,-110.3572222,,America/Phoenix,-7.0
+FFZ,Falcon ,Mesa,AZ,USA,33.46083333,-111.7283333,,America/Phoenix,-7.0
+FHU,Sierra Vista Municipal Libby Army Air Field,Fort Huachuca-Sierra Vista,AZ,USA,31.58847222,-110.3443889,A,America/Phoenix,-7.0
+FLG,Flagstaff Pulliam Airport,Flagstaff,AZ,USA,35.13845472,-111.6712183,N,America/Phoenix,-7.0
+GCN,Grand Canyon National Park Airport,Grand Canyon,AZ,USA,35.95235389,-112.1469647,N,America/Phoenix,-7.0
+GEU,Glendale Municipal,Glendale,AZ,USA,33.52726278,-112.2951564,,America/Phoenix,-7.0
+GYR,Phoenix Goodyear Airport,Goodyear,AZ,USA,33.42281972,-112.3759919,N,America/Phoenix,-7.0
+HII,Lake Havasu City Airport,Lake Havasu City,AZ,USA,34.56816056,-114.3561783,N,America/Phoenix,-7.0
+IFP,Laughlin/Bullhead International,Bullhead City,AZ,USA,35.15738889,-114.5595278,,America/Phoenix,-7.0
+IGM,Kingman,Kingman,AZ,USA,35.25947222,-113.93805559999998,,America/Phoenix,-7.0
+INW,Winslow Lindbergh Regional Airport,Winslow,AZ,USA,35.02191667,-110.7225278,N,America/Phoenix,-7.0
+IWA,Ivanovo South Airport,Phoenix,AZ,USA,33.30783333,-111.6554722,N,America/Phoenix,-7.0
+MZJ,Pinal Airpark,Marana,AZ,USA,32.50984389,-111.32533390000002,N,America/Phoenix,-7.0
+OLS,Nogales International Airport,Nogales,AZ,USA,31.41772222,-110.8478889,A,America/Phoenix,-7.0
+P01,Ajo Municipal,Ajo,AZ,USA,32.45005694,-112.8673778,,America/Phoenix,-7.0
+P04,Bisbee Municipal,Bisbee,AZ,USA,31.36399028,-109.88312859999998,,America/Phoenix,-7.0
+P08,Coolidge Municipal,Coolidge,AZ,USA,32.93594444,-111.4265278,,America/Phoenix,-7.0
+P13,San Carlos Apache,Globe,AZ,USA,33.35314722,-110.6673611,,America/Phoenix,-7.0
+P14,Holbrook Municipal,Holbrook,AZ,USA,34.93891389,-110.1395656,,America/Phoenix,-7.0
+P20,Avi Suquilla,Parker,AZ,USA,34.15063889,-114.2712222,,America/Phoenix,-7.0
+P32,H.A. Clark Memorial ,Williams,AZ,USA,35.30223222,-112.1940575,,America/Phoenix,-7.0
+P33,Cochise County,Willcox,AZ,USA,32.24540278,-109.8946319,,America/Phoenix,-7.0
+P52,Cottonwood,Cottonwood,AZ,USA,34.73002111,-112.03515690000002,,America/Phoenix,-7.0
+PAN,Pattani Airport,Payson,AZ,USA,34.25683639,-111.3392558,U,America/Phoenix,-7.0
+PGA,Page Municipal Airport,Page,AZ,USA,36.92611111,-111.4483611,A,America/Phoenix,-7.0
+PHX,Phoenix Sky Harbor International Airport,Phoenix,AZ,USA,33.43416667,-112.0080556,N,America/Phoenix,-7.0
+PRC,Ernest A. Love Field,Prescott,AZ,USA,34.65447222,-112.4195833,A,America/Phoenix,-7.0
+Q35,Springerville Babbitt ,Springerville,AZ,USA,34.1286575,-109.3114756,,America/Phoenix,-7.0
+RQE,Window Rock,Window Rock,AZ,USA,35.65205556,-109.0673889,,America/Denver,-6.0
+RYN,Royan-Médis Airport,Tucson,AZ,USA,32.14308333,-111.1728611,E,America/Phoenix,-7.0
+SAD,Safford Regional Airport,Safford,AZ,USA,32.85331278,-109.6349708,N,America/Phoenix,-7.0
+SDL,Sundsvall-Härnösand Airport,Scottsdale,AZ,USA,33.622875,-111.91053329999998,E,America/Phoenix,-7.0
+SEZ,Seychelles International Airport,Sedona,AZ,USA,34.84862889,-111.7884614,U,America/Phoenix,-7.0
+SJN,St Johns Industrial Air Park,St Johns,AZ,USA,34.51855556,-109.37875,,America/Phoenix,-7.0
+SOW,Show Low Regional Airport,Show Low,AZ,USA,34.26527194,-110.0054075,A,America/Phoenix,-7.0
+T03,Tuba City,Tuba City,AZ,USA,36.09276972,-111.3826419,,America/Denver,-6.0
+TUS,Tucson International Airport,Tucson,AZ,USA,32.11608333,-110.9410278,N,America/Phoenix,-7.0
+TYL,Capitan Montes Airport,Taylor,AZ,USA,34.45283333,-110.11480559999998,U,America/Phoenix,-7.0
+U30,Temple Bar,Temple Bar,AZ,USA,36.02054056,-114.3352461,,America/Phoenix,-7.0
+YUM,Yuma MCAS/Yuma International Airport,Yuma,AZ,USA,32.65658333,-114.6059722,N,America/Phoenix,-7.0
+Z95,Cibecue,Cibecue,AZ,USA,34.00333333,-110.4441667,,America/Phoenix,-7.0

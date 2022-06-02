@@ -1,0 +1,98 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+01G,Perry-Warsaw,Perry,NY,USA,42.74134667,-78.05208056,,America/New_York,-4.0
+06N,Randall ,Middletown,NY,USA,41.43156583,-74.39191722,,America/New_York,-4.0
+0B8,Elizabeth ,Fishers Island,NY,USA,41.25130806,-72.03161139,,America/New_York,-4.0
+0G0,North Buffalo Suburban,Lockport,NY,USA,43.10318389,-78.70334583,,America/New_York,-4.0
+0G7,Finger Lakes Regional,Seneca Falls,NY,USA,42.88062278,-76.78162028,,America/New_York,-4.0
+10N,Wallkill,Wallkill,NY,USA,41.62787111,-74.13375583,,America/New_York,-4.0
+1B1,Columbia Cty,Hudson,NY,USA,42.29130028,-73.71031944,,America/New_York,-4.0
+1G6,Michael ,Cicero,NY,USA,43.18166667,-76.12777778,,America/New_York,-4.0
+1I5,Freehold,Freehold,NY,USA,42.36425,-74.06596806,,America/New_York,-4.0
+1N2,Spadaro ,East Moriches,NY,USA,40.82787639,-72.74871083,,America/New_York,-4.0
+20N,Kingston-Ulster,Kingston,NY,USA,41.9852525,-73.96409722,,America/New_York,-4.0
+23N,Bayport Aerodrome,Bayport,NY,USA,40.75843139,-73.05372083,,America/New_York,-4.0
+3G7,Williamson/Sodus,Williamson,NY,USA,43.23472222,-77.12097222,,America/New_York,-4.0
+44N,Sky Acres,Millbrook,NY,USA,41.70742861,-73.73802889,,America/New_York,-4.0
+46N,Sky Park,Red Hook,NY,USA,41.98458333,-73.83596556,,America/New_York,-4.0
+4B0,South Albany,South Bethlehem,NY,USA,42.56072611,-73.83395639,,America/New_York,-4.0
+4B1,Duanesburg,Duanesburg,NY,USA,42.75840889,-74.13290472,,America/New_York,-4.0
+4B6,Ticonderoga Muni,Ticonderoga,NY,USA,43.87700278,-73.41317639,,America/New_York,-4.0
+4B7,Schroon Lake,Schroon Lake,NY,USA,43.86256083,-73.74262972,,America/New_York,-4.0
+4G2,Hamburg Inc.,Hamburg,NY,USA,42.7008925,-78.91475694,,America/New_York,-4.0
+4G6,Hornell Muni,Hornell,NY,USA,42.38214444,-77.6821125,,America/New_York,-4.0
+5B2,Saratoga Cty,Saratoga Springs,NY,USA,43.05126111,-73.86119444,,America/New_York,-4.0
+5B7,Rensselaer Air Park,Troy,NY,USA,42.69091194,-73.57956,,America/New_York,-4.0
+5G0,Leroy ,Le Roy,NY,USA,42.98136667,-77.93751389,,America/New_York,-4.0
+6B4,Frankfort-Highland,Utica/Frankfort,NY,USA,43.02090306,-75.17043861,,America/New_York,-4.0
+6B9,Skaneateles Aero Drome,Skaneateles,NY,USA,42.91395583,-76.44076889,,America/New_York,-4.0
+6N5,E 34th St Heliport,New York,NY,USA,40.74260167,-73.97208306,,America/New_York,-4.0
+6N7,New York Skyports Inc. SPB,New York,NY,USA,40.73399083,-73.97291639,,America/New_York,-4.0
+7G0,Ledgedale Airpark,Brockport,NY,USA,43.18118194,-77.91362333,,America/New_York,-4.0
+7N1,Corning-Painted Post,Corning,NY,USA,42.17590722,-77.11219278,,America/New_York,-4.0
+9G0,Buffalo Airfield,Buffalo,NY,USA,42.86200306,-78.71658528,,America/New_York,-4.0
+9G3,Akron,Akron,NY,USA,43.02108667,-78.48296778,,America/New_York,-4.0
+9G5,Royalton,Gasport,NY,USA,43.18200222,-78.55780528,,America/New_York,-4.0
+ALB,Albany International Airport,Albany,NY,USA,42.74811944,-73.80297861,A,America/New_York,-4.0
+ART,Watertown International Airport,Watertown,NY,USA,43.99192222,-76.02173861,A,America/New_York,-4.0
+B01,Granville,Granville,NY,USA,43.42507111,-73.26205306,,America/New_York,-4.0
+B16,Whitford,Weedsport,NY,USA,43.08027611,-76.53837556,,America/New_York,-4.0
+BGM,Greater Binghamton/Edwin A Link field,Binghamton,NY,USA,42.20848278,-75.97961361,A,America/New_York,-4.0
+BUF,Buffalo Niagara International Airport,Buffalo,NY,USA,42.94052472,-78.73216667,A,America/New_York,-4.0
+CZG,Tri-Cities ,Endicott,NY,USA,42.07853583,-76.09633306,,America/New_York,-4.0
+D22,Angola ,Angola,NY,USA,42.66010111,-78.99115556,,America/New_York,-4.0
+D38,Canandaiga,Canandaiga,NY,USA,42.90718611,-77.32162639,,America/New_York,-4.0
+D77,Lancaster,Lancaster,NY,USA,42.92228111,-78.61224889,,America/New_York,-4.0
+DKK,Chautauqua County-Dunkirk Airport,Dunkirk,NY,USA,42.49333528,-79.27204167,A,America/New_York,-4.0
+DSV,Dansville Muni,Dansville,NY,USA,42.57089972,-77.71305083,,America/New_York,-4.0
+ELM,Elmira Corning Regional Airport,Elmira,NY,USA,42.15991361,-76.89144333,A,America/New_York,-4.0
+ELZ,Wellsville Muni Tarantine,Wellsville,NY,USA,42.10951194,-77.99194806,,America/New_York,-4.0
+FOK,Francis S Gabreski Airport,Westhampton Beach,NY,USA,40.84365472,-72.63178917,A,America/New_York,-4.0
+FRG,Republic Airport,Farmingdale,NY,USA,40.72878111,-73.41340722,A,America/New_York,-4.0
+FZY,Oswego Cty,Fulton,NY,USA,43.35077528,-76.38805361,,America/New_York,-4.0
+GFL,Floyd Bennett Memorial Airport,Glens Falls,NY,USA,43.34121,-73.61030749999999,A,America/New_York,-4.0
+GVQ,Genesee Cty,Batavia,NY,USA,43.03172639,-78.16759972,,America/New_York,-4.0
+H30,Hamilton Municipal ,Hamilton,NY,USA,42.84381889,-75.56140194,,America/New_York,-4.0
+HPN,Westchester County Airport,White Plains,NY,USA,41.06695778,-73.70757444,A,America/New_York,-4.0
+HTO,East Hampton,East Hampton,NY,USA,40.95957778,-72.25185056,,America/New_York,-4.0
+HWV,Brookhaven,Shirley,NY,USA,40.81676528,-72.86204722,,America/New_York,-4.0
+IAG,Niagara Falls International Airport,Niagara Falls,NY,USA,43.10725861,-78.94538139,A,America/New_York,-4.0
+ISP,Long Island Mac Arthur Airport,Islip,NY,USA,40.7952425,-73.10021194,A,America/New_York,-4.0
+ITH,Ithaca Tompkins Regional Airport,Ithaca,NY,USA,42.49102778,-76.45844444,A,America/New_York,-4.0
+JFK,John F Kennedy International Airport,New York,NY,USA,40.63975111,-73.77892556,A,America/New_York,-4.0
+JHW,Chautauqua County-Jamestown Airport,Jamestown,NY,USA,42.15336861,-79.25803499999999,A,America/New_York,-4.0
+JRA,West 30th St. Heliport,New York,NY,USA,40.75454583,-74.00708389,A,America/New_York,-4.0
+JRB,Downtown-Manhattan/Wall St Heliport,New York,NY,USA,40.70121361,-74.00902833,A,America/New_York,-4.0
+K09,Piseco Muni,Piseco,NY,USA,43.45340222,-74.51765083,,America/New_York,-4.0
+LGA,La Guardia Airport,New York,NY,USA,40.77724306,-73.87260917,A,America/New_York,-4.0
+LKP,Lake Placid Airport,Lake Placid,NY,USA,44.26447361,-73.96186639,A,America/New_York,-4.0
+MAL,Malone-Dufort,Malone,NY,USA,44.85365722,-74.32894972,,America/New_York,-4.0
+MGJ,Orange County Airport,Montgomery,NY,USA,41.50998278,-74.26465056,A,America/New_York,-4.0
+MSS,Massena International Richards Field,Massena,NY,USA,44.93582722,-74.84554583,A,America/New_York,-4.0
+MSV,Sullivan Cty Intl,Monticello,NY,USA,41.70164917,-74.79501389,,America/New_York,-4.0
+MTP,Montauk Airport,Montauk,NY,USA,41.07694333,-71.92039972,A,America/New_York,-4.0
+N00,Maben,Lexington,NY,USA,42.27230778,-74.39403667,,America/New_York,-4.0
+N03,Cortland Cty-Chase ,Cortland,NY,USA,42.59264528,-76.2148825,,America/New_York,-4.0
+N23,Sidney Muni,Sidney,NY,USA,42.30258,-75.41595639,,America/New_York,-4.0
+N25,Westport ,"Westport, NY",NY,USA,44.15838611,-73.43290444,,America/New_York,-4.0
+N37,Monticello,Monticello ,NY,USA,41.62249167,-74.70141111,,America/New_York,-4.0
+N66,Oneonta Muni,Oneonta,NY,USA,42.52476694,-75.06446167,,America/New_York,-4.0
+N69,Stormville,Stormville,NY,USA,41.57698222,-73.73235278,,America/New_York,-4.0
+N72,Warwick Muni,Warwick,NY,USA,41.28759361,-74.28709472,,America/New_York,-4.0
+N82,Wurtsboro-Sullivan Cty,Wurtsboro,NY,USA,41.59720444,-74.45840722,,America/New_York,-4.0
+N89,Joseph Y. Resnick,Ellenville,NY,USA,41.72787111,-74.37737583,,America/New_York,-4.0
+NK03,Kamp ,Durhamville,NY,USA,43.13472111,-75.64890417,,America/New_York,-4.0
+NY0,Fulton Cty,Johnstown,NY,USA,42.99821222,-74.32955111,,America/New_York,-4.0
+OGS,Ogdensburg International Airport,Ogdensburg,NY,USA,44.68185361,-75.46549917,A,America/New_York,-4.0
+OIC,Lt Warren Eaton,Norwich,NY,USA,42.56655417,-75.52411167,,America/New_York,-4.0
+OLE,Olean Muni,Olean,NY,USA,42.24006611,-78.371685,,America/New_York,-4.0
+PEO,Penn Yan,Penn Yan,NY,USA,42.63813556,-77.05306083,,America/New_York,-4.0
+PLB,Clinton Cty,Plattsburgh,NY,USA,44.68751861,-73.52452306,,America/New_York,-4.0
+POU,Dutchess County Airport,Poughkeepsie,NY,USA,41.62661111,-73.88411111,\N,America/New_York,-4.0
+PTD,Potsdam Muni-Damon ,Potsdam,NY,USA,44.67666917,-74.94844639,,America/New_York,-4.0
+RME,Griffiss International Airport,Rome,NY,USA,43.23379861,-75.40703333,A,America/New_York,-4.0
+ROC,Greater Rochester International Airport,Rochester,NY,USA,43.11886611,-77.67238389,A,America/New_York,-4.0
+SCH,Schenectady County Airport,Schenectady,NY,USA,42.85245556,-73.92886750000001,A,America/New_York,-4.0
+SLK,Adirondack Regional Airport,Saranac Lake,NY,USA,44.38531,-74.20618472,A,America/New_York,-4.0
+SWF,Stewart International Airport,Newburgh,NY,USA,41.50409361,-74.10483833,A,America/New_York,-4.0
+SYR,Syracuse Hancock International Airport,Syracuse,NY,USA,43.11118694,-76.10631056,A,America/New_York,-4.0
+UCA,Oneida Cty,Utica,NY,USA,43.14511944,-75.38385889,,America/New_York,-4.0

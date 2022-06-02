@@ -1,0 +1,71 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0A3,Smithville Municipal,Smithville,TN,USA,35.98531194,-85.80931806,,America/Chicago,-5.0
+0A9,Elizabethton Municipal,Elizabethton,TN,USA,36.37094306,-82.17374111,,America/New_York,-4.0
+0M1,Scott ,Parsons,TN,USA,35.63778,-88.127995,,America/Chicago,-5.0
+0M4,Benton County,Camden,TN,USA,36.01122694,-88.12328833,,America/Chicago,-5.0
+0M5,Humphreys County,Waverly,TN,USA,36.11659972,-87.73815889,,America/Chicago,-5.0
+1A3,Martin Campbell ,Copperhill,TN,USA,35.01619111,-84.34631083,,America/New_York,-4.0
+1A7,Jackson County,Gainesboro,TN,USA,36.39728139,-85.64164278,,America/Chicago,-5.0
+1M5,Portland Municipal,Portland,TN,USA,36.59287528,-86.47691028,,America/Chicago,-5.0
+2A0,Mark Anton,Dayton,TN,USA,35.48624611,-84.93109722,,America/New_York,-4.0
+2A1,Jamestown Municipal,Jamestown,TN,USA,36.34970833,-84.94664472,,America/Chicago,-5.0
+2M2,Lawrenceburg Municipal,Lawrenceburg,TN,USA,35.234302500000005,-87.25793222,,America/Chicago,-5.0
+2M8,Charles W. Baker,Millington,TN,USA,35.27897583,-89.93147611,,America/Chicago,-5.0
+3A2,New Tazewell Municipal,Tazewell,TN,USA,36.41008417,-83.55546167,,America/New_York,-4.0
+3M7,Lafayette Municipal,Lafayette,TN,USA,36.518375,-86.05828083,,America/Chicago,-5.0
+6A4,Johnson County,Mountain City,TN,USA,36.41789833,-81.82511528,,America/New_York,-4.0
+8A3,Livingston Municipal,Livingston,TN,USA,36.41217389,-85.31154861,,America/Chicago,-5.0
+APT,Marion County Brown Field,Jasper,TN,USA,35.06067778,-85.58531667,A,America/Chicago,-5.0
+BGF,Bangui M'Poko International Airport,Winchester,TN,USA,35.17753417,-86.06616722,N,America/Chicago,-5.0
+BNA,Nashville International Airport,Nashville,TN,USA,36.12447667,-86.67818222,A,America/Chicago,-5.0
+CHA,Lovell Field,Chattanooga,TN,USA,35.03526833,-85.20378778,A,America/New_York,-4.0
+CKV,Clarksville–Montgomery County Regional Airport,Clarksville,TN,USA,36.62188083,-87.41495361,A,America/Chicago,-5.0
+CSV,Crossville Memorial Whitson Field,Crossville,TN,USA,35.95129194,-85.08497806,\N,America/Chicago,-5.0
+DKX,Knoxville Downtown Island,Knoxville,TN,USA,35.96383361,-83.87365389,,America/New_York,-4.0
+DYR,Ugolny Airport,Dyersburg,TN,USA,35.99850694,-89.40608333,N,America/Chicago,-5.0
+FYE,Fayette County,Somerville,TN,USA,35.20592,-89.39441667,,America/Chicago,-5.0
+FYM,Fayetteville Municipal,Fayetteville,TN,USA,35.05836278,-86.56441139,,America/Chicago,-5.0
+GCY,Greeneville Municipal,Greeneville,TN,USA,36.19299083,-82.81507028,,America/New_York,-4.0
+GHM,Centerville Municipal,Centerville,TN,USA,35.83742722,-87.445375,,America/Chicago,-5.0
+GKT,Gatlinburg-Pigeon Forge,Sevierville,TN,USA,35.85775889,-83.52870472,,America/New_York,-4.0
+GZS,Abernathy ,Pulaski,TN,USA,35.15371972,-87.05681444,,America/Chicago,-5.0
+HDI,Hardwick Field,Cleveland,TN,USA,35.22007306,-84.83244333,A,America/New_York,-4.0
+HZD,Carroll County,Huntingdon,TN,USA,36.08930722,-88.46329778,,America/Chicago,-5.0
+JAU,Francisco Carle Airport,Jacksboro,TN,USA,36.33457556,-84.16234472,U,America/New_York,-4.0
+JWN,Zanjan Airport,Nashville,TN,USA,36.18236194,-86.88672278,E,America/Chicago,-5.0
+LUG,Lugano Airport,Lewisburg,TN,USA,35.506975,-86.80388611,E,America/Chicago,-5.0
+M01,General Dewitt Spain,Memphis,TN,USA,35.20069278,-90.05397694,,America/Chicago,-5.0
+M02,Dickson Municipal,Dickson,TN,USA,36.12931722,-87.43007056,,America/Chicago,-5.0
+M04,Covington Municipal,Covington,TN,USA,35.583365,-89.58722167,,America/Chicago,-5.0
+M08,William L. Whitehurst ,Bolivar,TN,USA,35.21445944,-89.04336222,,America/Chicago,-5.0
+M15,Perry County,Linden,TN,USA,35.59590306,-87.87669361,,America/Chicago,-5.0
+M29,Hassel ,Clifton,TN,USA,35.38507528,-87.96752833,,America/Chicago,-5.0
+M33,Sumner County Regional,Gallatin,TN,USA,36.37684472,-86.40875861,,America/Chicago,-5.0
+M52,Franklin-Wilkins,Lexington,TN,USA,35.65131944,-88.37893444,,America/Chicago,-5.0
+M53,Humboldt Municipal,Humboldt,TN,USA,35.80218,-88.87494944,,America/Chicago,-5.0
+M54,Lebanon Municipal,Lebanon,TN,USA,36.19041667,-86.31569444,,America/Chicago,-5.0
+M91,Springfield-Robertson County,Springfield,TN,USA,36.53726194,-86.92068917,,America/Chicago,-5.0
+MBT,Moises R. Espinosa Airport,Murfreesboro,TN,USA,35.87748444,-86.37753222,N,America/Chicago,-5.0
+MEM,Memphis International Airport,Memphis,TN,USA,35.04241667,-89.97666667,A,America/Chicago,-5.0
+MKL,McKellar-Sipes Regional Airport,Jackson,TN,USA,35.59987944,-88.91561611,A,America/Chicago,-5.0
+MMI,McMinn County Airport,Athens,TN,USA,35.39730333,-84.56256861,N,America/New_York,-4.0
+MNV,Monroe County,Madisonville,TN,USA,35.54537222,-84.380235,,America/New_York,-4.0
+MOR,Moore-Murrell,Morristown,TN,USA,36.17939639,-83.37544944,,America/New_York,-4.0
+MQY,Smyrna Airport,Smyrna,TN,USA,36.00897944,-86.52007667,A,America/Chicago,-5.0
+MRC,Maury County,Columbia-Mt Pleasant,TN,USA,35.55413889,-87.17891667,,America/Chicago,-5.0
+NQA,Millington-Memphis Airport,Millington,TN,USA,35.35666667,-89.87027778,A,America/Chicago,-5.0
+PHT,Henry County,Paris,TN,USA,36.33822472,-88.38287861,,America/Chicago,-5.0
+RKW,Rockwood Municipal,Rockwood,TN,USA,35.922295,-84.68966278,,America/Chicago,-5.0
+RNC,Warren County Memorial,McMinnville,TN,USA,35.69870944,-85.84381722,,America/Chicago,-5.0
+RVN,Rovaniemi Airport,Rogersville,TN,USA,36.45757917,-82.88503722,E,America/New_York,-4.0
+SCX,Scott Municipal,Oneida,TN,USA,36.45569444,-84.58575,,America/New_York,-4.0
+SNH,Savannah Hardin County,Savannah,TN,USA,35.170359999999995,-88.21587,,America/Chicago,-5.0
+SRB,Upper Cumberland Regional,Sparta,TN,USA,36.05593278,-85.5307475,,America/Chicago,-5.0
+SYI,Bomar Field-Shelbyville Municipal,Shelbyville,TN,USA,35.56009889,-86.44249333,,America/Chicago,-5.0
+SZY,Olsztyn-Mazury Airport,Selmer,TN,USA,35.20295,-88.49836139,E,America/Chicago,-5.0
+TGC,Gibson County,Trenton,TN,USA,35.93245472,-88.84894028,,America/Chicago,-5.0
+THA,Tullahoma Regional,Tullahoma,TN,USA,35.38015694,-86.24602333,,America/Chicago,-5.0
+TRI,Tri-Cities Regional TN/VA Airport,Bristol,TN,USA,36.47521417,-82.40742056,A,America/New_York,-4.0
+TYS,McGhee Tyson Airport,Knoxville,TN,USA,35.81248722,-83.99285583,A,America/New_York,-4.0
+UCY,Everett-Stewart,Union City,TN,USA,36.38025,-88.98547778,,America/Chicago,-5.0
+UOS,Franklin County Airport,Sewanee,TN,USA,35.20397028,-85.89858889,A,America/Chicago,-5.0

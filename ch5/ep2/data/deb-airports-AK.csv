@@ -1,0 +1,264 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0AK,Pilot Station,Pilot Station,AK,USA,61.93396417,-162.8929358,,America/Nome,-8.0
+15Z,McCarthy 2,McCarthy,AK,USA,61.43706083,-142.9037372,,America/Anchorage,-8.0
+16A,Nunapitchuk,Nunapitchuk,AK,USA,60.90582833,-162.4391158,,America/Nome,-8.0
+17Z,Manokotak,Manokotak,AK,USA,58.98896583,-159.0499739,,America/Anchorage,-8.0
+19P,Port Protection SPB,Port Protection,AK,USA,56.32880417,-133.6100844,,America/Sitka,-8.0
+2A3,Larsen Bay,Larsen Bay,AK,USA,57.53510667,-153.9784169,,America/Anchorage,-8.0
+2A9,Kotlik,Kotlik,AK,USA,63.03116111,-163.52992780000002,,America/Nome,-8.0
+2AK,Lime Village,Lime Village,AK,USA,61.35848528,-155.4403508,,America/Anchorage,-8.0
+2K5,Telida,Telida,AK,USA,63.39387278,-153.2689733,,America/Anchorage,-8.0
+2Y3,Yakutat SPB,Yakutat,AK,USA,59.5624775,-139.7410994,,America/Yakutat,-8.0
+38A,Shaktoolik,Shaktoolik,AK,USA,64.36263194,-161.20253689999998,,America/Anchorage,-8.0
+3Z9,Haines SPB,Haines,AK,USA,59.23495111,-135.4407181,,America/Juneau,-8.0
+4A2,Atmautluak,Atmautluak,AK,USA,60.86674556,-162.2731389,,America/Nome,-8.0
+4K0,Pedro Bay,Pedro Bay,AK,USA,59.78960972,-154.1238331,,America/Anchorage,-8.0
+4K5,Ouzinkie,Ouzinkie,AK,USA,57.92287611,-152.5005111,,America/Anchorage,-8.0
+4KA,Tununak,Tununak,AK,USA,60.57559667,-165.27312719999998,,America/Nome,-8.0
+4Z4,Holy Cross,Holy Cross,AK,USA,62.18829583,-159.7749503,,America/Anchorage,-8.0
+4Z7,Hyder SPB,Hyder,AK,USA,55.90331972,-130.0067031,,America/Vancouver,-7.0
+51Z,Minto (New),Minto,AK,USA,65.14370889,-149.3699647,,America/Anchorage,-8.0
+5A8,Aleknagik,Aleknagik,AK,USA,59.28256167,-158.6176725,,America/Anchorage,-8.0
+5CD,Chandalar Shelf,Chandalar Camp,AK,USA,68.06543944,-149.5797392,,America/Anchorage,-8.0
+5HO,Hope,Hope,AK,USA,60.90415028,-149.6238389,,America/Anchorage,-8.0
+5NI,Nikolai,Nikolai,AK,USA,63.0174475,-154.3639608,,America/Anchorage,-8.0
+5NK,Naknek,Naknek,AK,USA,58.73288056,-157.0199197,,America/Anchorage,-8.0
+5NN,Nondalton,Nondalton,AK,USA,59.97904306,-154.8396944,,America/Anchorage,-8.0
+5S8,St. Michael,St. Michael,AK,USA,63.49005056,-162.11036919999998,,America/Nome,-8.0
+5TE,Tetlin,Tetlin,AK,USA,63.13382361,-142.52193390000002,,America/Anchorage,-8.0
+5Z1,Juneau Harbor,Juneau,AK,USA,58.29888889,-134.40777780000002,,America/Juneau,-8.0
+5Z5,Kantishna,Kantishna,AK,USA,63.54171472,-150.9939547,,America/Anchorage,-8.0
+63A,Lloyd R. Roundtree Seaplane Facility,Petersburg,AK,USA,56.81131972,-132.9600567,,America/Sitka,-8.0
+68A,Wrangell SPB,Wrangell,AK,USA,56.466325,-132.38001809999997,,America/Sitka,-8.0
+6A8,Allakaket,Allakaket,AK,USA,66.55194444,-152.62222219999998,,America/Anchorage,-8.0
+6K8,Tok Junction,Tok,AK,USA,63.32881806,-142.9536194,,America/Anchorage,-8.0
+6R7,Old Harbor (New),Old Harbor,AK,USA,57.21810306,-153.2697494,,America/Anchorage,-8.0
+7K2,Skagway SPB,Skagway,AK,USA,59.44689528,-135.32266330000002,,America/Juneau,-8.0
+7KA,Tatitlek,Tatitlek,AK,USA,60.86890528,-146.6864653,,America/Anchorage,-8.0
+84K,Meyers Chuck SPB,Meyers Chuck,AK,USA,55.73963611,-132.2550183,,America/Sitka,-8.0
+8K9,Murphys Pullout SPB,Ketchikan,AK,USA,55.38965028,-131.7380742,,America/Sitka,-8.0
+96Z,North Whale SPB,North Whale Pass,AK,USA,56.11631056,-133.1217153,,America/Sitka,-8.0
+9A3,Chuathbaluk,Chuathbaluk,AK,USA,61.58317306,-159.23596669999998,,America/Anchorage,-8.0
+9A8,Ugashik,Ugashik,AK,USA,57.527867500000006,-157.3993056,,America/Anchorage,-8.0
+9K2,Kokhanok,Kokhanok,AK,USA,59.43264556,-154.8027058,,America/Anchorage,-8.0
+A14,Portage Creek,Portage Creek,AK,USA,58.906485,-157.71410780000002,,America/Anchorage,-8.0
+A29,Sitka SPB,Sitka,AK,USA,57.05213778,-135.34620859999998,,America/Sitka,-8.0
+A61,Tuntutuliak,Tuntutuliak,AK,USA,60.33534556,-162.6670094,,America/Nome,-8.0
+A63,Twin Hills,Twin Hills,AK,USA,59.07562167,-160.2730436,,America/Anchorage,-8.0
+A79,Chignik Lake,Chignik Lake,AK,USA,56.25504722,-158.7753614,,America/Anchorage,-8.0
+A85,Kwigillingok,Kwigillingok,AK,USA,59.87644778,-163.1675583,,America/Nome,-8.0
+ADK,Adak Airport,Adak,AK,USA,51.87796389,-176.6460306,A,America/Adak,-9.0
+ADQ,Kodiak Airport,Kodiak,AK,USA,57.74996778,-152.4938553,A,America/Anchorage,-8.0
+AFE,Kake,Kake,AK,USA,56.96048139,-133.90826940000002,,America/Sitka,-8.0
+AFM,Ambler,Ambler,AK,USA,67.10610472,-157.85362030000002,,America/Anchorage,-8.0
+AGN,Angoon Seaplane Base,Angoon,AK,USA,57.50355528,-134.5850939,A,America/Juneau,-8.0
+AHP,Port Alexander SPB,Port Alexander,AK,USA,56.24684222,-134.6481539,,America/Sitka,-8.0
+AJC,Chignik (Anchorage Bay),Chignik,AK,USA,56.3114625,-158.3732369,,America/Anchorage,-8.0
+AK5,Perryville,Perryville,AK,USA,55.90806056,-159.1585781,,America/Anchorage,-8.0
+AKA,Ankang Wulipu Airport,Atka,AK,USA,52.22034833,-174.2063503,U,America/Adak,-9.0
+AKI,Akiak Airport,Akiak,AK,USA,60.90481194,-161.2270189,A,America/Anchorage,-8.0
+AKK,Akhiok Airport,Akhiok,AK,USA,56.93869083,-154.1825556,A,America/Anchorage,-8.0
+AKN,King Salmon Airport,King Salmon,AK,USA,58.67680167,-156.6492175,A,America/Anchorage,-8.0
+AKP,Anaktuvuk Pass Airport,Anaktuvuk Pass,AK,USA,68.1343225,-151.74168,A,America/Anchorage,-8.0
+AKW,Aghajari Airport,Klawock,AK,USA,55.57923333,-133.07599720000002,E,America/Sitka,-8.0
+ANC,Ted Stevens Anchorage International Airport,Anchorage,AK,USA,61.17432028,-149.9961856,A,America/Anchorage,-8.0
+ANI,Aniak Airport,Aniak,AK,USA,61.58159694,-159.5430428,A,America/Anchorage,-8.0
+ANV,Anvik Airport,Anvik,AK,USA,62.64858333,-160.1898889,A,America/Anchorage,-8.0
+AQC,Klawock SPB,Klawock,AK,USA,55.5546575,-133.1016928,,America/Sitka,-8.0
+AQH,Kwinhagak,Quinhagak,AK,USA,59.75700722,-161.8794789,,America/Anchorage,-8.0
+AQT,Nuiqsut,Nuiqsut,AK,USA,70.20995278,-151.0055611,,America/Anchorage,-8.0
+AQY,Girdwood,Girdwood,AK,USA,60.96609583,-149.1257892,,America/Anchorage,-8.0
+ARC,Arctic Village Airport,Arctic Village,AK,USA,68.11608083,-145.5761114,A,America/Anchorage,-8.0
+ATK,Atqasuk Edward Burnell Sr Memorial Airport,Atqasuk,AK,USA,70.46727611,-157.4357361,A,America/Anchorage,-8.0
+AUK,Alakanuk Airport,Alakanuk,AK,USA,62.68004417,-164.6599253,A,America/Nome,-8.0
+AWI,Wainwright,Wainwright,AK,USA,70.638,-159.99475,,America/Anchorage,-8.0
+BCV,Birchwood,Birchwood,AK,USA,61.41612444,-149.50888,,America/Anchorage,-8.0
+BET,Bethel Airport,Bethel,AK,USA,60.77977639,-161.8379975,A,America/Anchorage,-8.0
+BGQ,Big Lake Strip Nr 2,Big Lake,AK,USA,61.53556806,-149.8138975,,America/Anchorage,-8.0
+BIG,Allen Army Airfield,Delta Junction,AK,USA,63.99454722,-145.7216417,A,America/Anchorage,-8.0
+BNF,Baranof Warm Springs SPB,Baranof Warm Springs,AK,USA,57.08882583,-134.83314140000002,,America/Sitka,-8.0
+BRW,Wiley Post Will Rogers Memorial Airport,Barrow,AK,USA,71.2854475,-156.76600190000002,A,America/Anchorage,-8.0
+BTI,Barter Island LRRS Airport,Kaktovik,AK,USA,70.13390278,-143.5770444,A,America/Anchorage,-8.0
+BTT,Bettles Airport,Bettles,AK,USA,66.91528667,-151.5280556,A,America/Anchorage,-8.0
+BVK,Buckland,Buckland,AK,USA,65.98228611,-161.15197780000003,,America/Anchorage,-8.0
+BYA,Boundary,Boundary,AK,USA,64.07830278,-141.113375,,America/Anchorage,-8.0
+C05,Chenega Bay,Chenega,AK,USA,60.07730556,-147.9918889,,America/Anchorage,-8.0
+CDB,Cold Bay Airport,Cold Bay,AK,USA,55.20559972,-162.7242628,A,America/Nome,-8.0
+CDV,Merle K (Mudhole) Smith Airport,Cordova,AK,USA,60.49183389,-145.4776503,A,America/Anchorage,-8.0
+CEM,Central Airport,Central,AK,USA,65.57380667,-144.7832908,A,America/Anchorage,-8.0
+CFK,Ech Cheliff Airport,Chefornak,AK,USA,60.14922556,-164.2856325,N,America/Nome,-8.0
+CGA,Craig SPB,Craig,AK,USA,55.47883139,-133.14780109999998,,America/Sitka,-8.0
+CHP,Circle Hot Springs,Circle Hot Springs,AK,USA,65.48547222,-144.6107836,,America/Anchorage,-8.0
+CIK,Chalkyitsik Airport,Chalkyitsik,AK,USA,66.64969083,-143.7359492,A,America/Anchorage,-8.0
+CJX,Crooked Creek,Crooked Creek,AK,USA,61.86902194,-158.1371178,,America/Anchorage,-8.0
+CKU,Cordova Muni,Cordova,AK,USA,60.54390333,-145.7267042,,America/Anchorage,-8.0
+CKX,Chicken,Chicken,AK,USA,64.07133833,-141.9522792,,America/Anchorage,-8.0
+CLP,Clarks Point Airport,Clarks Point,AK,USA,58.84230472,-158.5452331,A,America/Anchorage,-8.0
+CRC,Santa Ana Airport,Circle,AK,USA,65.83049389,-144.0758128,U,America/Anchorage,-8.0
+CXC,Chitina,Chitina,AK,USA,61.58285917,-144.4270969,,America/Anchorage,-8.0
+CXF,Coldfoot,Coldfoot,AK,USA,67.25163417,-150.20656719999997,,America/Anchorage,-8.0
+CZN,Chisana,Chisana,AK,USA,62.07118972,-142.04837419999998,,America/Anchorage,-8.0
+DCK,Dahl Creek,Dahl Creek,AK,USA,66.94333806,-156.9046739,,America/Anchorage,-8.0
+DEE,Mendeleyevo Airport,Deering,AK,USA,66.06820583,-162.76660280000002,N,America/Nome,-8.0
+DLG,Dillingham Airport,Dillingham,AK,USA,59.0454125,-158.5033389,A,America/Anchorage,-8.0
+DM2,Diomede Heliport,Diomede,AK,USA,65.75861111,-168.9530556,,America/Nome,-8.0
+DUT,Unalaska Airport,Unalaska,AK,USA,53.90013889,-166.5435,A,America/Nome,-8.0
+DUY,Kongiganak,Kongiganak,AK,USA,59.95950583,-162.8817231,,America/Nome,-8.0
+EAA,Eagle Airport,Eagle,AK,USA,64.77639306,-141.1509206,A,America/Anchorage,-8.0
+EEK,Eek Airport,Eek,AK,USA,60.21590417,-162.00560919999998,A,America/Nome,-8.0
+EII,Egegik,Egegik,AK,USA,58.18837472,-157.3809872,,America/Anchorage,-8.0
+ELI,Elim Airport,Elim,AK,USA,64.61400972,-162.27006809999995,A,America/Nome,-8.0
+ELV,Elfin Cove Seaplane Base,Elfin Cove,AK,USA,58.19518417,-136.3473928,A,America/Juneau,-8.0
+ENA,Kenai Municipal Airport,Kenai,AK,USA,60.572,-151.24752780000003,A,America/Anchorage,-8.0
+ENM,Emmonak,Emmonak,AK,USA,62.78518639,-164.49104609999998,,America/Nome,-8.0
+ENN,Nenana Municipal Airport,Nenana,AK,USA,64.54898167,-149.0735053,\N,America/Anchorage,-8.0
+EWU,Newtok,Newtok,AK,USA,60.93865417,-164.64121469999998,,America/Nome,-8.0
+EXI,Excursion Inlet SPB,Excursion Inlet,AK,USA,58.42049861,-135.44903280000003,,America/Juneau,-8.0
+FAI,Fairbanks International Airport,Fairbanks,AK,USA,64.8136775,-147.8596694,A,America/Anchorage,-8.0
+FLT,Flat,Flat,AK,USA,62.45264889,-157.98907,,America/Anchorage,-8.0
+FNR,Funter Bay Seaplane Base,Funter Bay,AK,USA,58.25438583,-134.8979067,A,America/Juneau,-8.0
+FYU,Fort Yukon Airport,Fort Yukon,AK,USA,66.57149028,-145.2504169,A,America/Anchorage,-8.0
+GAL,Edward G. Pitka Sr Airport,Galena,AK,USA,64.73617806,-156.93741640000002,A,America/Anchorage,-8.0
+GAM,Gambell Airport,Gambell,AK,USA,63.76676556,-171.73282360000002,A,America/Nome,-8.0
+GBH,Galbraith Lake,Galbraith Lake,AK,USA,68.47906306,-149.49002140000002,,America/Anchorage,-8.0
+GKN,Gulkana Airport,Gulkana,AK,USA,62.15488889,-145.4566389,A,America/Anchorage,-8.0
+GNU,Goodnews,Goodnews,AK,USA,59.11727556,-161.5813967,,America/Anchorage,-8.0
+GST,Gustavus Airport,Gustavus,AK,USA,58.42438139,-135.7073814,A,America/Juneau,-8.0
+HAY,Haycock,Haycock,AK,USA,65.20098944,-161.1567792,,America/Anchorage,-8.0
+HNH,Hoonah Airport,Hoonah,AK,USA,58.09609139,-135.40969750000002,A,America/Juneau,-8.0
+HNS,Haines Airport,Haines,AK,USA,59.24522806,-135.5221086,A,America/Juneau,-8.0
+HOM,Homer Airport,Homer,AK,USA,59.64555556,-151.47658330000002,A,America/Anchorage,-8.0
+HPB,Hooper Bay Airport,Hooper Bay,AK,USA,61.52418306,-166.14677969999997,A,America/Nome,-8.0
+HRR,Healy River,Healy,AK,USA,63.86620806,-148.9689842,,America/Anchorage,-8.0
+HSL,Huslia Airport,Huslia,AK,USA,65.70055556,-156.3875,A,America/Anchorage,-8.0
+HUS,Hughes Airport,Hughes,AK,USA,66.04112167,-154.26319030000002,A,America/Anchorage,-8.0
+HWI,Hawk Inlet SPB,Hawk Inlet,AK,USA,58.12744139,-134.7559531,,America/Juneau,-8.0
+HYG,Hydaburg Seaplane Base,Hydaburg,AK,USA,55.20631611,-132.8283131,A,America/Sitka,-8.0
+HYL,Hollis SPB,Hollis,AK,USA,55.48158833,-132.6460942,,America/Sitka,-8.0
+IAN,Bob Baker Memorial Airport,Kiana,AK,USA,66.97937611,-160.43585969999998,A,America/Anchorage,-8.0
+IEM,Whittier,Whittier,AK,USA,60.7772125,-148.7215775,,America/Anchorage,-8.0
+IGG,Igiugig Airport,Igiugig,AK,USA,59.32373528,-155.9032733,A,America/Anchorage,-8.0
+IGT,Magas Airport,Nightmute,AK,USA,60.47032722,-164.6856414,N,America/Nome,-8.0
+IIK,Kipnuk,Kipnuk,AK,USA,59.93295111,-164.0305131,,America/Nome,-8.0
+ILI,Iliamna Airport,Iliamna,AK,USA,59.75380028,-154.91095969999998,A,America/Anchorage,-8.0
+IWK,Iwakuni Marine Corps Air Station,Wales,AK,USA,65.62394028,-168.09917190000002,\N,America/Nome,-8.0
+IYS,Wasilla,Wasilla,AK,USA,61.57196083,-149.54055559999998,,America/Anchorage,-8.0
+JNU,Juneau International Airport,Juneau,AK,USA,58.35496194,-134.57627639999998,A,America/Juneau,-8.0
+JZZ,Koliganek,Koliganek,AK,USA,59.72664194,-157.25947219999998,,America/Anchorage,-8.0
+K29,Council,Council,AK,USA,64.89788278,-163.70344719999997,,America/Nome,-8.0
+K54,Teller,Teller,AK,USA,65.24089806,-166.33600669999998,,America/Nome,-8.0
+KAE,Kake SPB,Kake,AK,USA,56.97299639,-133.94561470000002,,America/Sitka,-8.0
+KAL,Kaltag Airport,Kaltag,AK,USA,64.32571917,-158.7441475,A,America/Anchorage,-8.0
+KCC,Coffman Cove SPB,Coffman Cove,AK,USA,56.00324444,-132.8419689,,America/Sitka,-8.0
+KCL,Chignik Lagoon,Chignik Flats,AK,USA,56.31116306,-158.5359264,,America/Anchorage,-8.0
+KEB,English Bay,English Bay,AK,USA,59.35214833,-151.92515580000003,,America/Anchorage,-8.0
+KEK,Ekwok,Ekwok,AK,USA,59.35399444,-157.4744092,,America/Anchorage,-8.0
+KFP,False Pass Airport,False Pass,AK,USA,54.84744583,-163.4103222,A,America/Nome,-8.0
+KGX,Grayling,Grayling,AK,USA,62.89456056,-160.0649042,,America/Anchorage,-8.0
+KIB,Ivanof Bay SPB,Ivanof Bay,AK,USA,55.89753333,-159.4886689,,America/Anchorage,-8.0
+KKA,Koyuk Alfred Adams Airport,Koyuk,AK,USA,64.93404056,-161.158145,A,America/Anchorage,-8.0
+KKB,Kitoi Bay SPB,Kitoi Bay,AK,USA,58.19094611,-152.3704875,,America/Anchorage,-8.0
+KLG,Kalskag Airport,Kalskag,AK,USA,61.53627389,-160.3413306,A,America/Anchorage,-8.0
+KLL,Levelock,Levelock,AK,USA,59.11816472,-156.8652169,,America/Anchorage,-8.0
+KNW,New Stuyahok Airport,New Stuyahok,AK,USA,59.44955333,-157.3271908,A,America/Anchorage,-8.0
+KPB,Point Baker SPB,Point Baker,AK,USA,56.35185972,-133.62258640000002,,America/Sitka,-8.0
+KPH,Pauloff Harbor SPB,Pauloff Harbor,AK,USA,54.45912028,-162.6936406,,America/Nome,-8.0
+KQA,Akutan Seaplane Base,Akutan,AK,USA,54.13246694,-165.7853111,A,America/Nome,-8.0
+KSM,St Mary's Airport,St. Mary's,AK,USA,62.06048639,-163.3021108,A,America/Nome,-8.0
+KTB,Thorne Bay,Thorne Bay,AK,USA,55.68796194,-132.53667579999998,,America/Sitka,-8.0
+KTN,Ketchikan International Airport,Ketchikan,AK,USA,55.35556861,-131.71374,A,America/Sitka,-8.0
+KTS,Brevig Mission Airport,Brevig Mission,AK,USA,65.33136111,-166.4631667,A,America/Nome,-8.0
+KVC,King Cove Airport,King Cove,AK,USA,55.1163475,-162.26622719999995,A,America/Nome,-8.0
+KVL,Kivalina Airport,Kivalina,AK,USA,67.73125333,-164.55180190000002,A,America/Nome,-8.0
+KWT,Kwethluk Airport,Kwethluk,AK,USA,60.80425194,-161.44535,A,America/Anchorage,-8.0
+KXA,Kasaan SPB,Kasaan,AK,USA,55.53741389,-132.3975144,,America/Sitka,-8.0
+KYK,Karluk Airport,Karluk,AK,USA,57.56706389,-154.45037140000002,A,America/Anchorage,-8.0
+KYU,Koyukuk Airport,Koyukuk,AK,USA,64.87714278,-157.7158358,A,America/Anchorage,-8.0
+LHD,Lake Hood SPB,Anchorage,AK,USA,61.18000361,-149.9719322,,America/Anchorage,-8.0
+MCG,McGrath Airport,McGrath,AK,USA,62.95287361,-155.6057625,A,America/Anchorage,-8.0
+MDR,Medfra,Medfra,AK,USA,63.10577694,-154.71898059999998,,America/Anchorage,-8.0
+MHM,Minchumina,Minchumina,AK,USA,63.880565,-152.3006756,,America/Anchorage,-8.0
+MLL,Marshall Don Hunter Sr Airport,Marshall,AK,USA,61.8659225,-162.0690456,A,America/Nome,-8.0
+MLY,Manley Hot Springs Airport,Manley Hot Springs,AK,USA,64.99756472,-150.64412969999998,A,America/Anchorage,-8.0
+MOU,Mountain Village Airport,Mountain Village,AK,USA,62.09536222,-163.6820594,A,America/Nome,-8.0
+MRI,Merrill Field,Anchorage,AK,USA,61.21437861,-149.8461614,A,America/Anchorage,-8.0
+MTM,Metlakatla Seaplane Base,Metlakatla,AK,USA,55.13104528,-131.5780675,A,America/Metlakatla,-8.0
+MYK,May Creek,May Creek,AK,USA,61.33567417,-142.686775,,America/Anchorage,-8.0
+MYU,Mekoryuk Airport,Mekoryuk,AK,USA,60.37141999999999,-166.27060830000002,A,America/Nome,-8.0
+N93,New Golovin,Golovin,AK,USA,64.55305556,-163.0088889,,America/Nome,-8.0
+NUL,Nulato Airport,Nulato,AK,USA,64.72981944,-158.0731889,A,America/Anchorage,-8.0
+OBU,Kobuk Airport,Kobuk,AK,USA,66.90917056,-156.8610575,A,America/Anchorage,-8.0
+OME,Nome Airport,Nome,AK,USA,64.51220222,-165.4452458,A,America/Nome,-8.0
+OOH,Hoonah SPB,Hoonah,AK,USA,58.11215944,-135.451805,,America/Juneau,-8.0
+OOK,Toksook Bay Airport,Toksook Bay,AK,USA,60.53337639,-165.1139636,A,America/Nome,-8.0
+ORI,Port Lions,Port Lions,AK,USA,57.8853775,-152.8461011,,America/Anchorage,-8.0
+ORT,Northway Airport,Northway,AK,USA,62.96133361,-141.9291369,A,America/Anchorage,-8.0
+ORV,Robert (Bob) Curtis Memorial Airport,Noorvik,AK,USA,66.82852667,-161.02779080000002,A,America/Anchorage,-8.0
+OTZ,Ralph Wien Memorial Airport,Kotzebue,AK,USA,66.88467694,-162.5985497,A,America/Nome,-8.0
+PAQ,"Warren ""Bud"" Woods Palmer Municipal Airport",Palmer,AK,USA,61.59474194,-149.08882419999998,A,America/Anchorage,-8.0
+PBV,St. George,St. George,AK,USA,56.57735278,-169.6637361,,America/Nome,-8.0
+PCK,Porcupine Creek,Porcupine Creek,AK,USA,67.23789833,-150.2860608,,America/Anchorage,-8.0
+PEC,Pelican SPB,Pelican,AK,USA,57.95517222,-136.2362733,,America/Juneau,-8.0
+PGM,Port Graham,Port Graham,AK,USA,59.34825944,-151.8315389,,America/Anchorage,-8.0
+PHO,Point Hope,Point Hope,AK,USA,68.34877417,-166.7993086,,America/Nome,-8.0
+PIZ,Point Lay LRRS Airport,Point Lay,AK,USA,69.732875,-163.0053417,A,America/Nome,-8.0
+PKA,Napaskiak Airport,Napaskiak,AK,USA,60.70369056,-161.7767367,A,America/Anchorage,-8.0
+PNP,Girua Airport,Pilot Point,AK,USA,57.58038056,-157.5674444,U,America/Anchorage,-8.0
+PPC,Prospect Creek Airport,Prospect Creek,AK,USA,66.81288139,-150.64379250000002,A,America/Anchorage,-8.0
+PSG,Petersburg James A Johnson Airport,Petersburg,AK,USA,56.80165194,-132.9452781,A,America/Sitka,-8.0
+PTH,Port Heiden Airport,Port Heiden,AK,USA,56.95943333,-158.6318208,A,America/Anchorage,-8.0
+PTU,Platinum Airport,Platinum,AK,USA,59.01135611,-161.81966609999998,A,America/Anchorage,-8.0
+RBY,Ruby Airport,Ruby,AK,USA,64.72721556,-155.4698886,A,America/Anchorage,-8.0
+RDV,Red Devil,Red Devil,AK,USA,61.78764333,-157.3479344,,America/Anchorage,-8.0
+RMP,Rampart,Rampart,AK,USA,65.50786222,-150.14280469999997,,America/Anchorage,-8.0
+RSH,Russian Mission Airport,Russian Mission,AK,USA,61.77967583,-161.3194772,A,America/Anchorage,-8.0
+SCC,Deadhorse Airport,Deadhorse,AK,USA,70.19475583,-148.4651608,A,America/Anchorage,-8.0
+SCM,Scammon Bay Airport,Scammon Bay,AK,USA,61.84454111,-165.57374919999998,A,America/Nome,-8.0
+SDP,Sand Point Airport,Sand Point,AK,USA,55.31502778,-160.5176944,A,America/Anchorage,-8.0
+SGY,Skagway Airport,Skagway,AK,USA,59.46006194,-135.3156636,A,America/Juneau,-8.0
+SHG,Shungnak Airport,Shungnak,AK,USA,66.88916556,-157.1505119,A,America/Anchorage,-8.0
+SHH,Shishmaref Airport,Shishmaref,AK,USA,66.24956861,-166.0895589,A,America/Nome,-8.0
+SHX,Shageluk Airport,Shageluk,AK,USA,62.69511944,-159.5690614,A,America/Anchorage,-8.0
+SIT,Sitka Rocky Gutierrez Airport,Sitka,AK,USA,57.04713806,-135.3615983,A,America/Sitka,-8.0
+SKW,Skwentna,Skwentna,AK,USA,61.965295,-151.19136609999998,,America/Anchorage,-8.0
+SLQ,Sleetmute Airport,Sleetmute,AK,USA,61.70931139,-157.1557008,A,America/Anchorage,-8.0
+SNP,St Paul Island Airport,St. Paul,AK,USA,57.16733333,-170.22044440000002,A,America/Nome,-8.0
+SOV,Seldovia Airport,Seldovia,AK,USA,59.44243917,-151.7040503,A,America/Anchorage,-8.0
+SRV,Stony River 2,Stony River,AK,USA,61.789875,-156.5881861,,America/Anchorage,-8.0
+SVA,Savoonga Airport,Savoonga,AK,USA,63.68639444,-170.4926361,A,America/Nome,-8.0
+SVS,Stevens Village,Stevens Village,AK,USA,66.00900528,-149.09591530000003,,America/Anchorage,-8.0
+SWD,Seward Airport,Seward,AK,USA,60.12693833,-149.4188122,U,America/Anchorage,-8.0
+SXP,Sheldon Point,Sheldon Point,AK,USA,62.52055556,-164.84777780000002,,America/Nome,-8.0
+SXQ,Soldotna Airport,Soldotna,AK,USA,60.47613889,-151.0324444,U,America/Anchorage,-8.0
+T44,Trident Basin,Kodiak,AK,USA,57.78083333,-152.3913889,,America/Anchorage,-8.0
+TAL,Ralph M Calhoun Memorial,Tanana,AK,USA,65.17439528,-152.1093886,,America/Anchorage,-8.0
+TCT,Takotna,Takotna,AK,USA,62.99270417,-156.06819030000003,,America/Anchorage,-8.0
+TKA,Talkeetna Airport,Talkeetna,AK,USA,62.3205,-150.0936944,A,America/Anchorage,-8.0
+TKE,Tenakee SPB,Tenakee Springs,AK,USA,57.77965833,-135.2184439,,America/Juneau,-8.0
+TLT,Tuluksak,Tuluksak,AK,USA,61.09676222,-160.96841669999998,,America/Anchorage,-8.0
+TOG,Togiak Airport,Togiak,AK,USA,59.05284222,-160.39693390000002,A,America/Anchorage,-8.0
+TPO,Port Alsworth,Port Alsworth,AK,USA,60.20433333,-154.3188728,,America/Anchorage,-8.0
+UNK,Unalakleet Airport,Unalakleet,AK,USA,63.88835917,-160.7989517,A,America/Anchorage,-8.0
+UUO,Willow,Willow,AK,USA,61.75441667,-150.0516639,,America/Anchorage,-8.0
+VAK,Chevak Airport,Chevak,AK,USA,61.53363583,-165.5837322,A,America/Nome,-8.0
+VDZ,Valdez Pioneer Field,Valdez,AK,USA,61.13395028,-146.24836000000002,A,America/Anchorage,-8.0
+VEE,Venetie Airport,Venetie,AK,USA,67.02269444,-146.4137753,A,America/Anchorage,-8.0
+WBB,Stebbins,Stebbins,AK,USA,63.51591972,-162.2827394,,America/Nome,-8.0
+WBQ,Beaver Airport,Beaver,AK,USA,66.36155056,-147.4012186,A,America/Anchorage,-8.0
+WCR,Chandalar Lake,Chandalar Lake,AK,USA,67.50451667,-148.48322219999997,,America/Anchorage,-8.0
+WLK,Selawik Airport,Selawik,AK,USA,66.60002778,-159.98619440000002,A,America/Anchorage,-8.0
+WMO,White Mountain Airport,White Mountain,AK,USA,64.68919444,-163.4125556,A,America/Nome,-8.0
+WNA,Napakiak Airport,Napakiak,AK,USA,60.69118917,-161.9695161,A,America/Anchorage,-8.0
+WRG,Wrangell Airport,Wrangell,AK,USA,56.48432583,-132.3698242,A,America/Sitka,-8.0
+WSM,Wiseman,Wiseman,AK,USA,67.40457333,-150.12274169999998,,America/Anchorage,-8.0
+WSN,South Naknek Nr 2 Airport,South Naknek,AK,USA,58.70343611,-157.0082511,A,America/Anchorage,-8.0
+WTK,Noatak Airport,Noatak,AK,USA,67.56208333,-162.9752778,A,America/Nome,-8.0
+YAK,Yakutat Airport,Yakutat,AK,USA,59.50336056,-139.6602261,A,America/Yakutat,-8.0
+Z09,Kasigluk,Kasigluk,AK,USA,60.87202194,-162.5248094,,America/Nome,-8.0
+Z13,Akiachak,Akiachak,AK,USA,60.90453167,-161.42091000000002,,America/Anchorage,-8.0
+Z17,Ophir,Ophir,AK,USA,63.1460375,-156.529865,,America/Anchorage,-8.0
+Z40,Goose Bay,Goose Bay,AK,USA,61.39445139,-149.84555559999998,,America/Anchorage,-8.0
+Z55,Lake Louise,Lake Louise,AK,USA,62.29368944,-146.5794219,,America/Anchorage,-8.0
+Z73,Nelson Lagoon,Nelson Lagoon,AK,USA,56.00753611,-161.16036719999997,,America/Anchorage,-8.0
+Z84,Clear,Clear A.F.B.,AK,USA,64.30120361,-149.1201436,,America/Anchorage,-8.0
+Z91,Birch Creek,Birch Creek,AK,USA,66.27399583,-145.8240381,,America/Anchorage,-8.0

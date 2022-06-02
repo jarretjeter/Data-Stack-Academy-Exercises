@@ -1,0 +1,35 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0B1,Col. Dyke ,Bethel,ME,USA,44.42506444,-70.80784778,,America/New_York,-4.0
+1B0,Dexter Regional,Dexter,ME,USA,45.00839444,-69.23976722,,America/New_York,-4.0
+2B7,Pittsfield Municipal,Pittsfield,ME,USA,44.76852778,-69.37441667,,America/New_York,-4.0
+3B1,Greenville Municipal,Greenville,ME,USA,45.46302778,-69.55161111,,America/New_York,-4.0
+44B,Dover/Foxcroft,Dover-Foxcroft,ME,USA,45.18338806,-69.2328225,,America/New_York,-4.0
+57B,Islesboro,Islesboro,ME,USA,44.30285556,-68.91058722,,America/New_York,-4.0
+59B,Newton ,Jackman,ME,USA,45.63199111,-70.24728944,,America/New_York,-4.0
+81B,Oxford County Regional,Norway,ME,USA,44.15742611,-70.48129583,,America/New_York,-4.0
+8B0,Rangeley Municipal,Rangeley,ME,USA,44.991895,-70.66462472,,America/New_York,-4.0
+93B,Stonington,Stonington,ME,USA,44.17508056,-68.67863722,,America/New_York,-4.0
+AUG,Augusta State Airport,Augusta,ME,USA,44.32064972,-69.79731806,A,America/New_York,-4.0
+B19,Biddeford Municipal,Biddeford,ME,USA,43.46411111,-70.47238889,,America/New_York,-4.0
+B21,Sugarloaf Regional,Carrabasset,ME,USA,45.08616639,-70.21617778,,America/New_York,-4.0
+BGR,Bangor International Airport,Bangor,ME,USA,44.80744444,-68.82813889,A,America/New_York,-4.0
+BHB,Hancock County-Bar Harbor Airport,Bar Harbor,ME,USA,44.44969444,-68.3615,A,America/New_York,-4.0
+BST,Bost Airport,Belfast,ME,USA,44.40966667,-69.01225,U,America/New_York,-4.0
+CAR,Caribou Municipal Airport,Caribou,ME,USA,46.8715,-68.01791667,A,America/New_York,-4.0
+EPM,Eastport Municipal,Eastport,ME,USA,44.91011111,-67.01269444,,America/New_York,-4.0
+FVE,Northern Aroostook Regional,Frenchville,ME,USA,47.28550417,-68.31275,,America/New_York,-4.0
+HUL,Houlton International Airport,Houlton,ME,USA,46.12308333,-67.79205556,A,America/New_York,-4.0
+IWI,Wiscasset,Wiscasset,ME,USA,43.96141667,-69.71255556,,America/New_York,-4.0
+IZG,Eastern Slopes Regional,Fryeburg,ME,USA,43.99114472,-70.94787444,,America/New_York,-4.0
+LEW,Auburn Lewiston Municipal Airport,Auburn-Lewiston,ME,USA,44.04847278,-70.2835075,A,America/New_York,-4.0
+LRG,Lincoln Regional,Lincoln,ME,USA,45.36216083,-68.53474694,,America/New_York,-4.0
+MLT,Millinocket Municipal,Millinocket,ME,USA,45.64783611,-68.68556194,,America/New_York,-4.0
+MVM,Machias Valley,Machias,ME,USA,44.70311111,-67.47861111,,America/New_York,-4.0
+OLD,Dewitt Field-Old Town Municipal,Old Town,ME,USA,44.9525,-68.67433333,,America/New_York,-4.0
+OWK,Central Maine ,Norridgewock,ME,USA,44.7155,-69.86647222,,America/New_York,-4.0
+PNN,Princeton Municipal,Princeton,ME,USA,45.20066667,-67.56438889,,America/New_York,-4.0
+PQI,Northern Maine Regional Airport at Presque Isle,Presque Isle,ME,USA,46.68896,-68.04479972,A,America/New_York,-4.0
+PWM,Portland International Jetport Airport,Portland,ME,USA,43.64616667,-70.30875,A,America/New_York,-4.0
+RKD,Knox County Regional Airport,Rockland,ME,USA,44.06008333,-69.09925,A,America/New_York,-4.0
+SFM,Sanford Regional,Sanford,ME,USA,43.39386111,-70.70800028,,America/New_York,-4.0
+WVL,Waterville-Robert Lafleur,Waterville,ME,USA,44.53325,-69.67552778,,America/New_York,-4.0

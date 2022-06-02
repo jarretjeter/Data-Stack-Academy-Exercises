@@ -1,0 +1,73 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+00M,Thigpen ,Bay Springs,MS,USA,31.95376472,-89.23450472,,America/Chicago,-5.0
+01M,Tishomingo County,Belmont,MS,USA,34.49166667,-88.20111111,,America/Chicago,-5.0
+04M,Calhoun County,Pittsboro,MS,USA,33.93011222,-89.34285194,,America/Chicago,-5.0
+06M,Eupora Municipal,Eupora,MS,USA,33.53456583,-89.31256917,,America/Chicago,-5.0
+08M,Carthage-Leake County,Carthage,MS,USA,32.76124611,-89.53007139,,America/Chicago,-5.0
+09M,Charleston Municipal,Charleston,MS,USA,33.99150222,-90.078145,,America/Chicago,-5.0
+0M6,Panola County,Batesville,MS,USA,34.36677444,-89.90008917,,America/Chicago,-5.0
+0R0,Columbia-Marion County,Columbia,MS,USA,31.29700806,-89.81282944,,America/Chicago,-5.0
+14M,Hollandale Municipal,Hollandale,MS,USA,33.18262167,-90.83065444,,America/Chicago,-5.0
+15M,Luka ,Luka,MS,USA,34.7723125,-88.16587444,,America/Chicago,-5.0
+17M,Magee Municipal,Magee,MS,USA,31.86127139,-89.80285361,,America/Chicago,-5.0
+19M,C A Moore,Lexington,MS,USA,33.12546111,-90.02555694,,America/Chicago,-5.0
+1M2,Belzoni Municipal,Belzoni,MS,USA,33.14518056,-90.51528472,,America/Chicago,-5.0
+1R7,Brookhaven-Lincoln County,Brookhaven,MS,USA,31.6058475,-90.40931583,,America/Chicago,-5.0
+20M,Macon Municipal,Macon,MS,USA,33.13345889,-88.53559806,,America/Chicago,-5.0
+22M,Pontotoc County,Pontotoc,MS,USA,34.27593833,-89.03839694,,America/Chicago,-5.0
+23M,Clarke County,Quitman,MS,USA,32.08487111,-88.73893389,,America/Chicago,-5.0
+25M,Ripley ,Ripley,MS,USA,34.72226778,-89.01504944,,America/Chicago,-5.0
+2M4,G. V. Montgomery,Forest,MS,USA,32.35347778,-89.48867944,,America/Chicago,-5.0
+2R0,Waynesboro Municipal,Waynesboro,MS,USA,31.64599472,-88.63475667,,America/Chicago,-5.0
+33M,Water Valley ,Water Valley,MS,USA,34.16677639,-89.68619722,,America/Chicago,-5.0
+4R1,I H Bass Jr Memorial,Lumberton,MS,USA,31.01546028,-89.48256556,,America/Chicago,-5.0
+5A4,Okolona Mun.-Richard M. Stovall ,Okolona,MS,USA,34.01580528,-88.72618944,,America/Chicago,-5.0
+5A6,Winona-Montgomery County,Winona,MS,USA,33.46540139,-89.72924806,,America/Chicago,-5.0
+87I,Yazoo County,Yazoo City,MS,USA,32.883215,-90.4636475,,America/Chicago,-5.0
+8M1,Booneville-Baldwyn,Booneville,MS,USA,34.58981806,-88.64699861,,America/Chicago,-5.0
+9M4,Ackerman-Choctaw County,Ackerman,MS,USA,33.3034575,-89.22840028,,America/Chicago,-5.0
+C71,Crosby Municipal,Crosby,MS,USA,31.29600472,-91.05288167,,America/Chicago,-5.0
+CKM,Fletcher ,Clarksdale,MS,USA,34.29971,-90.51231611,,America/Chicago,-5.0
+CRX,Roscoe Turner ,Corinth,MS,USA,34.91496778,-88.60348361,,America/Chicago,-5.0
+GLH,Mid Delta Regional Airport,Greenville,MS,USA,33.48288111,-90.98561389,A,America/Chicago,-5.0
+GNF,Grenada Municipal,Grenada,MS,USA,33.83253,-89.79822806,,America/Chicago,-5.0
+GPT,Gulfport Biloxi International Airport,Gulfport-Biloxi,MS,USA,30.40728028,-89.07009278,A,America/Chicago,-5.0
+GTR,Golden Triangle Regional Airport,Columbus-Starkville-West Point,MS,USA,33.45033444,-88.59136861,A,America/Chicago,-5.0
+GWO,Greenwood–Leflore Airport,Greenwood,MS,USA,33.49432667,-90.084705,A,America/Chicago,-5.0
+HBG,Hattiesburg Bobby L Chain Municipal Airport,Hattiesburg,MS,USA,31.26506556,-89.25303249999999,A,America/Chicago,-5.0
+HEZ,Natchez-Adams County,Natchez,MS,USA,31.61366111,-91.29733639,,America/Chicago,-5.0
+HKS,Hawkins ,Jackson,MS,USA,32.3347725,-90.22253167,,America/Chicago,-5.0
+HSA,Stennis International,Bay St Louis,MS,USA,30.36780778,-89.45461083,,America/Chicago,-5.0
+IDL,Indianola Municipal,Indianola,MS,USA,33.48574611,-90.67887611,,America/Chicago,-5.0
+JAN,Jackson-Medgar Wiley Evers International Airport,Jackson,MS,USA,32.31116667,-90.07588889,A,America/Chicago,-5.0
+LMS,Louisville-Winston County,Louisville,MS,USA,33.14620944,-89.06247917,,America/Chicago,-5.0
+LUL,Hesler-Noble ,Laurel,MS,USA,31.67255139,-89.17222417,,America/Chicago,-5.0
+M11,Copiah County,Crystal Springs,MS,USA,31.90293639,-90.36870222,,America/Chicago,-5.0
+M13,Poplarville-Pearl River County,Poplarville,MS,USA,30.78602056,-89.50450694,,America/Chicago,-5.0
+M16,John Bell Williams,Raymond,MS,USA,32.30334111,-90.40848333,,America/Chicago,-5.0
+M23,James H. Easom ,Newton,MS,USA,32.31181111,-89.13589194,,America/Chicago,-5.0
+M24,Dean Griffin Memorial,Wiggins,MS,USA,30.84324389,-89.15977333,,America/Chicago,-5.0
+M37,Ruleville-Drew,Drew,MS,USA,33.77639167,-90.52500833,,America/Chicago,-5.0
+M40,Monroe County,Aberdeen-Amory,MS,USA,33.87374861,-88.48967833,,America/Chicago,-5.0
+M41,Holly Springs-Marshall County,Holly Springs,MS,USA,34.80434611,-89.5211075,,America/Chicago,-5.0
+M43,Prentiss-Jefferson Davis County,Prentiss,MS,USA,31.59544583,-89.90619056,,America/Chicago,-5.0
+M44,Houston Municipal,Houston,MS,USA,33.89177944,-89.02367194,,America/Chicago,-5.0
+M59,Richton-Perry County,Richton,MS,USA,31.31739944,-88.93504778,,America/Chicago,-5.0
+M72,New Albany-Union County,New Albany,MS,USA,34.54722222,-89.02416667,,America/Chicago,-5.0
+M76,Picayune Municipal,Picayune,MS,USA,30.48748472,-89.65119306,,America/Chicago,-5.0
+M83,McCharen ,West Point,MS,USA,33.58403556,-88.66668694,,America/Chicago,-5.0
+M97,Tunica Municipal,Tunica,MS,USA,34.69232306,-90.35065389,,America/Chicago,-5.0
+MBO,Mamburao Airport,Madison,MS,USA,32.43866444,-90.10309222,N,America/Chicago,-5.0
+MCB,Mc Comb/Pike County Airport/John E Lewis Field,McComb,MS,USA,31.17845444,-90.47187528,\N,America/Chicago,-5.0
+MEI,Key Field,Meridian,MS,USA,32.33313333,-88.75120556,A,America/Chicago,-5.0
+MPE,Philadelphia Municipal,Philadelphia,MS,USA,32.799577500000005,-89.12589472,,America/Chicago,-5.0
+OLV,Olive Branch Airport,Olive Branch,MS,USA,34.97875,-89.78683333,A,America/Chicago,-5.0
+OSX,Kosciusko-Attala County,Kosciusko,MS,USA,33.09025889,-89.54201722,,America/Chicago,-5.0
+PIB,Hattiesburg Laurel Regional Airport,Hattiesburg-Laurel,MS,USA,31.46714944,-89.33705778,A,America/Chicago,-5.0
+PQL,Trent Lott International,Pascagoula,MS,USA,30.46278111,-88.52922778,,America/Chicago,-5.0
+RNV,Cleveland Municipal,Cleveland,MS,USA,33.76114056,-90.75787528,,America/Chicago,-5.0
+STF,George M Bryan ,Starkville,MS,USA,33.43381667,-88.84863806,,America/Chicago,-5.0
+T36,Paul Pittman Memorial,Tylertown,MS,USA,31.14601111,-90.168145,,America/Chicago,-5.0
+TUP,Tupelo Regional Airport,Tupelo,MS,USA,34.26810833,-88.76989499999999,A,America/Chicago,-5.0
+UBS,Columbus-Lowndes County,Columbus,MS,USA,33.46539667,-88.38031639,,America/Chicago,-5.0
+UOX,University Oxford Airport,Oxford,MS,USA,34.38431528,-89.53530972,\N,America/Chicago,-5.0

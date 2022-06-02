@@ -1,0 +1,75 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+03D,Memphis Memorial,Memphis,MO,USA,40.44725889,-92.22696056,,America/Chicago,-5.0
+1H0,Creve Coeur,St Louis,MO,USA,38.72752,-90.50830417,,America/Chicago,-5.0
+1H3,Linn State Tech. College,Linn,MO,USA,38.47149444,-91.81531667,,America/Chicago,-5.0
+1MO,Mountain Grove Memorial,Mountain Grove,MO,USA,37.12071889,-92.311245,,America/Chicago,-5.0
+2H2,Aurora Memorial Municipal,Aurora,MO,USA,36.96230778,-93.69531111,,America/Chicago,-5.0
+3SQ,St Charles,St Charles,MO,USA,38.84866139,-90.50011833,,America/Chicago,-5.0
+56M,Warsaw Municipal,Warsaw,MO,USA,38.34688889,-93.345425,,America/Chicago,-5.0
+6M6,Lewis County Regional,Monticello,MO,USA,40.12916667,-91.67833333,,America/Chicago,-5.0
+94K,Cassville Municipal,Cassville,MO,USA,36.69741667,-93.90052778,,America/Chicago,-5.0
+9K4,Skyhaven,Warrensburg,MO,USA,38.7842425,-93.80285417,,America/Chicago,-5.0
+AIZ,Lee C Fine Memorial Airport,Kaiser/Lake Ozark,MO,USA,38.096035,-92.5494875,A,America/Chicago,-5.0
+BUM,Butler Memorial,Butler,MO,USA,38.28977028,-94.34012694,,America/Chicago,-5.0
+CGI,Cape Girardeau Regional Airport,Cape Girardeau,MO,USA,37.22531694,-89.57075167,A,America/Chicago,-5.0
+CHT,Chatham Islands-Tuuta Airport,Chillicothe,MO,USA,39.78215278,-93.49568056,Z,America/Chicago,-5.0
+COU,Columbia Regional Airport,Columbia,MO,USA,38.81809306,-92.21962917,A,America/Chicago,-5.0
+DMO,Sedalia Memorial,Sedalia,MO,USA,38.70688889,-93.17611111,,America/Chicago,-5.0
+DXE,Dexter Municipal,Dexter,MO,USA,36.77747,-89.94117333,,America/Chicago,-5.0
+EIW,County Memorial,New Madrid,MO,USA,36.53531083,-89.59971722,,America/Chicago,-5.0
+EOS,Neosho Memorial,Neosho,MO,USA,36.81080556,-94.39169444,,America/Chicago,-5.0
+EVU,Maryville Memorial,Maryville,MO,USA,40.35260167,-94.91552722,,America/Chicago,-5.0
+EZZ,Cameron Memorial,Cameron,MO,USA,39.72755972,-94.276375,,America/Chicago,-5.0
+FAM,Farmington Regional,Farmington,MO,USA,37.76107917,-90.42859722,,America/Chicago,-5.0
+FTT,Elton Hensley Memorial,Fulton,MO,USA,38.83987472,-92.00421056,,America/Chicago,-5.0
+GLY,Clinton Memorial,Clinton,MO,USA,38.35657306,-93.68417694,,America/Chicago,-5.0
+GPH,Clay County Regional,Mosby,MO,USA,39.33046528,-94.30997361,,America/Chicago,-5.0
+H19,Bowling Green Municipal,Bowling Green,MO,USA,39.36993361,-91.21925556,,America/Chicago,-5.0
+H21,Camdenton Memorial,Camdenton,MO,USA,37.97468528,-92.69161528,,America/Chicago,-5.0
+H41,Memorial,Mexico,MO,USA,39.15751389,-91.81826667,,America/Chicago,-5.0
+H79,Eldon Model Airpark,Eldon,MO,USA,38.36062611,-92.57157139,,America/Chicago,-5.0
+H88,Municipal,Fredericktown,MO,USA,37.605825,-90.28731389,,America/Chicago,-5.0
+HAE,Hannibal Municipal,Hannibal,MO,USA,39.72448944,-91.44367944,,America/Chicago,-5.0
+HIG,Higginsville Industrial Municipal,Higginsville,MO,USA,39.07334639,-93.67716083,,America/Chicago,-5.0
+IRK,Kirksville Regional Airport,Kirksville,MO,USA,40.09364444,-92.54496917,A,America/Chicago,-5.0
+JEF,Jefferson City Memorial Airport,Jefferson City,MO,USA,38.59117917,-92.15614389,A,America/Chicago,-5.0
+JLN,Joplin Regional Airport,Joplin,MO,USA,37.15181361,-94.49826833,A,America/Chicago,-5.0
+K02,Perryville Municipal,Perryville,MO,USA,37.86866667,-89.86213889,,America/Chicago,-5.0
+K15,Linn Creek-Grand Glaize Memorial,Osage Beach,MO,USA,38.11045,-92.68054583,,America/Chicago,-5.0
+K33,Salem Memorial,Salem,MO,USA,37.61523333,-91.60444167,,America/Chicago,-5.0
+K39,St Clair Memorial,St Clair,MO,USA,38.37594333,-90.97073944,,America/Chicago,-5.0
+K57,Gould Peterson Municipal,Tarkio,MO,USA,40.44583139,-95.36275806,,America/Chicago,-5.0
+K89,Macon-Fower Memorial,Macon,MO,USA,39.72870694,-92.464455,,America/Chicago,-5.0
+LBO,Floyd W Jones Lebanon,Lebanon,MO,USA,37.64718056,-92.65375778,,America/Chicago,-5.0
+LLU,Alluitsup Paa Heliport,Lamar,MO,USA,37.4894925,-94.31150444,E,America/Chicago,-5.0
+LXT,Lee's Summit Municipal,Lee's Summit,MO,USA,38.95975,-94.37158333,,America/Chicago,-5.0
+M05,Caruthersville Memorial,Caruthersville,MO,USA,36.17506917,-89.67508000000001,,America/Chicago,-5.0
+M09,Piedmont Municipal,Piedmont,MO,USA,37.12671694,-90.7128975,,America/Chicago,-5.0
+M17,Bolivar Municipal,Bolivar,MO,USA,37.59693194,-93.34765,,America/Chicago,-5.0
+M48,Houston Memorial,Houston,MO,USA,37.33009167,-91.97316944,,America/Chicago,-5.0
+M58,Monett Municipal,Monett,MO,USA,36.90621528,-94.01275833,,America/Chicago,-5.0
+MAW,Malden Municipal,Malden,MO,USA,36.60055694,-89.99220278,,America/Chicago,-5.0
+MBY,Omar N Bradley,Moberly,MO,USA,39.46392583,-92.42759778,,America/Chicago,-5.0
+MCI,Kansas City International Airport,Kansas City,MO,USA,39.29760528,-94.71390556,A,America/Chicago,-5.0
+MHL,Marshall Memorial Municipal,Marshall,MO,USA,39.09575472,-93.20287889,,America/Chicago,-5.0
+MKC,Charles B. Wheeler Downtown Airport,Kansas City,MO,USA,39.12324111,-94.592735,A,America/Chicago,-5.0
+MNF,Mana Island Airport,Mountain View,MO,USA,36.99282694,-91.71445611,U,America/Chicago,-5.0
+MO6,Washington Memorial,Washington,MO,USA,38.59163472,-90.99761444,,America/Chicago,-5.0
+MO85,Lawrence Smith Memorial,Harrisonville,MO,USA,38.61102222,-94.34213056,,America/Chicago,-5.0
+NVD,Nevada Municipal,Nevada,MO,USA,37.85206528,-94.30486472,,America/Chicago,-5.0
+POF,Poplar Bluff Municipal Airport,Poplar Bluff,MO,USA,36.77394444,-90.32484722,A,America/Chicago,-5.0
+SET,St Charles County Smart ,St Charles,MO,USA,38.92969444,-90.42996111,,America/Chicago,-5.0
+SGF,Springfield Branson National Airport,Springfield,MO,USA,37.24432611,-93.38685806,A,America/Chicago,-5.0
+SIK,Sikeston Memorial Municipal Airport,Sikeston,MO,USA,36.89888889,-89.56175,A,America/Chicago,-5.0
+STJ,Rosecrans Memorial Airport,St Joseph,MO,USA,39.77194444,-94.90970556,A,America/Chicago,-5.0
+STL,St Louis Lambert International Airport,St Louis,MO,USA,38.74768694,-90.35998972,A,America/Chicago,-5.0
+SUS,Spirit of St Louis Airport,St Louis,MO,USA,38.66187028,-90.65123,A,America/Chicago,-5.0
+TBN,Waynesville-St. Robert Regional Forney field,Fort Leonard Wood,MO,USA,37.74163111,-92.14073611,A,America/Chicago,-5.0
+TKX,Takaroa Airport,Kennett,MO,USA,36.23087083,-90.03466806,U,America/Chicago,-5.0
+TRX,Trenton Municipal,Trenton,MO,USA,40.08351333,-93.59063472,,America/Chicago,-5.0
+TVB,Cabool Memorial,Cabool,MO,USA,37.13244083,-92.08396167,,America/Chicago,-5.0
+UBX,Cuba Municipal,Cuba,MO,USA,38.06877667,-91.42885694,,America/Chicago,-5.0
+UNO,West Plains Municipal,West Plains,MO,USA,36.87813889,-91.90269444,,America/Chicago,-5.0
+UUV,Sullivan Regional,Sullivan,MO,USA,38.23343056,-91.16433333,,America/Chicago,-5.0
+VER,General Heriberto Jara International Airport,Boonville,MO,USA,38.94577556,-92.68277139,S,America/Chicago,-5.0
+VIH,Rolla National,Rolla/Vichy,MO,USA,38.12743222,-91.7695225,,America/Chicago,-5.0

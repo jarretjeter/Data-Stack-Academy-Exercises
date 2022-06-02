@@ -1,0 +1,98 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+09J,Jekyll Island,Jekyll Island,GA,USA,31.07447222,-81.42777778,,America/New_York,-4.0
+11J,Early County,Blakely,GA,USA,31.39698611,-84.89525694,,America/New_York,-4.0
+15J,Cook County,Adel,GA,USA,31.13780556,-83.45308333,,America/New_York,-4.0
+16J,Dawson Municipal,Dawson,GA,USA,31.74328472,-84.419285,,America/New_York,-4.0
+17J,Donalsonville Municipal,Donalsonville,GA,USA,31.00694444,-84.87761111,,America/New_York,-4.0
+18A,Franklin County,Canon,GA,USA,34.34010472,-83.13348333,,America/New_York,-4.0
+19A,Jackson County,Jefferson,GA,USA,34.17402472,-83.56066528,,America/New_York,-4.0
+25J,Cuthbert-Randolph,Cuthbert,GA,USA,31.70016583,-84.82492194,,America/New_York,-4.0
+27A,Elbert County-Patz ,Elberton,GA,USA,34.09519722,-82.81586417,,America/New_York,-4.0
+2J2,Liberty County,Hinesville,GA,USA,31.78461111,-81.64116667,,America/New_York,-4.0
+2J3,Louisville Municipal,Louisville,GA,USA,32.98654083,-82.38568139,,America/New_York,-4.0
+2J5,Millen,Millen,GA,USA,32.89376972,-81.96511583,,America/New_York,-4.0
+3J7,Greene County Airpark,Greensboro,GA,USA,33.59766667,-83.139,,America/New_York,-4.0
+46A,Blairsville,Blairsville,GA,USA,34.85508722,-83.99685500000001,,America/New_York,-4.0
+47A,Cherokee County,Canton,GA,USA,34.31058333,-84.42391667,,America/New_York,-4.0
+48A,Cochran,Cochran,GA,USA,32.39936111,-83.27591667,,America/New_York,-4.0
+49A,Gilmer County,Ellijay,GA,USA,34.62786417,-84.52492889,,America/New_York,-4.0
+4A4,Cornelius-Moore ,Cedartown,GA,USA,34.01869444,-85.14647222,,America/New_York,-4.0
+4A7,Clayton County,Hampton,GA,USA,33.38911111,-84.33236111,,America/New_York,-4.0
+4J1,Brantley County,Nahunta,GA,USA,31.21272417,-81.90539083,,America/New_York,-4.0
+4J2,Berrien County,Nashville,GA,USA,31.21255556,-83.22627778,,America/New_York,-4.0
+4J5,Quitman-Brooks County,Quitman,GA,USA,30.80575139,-83.58654889,,America/New_York,-4.0
+4J6,St Marys,St Marys,GA,USA,30.75468028,-81.55731917,,America/New_York,-4.0
+52A,Madison Municipal,Madison,GA,USA,33.61212528,-83.46044333,,America/New_York,-4.0
+53A,"Dr. C.P. Savage, Sr.",Montezuma,GA,USA,32.302,-84.00747222,,America/New_York,-4.0
+5A9,Roosevelt Memorial,Warm Springs,GA,USA,32.93346222,-84.68881639,,America/New_York,-4.0
+65J,Wrens Memorial,Wrens,GA,USA,33.222645,-82.38373611,,America/New_York,-4.0
+6A1,Butler Municipal,Butler,GA,USA,32.56736694,-84.25074833,,America/New_York,-4.0
+6A2,Griffin-Spaulding County ,Griffin,GA,USA,33.22697222,-84.27494444,,America/New_York,-4.0
+70J,Cairo-Grady County,Cairo,GA,USA,30.88797667,-84.15473528,,America/New_York,-4.0
+75J,Turner County,Ashburn,GA,USA,31.68545833,-83.63211194,,America/New_York,-4.0
+9A1,Covington Municipal,Covington,GA,USA,33.6324825,-83.84955806,,America/New_York,-4.0
+9A5,Barwick-LaFayette ,LaFayette,GA,USA,34.68896917,-85.29023333,,America/New_York,-4.0
+ABY,Southwest Georgia Regional Airport,Albany,GA,USA,31.535515000000004,-84.19447333,A,America/New_York,-4.0
+ACJ,Anuradhapura Air Force Base,Americus,GA,USA,32.11079917,-84.18884806,U,America/New_York,-4.0
+AGS,Augusta Regional At Bush Field,Augusta,GA,USA,33.369955,-81.96449611,A,America/New_York,-4.0
+AHN,Athens Ben Epps Airport,Athens,GA,USA,33.94859528,-83.32634694,A,America/New_York,-4.0
+AJR,Arvidsjaur Airport,Cornelia,GA,USA,34.50081944,-83.55487,E,America/New_York,-4.0
+AMG,Bacon County,Alma,GA,USA,31.53605556,-82.50655556,,America/New_York,-4.0
+ATL,Hartsfield Jackson Atlanta International Airport,Atlanta,GA,USA,33.64044444,-84.42694444,A,America/New_York,-4.0
+AYS,Waycross Ware County Airport,Waycross,GA,USA,31.24905556,-82.39530556,A,America/New_York,-4.0
+AZE,Hazelhurst,Hazelhurst,GA,USA,31.88465639,-82.64738778,,America/New_York,-4.0
+BGE,Decatur County Industrial Air Park,Bainbridge,GA,USA,30.97152778,-84.63744444,A,America/New_York,-4.0
+BHC,Baxley Municipal,Baxley,GA,USA,31.71383333,-82.39377778,,America/New_York,-4.0
+BQK,Brunswick Golden Isles Airport,Brunswick,GA,USA,31.25902778,-81.46630556,A,America/New_York,-4.0
+BXG,Bendigo Airport,Waynesboro,GA,USA,33.04093056,-82.00397917,U,America/New_York,-4.0
+CCO,Newnan-Coweta County,Newnan,GA,USA,33.31208333,-84.77027778,,America/New_York,-4.0
+CKF,Crisp County - Cordele,Cordele,GA,USA,31.98883333,-83.77391667,,America/New_York,-4.0
+CSG,Columbus Metropolitan Airport,Columbus,GA,USA,32.51633333,-84.93886111,A,America/New_York,-4.0
+CTJ,West Georgia Regional,Carrollton,GA,USA,33.63102778,-85.15202778,,America/New_York,-4.0
+CWV,Claxton-Evans County,Claxton,GA,USA,32.19505556,-81.86955556,,America/New_York,-4.0
+CXU,Camilla-Mitchell County,Camilla,GA,USA,31.21291667,-84.23680556,,America/New_York,-4.0
+CZL,Mohamed Boudiaf International Airport,Calhoun,GA,USA,34.45678278,-84.93949944,N,America/New_York,-4.0
+D73,Monroe-Walton County,Monroe,GA,USA,33.78149889,-83.69355389,,America/New_York,-4.0
+DBN,W H 'Bud' Barron Airport,Dublin,GA,USA,32.56445806,-82.98525556,A,America/New_York,-4.0
+DNL,Daniel Field,Augusta,GA,USA,33.46663667,-82.03933917,A,America/New_York,-4.0
+DNN,Dalton Municipal Airport,Dalton,GA,USA,34.72174833,-84.86910806,A,America/New_York,-4.0
+DQH,Douglas Municipal,Douglas,GA,USA,31.47780833,-82.85961556,,America/New_York,-4.0
+EZM,Eastman-Dodge County,Eastman,GA,USA,32.21425,-83.12802778,,America/New_York,-4.0
+FFC,Peachtree City - Falcon ,Atlanta,GA,USA,33.35725,-84.57183333,,America/New_York,-4.0
+FTY,Fulton County Airport Brown Field,Atlanta,GA,USA,33.77913889,-84.52136111,A,America/New_York,-4.0
+FZG,Fitzgerald Municipal,Fitzgerald,GA,USA,31.68368667,-83.27046056,,America/New_York,-4.0
+GVL,Lee Gilmer Memorial Airport,Gainesville,GA,USA,34.27290389,-83.82681333,A,America/New_York,-4.0
+HOE,Ban Huoeisay Airport,Homerville,GA,USA,31.05591667,-82.77413889,N,America/New_York,-4.0
+HQU,Thomson-McDuffie County,Thomson,GA,USA,33.52972639,-82.51678556,,America/New_York,-4.0
+IIY,Washington-Wilkes County,Washington,GA,USA,33.77987528,-82.81661639,,America/New_York,-4.0
+JES,Jesup-Wayne County,Jesup,GA,USA,31.55408333,-81.88344444,,America/New_York,-4.0
+JYL,Plantation Airpark,Sylvania,GA,USA,32.64544861,-81.59649722,,America/New_York,-4.0
+JZP,Pickens County,Jasper,GA,USA,34.45147972,-84.45659278,,America/New_York,-4.0
+LGC,LaGrange Callaway Airport,Lagrange,GA,USA,33.00884694,-85.07260556,A,America/New_York,-4.0
+LZU,Gwinnett County Briscoe Field,Lawrenceville,GA,USA,33.97807611,-83.96237722,A,America/New_York,-4.0
+MAC,Herbert Smart Downtown,Macon,GA,USA,32.82213889,-83.56202778,,America/New_York,-4.0
+MCN,Middle Georgia Regional Airport,Macon,GA,USA,32.69284944,-83.64921083,A,America/New_York,-4.0
+MGR,Moultrie Municipal,Moultrie,GA,USA,31.08490917,-83.80325528,,America/New_York,-4.0
+MHP,Minsk 1 Airport,Metter,GA,USA,32.37388889,-82.07919444,E,America/New_York,-4.0
+MLJ,Baldwin County,Milledgeville,GA,USA,33.15419444,-83.24061111,,America/New_York,-4.0
+MQW,Telfair-Wheeler,McRae,GA,USA,32.09577778,-82.88002778,,America/New_York,-4.0
+OKZ,Kaolin ,Sandersville,GA,USA,32.96672222,-82.83816667,,America/New_York,-4.0
+OPN,Thomaston-Upton County,Thomaston,GA,USA,32.95458861,-84.26315222,,America/New_York,-4.0
+PDK,DeKalb Peachtree Airport,Atlanta,GA,USA,33.87560444,-84.30196778,A,America/New_York,-4.0
+PIM,Harris County Airport,Pine Mountain,GA,USA,32.84069444,-84.88244444,A,America/New_York,-4.0
+PXE,Perry-Houston Couty,Perry,GA,USA,32.51058333,-83.76733333,,America/New_York,-4.0
+RMG,Richard B Russell Airport,Rome,GA,USA,34.35060111,-85.15801389,A,America/New_York,-4.0
+RVJ,Reidsville,Reidsville,GA,USA,32.05897222,-82.15172222,,America/New_York,-4.0
+RYY,Cobb County-McCollum ,Marietta,GA,USA,34.01315611,-84.59854472,,America/New_York,-4.0
+SAV,Savannah Hilton Head International Airport,Savannah,GA,USA,32.12758333,-81.20213889,A,America/New_York,-4.0
+SBO,Emanuel County,Swainsboro,GA,USA,32.60825,-82.36869444,,America/New_York,-4.0
+SSI,Malcolm McKinnon Airport,Brunswick,GA,USA,31.1515925,-81.39134667,A,America/New_York,-4.0
+SYV,Sylvester,Sylvester,GA,USA,31.55851111,-83.89573389,,America/New_York,-4.0
+TBR,Statesboro Bulloch County Airport,Statesboro,GA,USA,32.48316667,-81.73727778,A,America/New_York,-4.0
+TMA,Henry Tift Myers Airport,Tifton,GA,USA,31.42879528,-83.48787167,A,America/New_York,-4.0
+TOC,Toccoa Airport - R.G. Letourneau Field,Toccoa,GA,USA,34.59376444,-83.2958,A,America/New_York,-4.0
+TVI,Thomasville Regional Airport,Thomasville,GA,USA,30.90155194,-83.88133556,A,America/New_York,-4.0
+VDI,Vidalia Regional Airport,Vidalia,GA,USA,32.19255556,-82.37194444,A,America/New_York,-4.0
+VLD,Valdosta Regional Airport,Valdosta,GA,USA,30.7825,-83.27672222,A,America/New_York,-4.0
+VPC,Cartersville,Cartersville,GA,USA,34.12313889,-84.84869444,,America/New_York,-4.0
+WDR,Barrow County Airport,Winder,GA,USA,33.98227778,-83.66808333,A,America/New_York,-4.0

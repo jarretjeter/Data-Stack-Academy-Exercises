@@ -1,0 +1,79 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0K7,Humboldt Municipal,Humboldt,IA,USA,42.7360825,-94.24524167,,America/Chicago,-5.0
+2Y4,Rockwell City Municipal,Rockwell City,IA,USA,42.38748056,-94.61803333,,America/Chicago,-5.0
+3Y2,George L Scott Municipal,West Union,IA,USA,42.98508917,-91.79060417,,America/Chicago,-5.0
+3Y3,Winterset Madison County,Winterset,IA,USA,41.36276778,-94.02106194,,America/Chicago,-5.0
+4C8,Albia Municipal,Albia,IA,USA,40.99445361,-92.76297194,,America/Chicago,-5.0
+4K6,Bloomfield Municipal,Bloomfield,IA,USA,40.73210556,-92.42826889,,America/Chicago,-5.0
+ADU,Ardabil Airport,Audubon,IA,USA,41.70137556,-94.92054167,E,America/Chicago,-5.0
+AIO,Atlantic Municipal,Atlantic,IA,USA,41.40726722,-95.04690639,,America/Chicago,-5.0
+ALO,Waterloo Regional Airport,Waterloo,IA,USA,42.55708139,-92.40034361,A,America/Chicago,-5.0
+AMW,Ames Municipal,Ames,IA,USA,41.99206972,-93.62180139,,America/Chicago,-5.0
+AWG,Washington Municipal,Washington,IA,USA,41.27610083,-91.67344389,,America/Chicago,-5.0
+AXA,Clayton J Lloyd International Airport,Algona,IA,USA,43.07791056,-94.27199278,U,America/Chicago,-5.0
+BNW,Boone Municipal,Boone,IA,USA,42.04956944,-93.84757222,,America/Chicago,-5.0
+BRL,Southeast Iowa Regional Airport,Burlington,IA,USA,40.783225,-91.12550556,A,America/Chicago,-5.0
+C17,Marion,Marion,IA,USA,42.03111083,-91.52934222,,America/Chicago,-5.0
+C25,Waverly Municipal,Waverly,IA,USA,42.7419525,-92.50793528,,America/Chicago,-5.0
+CAV,Clarion Municipal,Clarion,IA,USA,42.74194389,-93.75890944,,America/Chicago,-5.0
+CBF,Council Bluffs Municipal Airport,Council Bluffs,IA,USA,41.25947222,-95.75997222,A,America/Chicago,-5.0
+CCY,Northeast Iowa Regional Airport,Charles City,IA,USA,43.07260861,-92.61077833,\N,America/Chicago,-5.0
+CID,The Eastern Iowa Airport,Cedar Rapids,IA,USA,41.88458833,-91.71087222,A,America/Chicago,-5.0
+CIN,Arthur N Neu,Carroll,IA,USA,42.04619444,-94.789,,America/Chicago,-5.0
+CKP,Cherokee Municipal,Cherokee,IA,USA,42.73147222,-95.55613889,,America/Chicago,-5.0
+CNC,Coconut Island Airport,Chariton,IA,USA,41.01962389,-93.35968028,O,America/Chicago,-5.0
+CSQ,Creston Municipal,Creston,IA,USA,41.02146139,-94.36331917,,America/Chicago,-5.0
+CWI,Clinton Municipal Airport,Clinton,IA,USA,41.8311125,-90.32913056,A,America/Chicago,-5.0
+DBQ,Dubuque Regional Airport,Dubuque,IA,USA,42.40295944,-90.70916722,A,America/Chicago,-5.0
+DEH,Decorah Municipal,Decorah,IA,USA,43.27550139,-91.73937389,,America/Chicago,-5.0
+DNS,Denison Municipal,Denison,IA,USA,41.9864325,-95.38072083,,America/Chicago,-5.0
+DSM,Des Moines International Airport,Des Moines,IA,USA,41.53493306,-93.66068222,A,America/Chicago,-5.0
+DVN,Davenport Municipal,Davenport,IA,USA,41.6102775,-90.58832528,,America/Chicago,-5.0
+EBS,Webster City Municipal,Webster City,IA,USA,42.43663889,-93.86886111,,America/Chicago,-5.0
+EFW,Jefferson Municipal,Jefferson,IA,USA,42.01016667,-94.34258333,,America/Chicago,-5.0
+EGQ,Emmetsburg Municipal,Emmetsburg,IA,USA,43.10202056,-94.704675,,America/Chicago,-5.0
+EOK,Keokuk Municipal Airport,Keokuk,IA,USA,40.45990778,-91.42850111,A,America/Chicago,-5.0
+EST,Estherville Municipal,Estherville,IA,USA,43.40744444,-94.74641667,,America/Chicago,-5.0
+FFL,Fairfield Municipal,Fairfield,IA,USA,41.05332417,-91.97892333,,America/Chicago,-5.0
+FOD,Fort Dodge Regional Airport,Fort Dodge,IA,USA,42.55145611,-94.19255111,A,America/Chicago,-5.0
+FSW,Fort Madison Municipal,Fort Madison,IA,USA,40.6592625,-91.3268175,,America/Chicago,-5.0
+FXY,Forest City Municipal,Forest City,IA,USA,43.23473417,-93.6241025,,America/Chicago,-5.0
+GCT,Guthrie County Regional,Guthrie Center,IA,USA,41.68776417,-94.43524611,,America/Chicago,-5.0
+GFZ,Greenfield Municipal,Greenfield,IA,USA,41.32702778,-94.44572222,,America/Chicago,-5.0
+GGI,Grinnell Municipal,Grinnell,IA,USA,41.70916083,-92.73491278,,America/Chicago,-5.0
+HNR,Harlan Municipal,Harlan,IA,USA,41.58438889,-95.33963889,,America/Chicago,-5.0
+HPT,Hampton Municipal,Hampton,IA,USA,42.72372361,-93.22634056,,America/Chicago,-5.0
+I75,Osceola Municipal,Osceola,IA,USA,41.05221889,-93.68966222,,America/Chicago,-5.0
+ICL,Schenck ,Clarinda,IA,USA,40.72178361,-95.02642667,,America/Chicago,-5.0
+IFA,Iowa Falls Municipal,Iowa Falls,IA,USA,42.47078639,-93.26995361,,America/Chicago,-5.0
+IIB,Independence Municipal,Independence,IA,USA,42.45359833,-91.94761833,,America/Chicago,-5.0
+IKV,Ankeny Regional,Ankeny,IA,USA,41.69128556,-93.56630333,,America/Chicago,-5.0
+IOW,Iowa City Municipal Airport,Iowa City,IA,USA,41.63924389,-91.54650333,A,America/Chicago,-5.0
+LRJ,Le Mars Municipal,Le Mars,IA,USA,42.77801778,-96.19368944,,America/Chicago,-5.0
+LWD,Lamoni Municipal,Lamoni,IA,USA,40.63333306,-93.90217028,,America/Chicago,-5.0
+MCW,Mason City Municipal Airport,Mason City,IA,USA,43.1577925,-93.33126056,A,America/Chicago,-5.0
+MEY,Meghauli Airport,Mapleton,IA,USA,42.178295,-95.79364528,N,America/Chicago,-5.0
+MIW,Marshalltown Municipal,Marshalltown,IA,USA,42.11272639,-92.91778778,,America/Chicago,-5.0
+MPZ,Mount Pleasant Municipal,Mount Pleasant,IA,USA,40.94661389,-91.511075,,America/Chicago,-5.0
+MUT,Muscatine Municipal,Muscatine,IA,USA,41.36786333,-91.14821639,,America/Chicago,-5.0
+MXO,Monticello Municipal,Monticello,IA,USA,42.22611111,-91.16708333,,America/Chicago,-5.0
+OLZ,Olyokminsk Airport,Oelwein,IA,USA,42.68084472,-91.97447833,N,America/Chicago,-5.0
+OOA,Oskaloosa Municipal,Oskaloosa,IA,USA,41.22614944,-92.49388278,,America/Chicago,-5.0
+OQW,Maquoketa Municipal,Maquoketa,IA,USA,42.050075,-90.73880472,,America/Chicago,-5.0
+ORC,Orange City Municipal,Orange City,IA,USA,42.99026444,-96.06279667,,America/Chicago,-5.0
+OTM,Ottumwa Regional Airport,Ottumwa,IA,USA,41.10659611,-92.44793972,\N,America/Chicago,-5.0
+OXV,Knoxville Municipal,Knoxville,IA,USA,41.29888556,-93.11381556,,America/Chicago,-5.0
+PEA,Penneshaw Airport,Pella,IA,USA,41.40006667,-92.94588333,O,America/Chicago,-5.0
+POH,Pocahontas Municipal,Pocahontas,IA,USA,42.74280556,-94.64730556,,America/Chicago,-5.0
+PRO,Perry Municipal,Perry,IA,USA,41.82801306,-94.15990361,,America/Chicago,-5.0
+RDK,Red Oak Municipal,Red Oak,IA,USA,41.01052778,-95.25986111,,America/Chicago,-5.0
+SDA,Shenandoah Municipal,Shenandoah,IA,USA,40.75148167,-95.41347222,,America/Chicago,-5.0
+SHL,Shillong Airport,Sheldon,IA,USA,43.20839361,-95.83343306,N,America/Chicago,-5.0
+SKI,Sac City Municipal,Sac City,IA,USA,42.37908333,-94.97958333,,America/Chicago,-5.0
+SLB,Storm Lake Municipal,Storm Lake,IA,USA,42.59719444,-95.24066667,,America/Chicago,-5.0
+SPW,Spencer Municipal Airport,Spencer,IA,USA,43.16552778,-95.20280556,A,America/Chicago,-5.0
+SUX,Sioux Gateway Col. Bud Day Field,Sioux City,IA,USA,42.40260333,-96.38436694,A,America/Chicago,-5.0
+TNU,Newton Municipal,Newton,IA,USA,41.67442972,-93.02172917,,America/Chicago,-5.0
+TVK,Centerville Municipal,Centerville,IA,USA,40.68390306,-92.90103333,,America/Chicago,-5.0
+TZT,Belle Plaine Municipal,Belle Plaine,IA,USA,41.87877778,-92.28456944,,America/Chicago,-5.0
+VTI,Vinton Veterans Memorial Airpark,Vinton,IA,USA,42.21862611,-92.02592806,,America/Chicago,-5.0

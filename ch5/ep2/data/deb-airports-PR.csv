@@ -1,0 +1,12 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+ABO,Antonio (Nery) Juarbe Pol,Arecibo,PR,USA,18.45111111,-66.67555556,,America/Puerto_Rico,-4.0
+BQN,Rafael Hernandez Airport,Aguadilla,PR,USA,18.49486111,-67.12944444,U,America/Puerto_Rico,-4.0
+CPX,Benjamin Rivera Noriega Airport,Isla De Culebra,PR,USA,18.31328917,-65.30432444,U,America/Puerto_Rico,-4.0
+MAZ,Eugenio Maria De Hostos Airport,Mayaguez,PR,USA,18.25569444,-67.14847222,U,America/Puerto_Rico,-4.0
+PR03,Fajardo Harbor Seaplane Base,Fajardo,PR,USA,18.339675,-65.62460583,,America/Puerto_Rico,-4.0
+PSE,Mercedita Airport,Ponce,PR,USA,18.00830278,-66.56301194,U,America/Puerto_Rico,-4.0
+SIG,Fernando Luis Ribas Dominicci Airport,San Juan,PR,USA,18.45675,-66.09883333,U,America/Puerto_Rico,-4.0
+SJU,Luis Munoz Marin International Airport,San Juan,PR,USA,18.43941667,-66.00183333,U,America/Puerto_Rico,-4.0
+VQS,Vieques Airport,Isla De Vieques,PR,USA,18.13551806,-65.49182583,U,America/Puerto_Rico,-4.0
+X63,Humacao,Humacao,PR,USA,18.13801667,-65.8007175,,America/Puerto_Rico,-4.0
+X95,Diego Jimenez Torres,Fajardo,PR,USA,18.30800972,-65.66182806,,America/Puerto_Rico,-4.0

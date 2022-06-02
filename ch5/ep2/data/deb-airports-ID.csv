@@ -1,0 +1,38 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+1S6,Priest River Muni,Priest River,ID,USA,48.19018611,-116.90936440000002,,America/Los_Angeles,-7.0
+1U7,Bear Lake County,Paris,ID,USA,42.24714972,-111.33826,,America/Boise,-6.0
+65S,Boundary County,Bonners Ferry,ID,USA,48.72632639,-116.2954761,,America/Los_Angeles,-7.0
+AOC,Altenburg-Nobitz Airport,Arco,ID,USA,43.60343056,-113.3340972,E,America/Boise,-6.0
+BOI,Boise Air Terminal/Gowen Field,Boise,ID,USA,43.56444444,-116.2227778,A,America/Boise,-6.0
+BYI,Burley Municipal Airport,Burley,ID,USA,42.54260361,-113.7715442,\N,America/Boise,-6.0
+COE,Coeur D'Alene - Pappy Boyington Field,Coeur D'Alene,ID,USA,47.77429167,-116.8196231,A,America/Los_Angeles,-7.0
+EUL,Caldwell Industrial,Caldwell (Boise),ID,USA,43.64186111,-116.6357778,,America/Boise,-6.0
+GNG,Gooding Municipal,Gooding,ID,USA,42.91716639,-114.7651575,,America/Boise,-6.0
+IDA,Idaho Falls Regional Airport,Idaho Falls,ID,USA,43.51455556,-112.07016670000002,A,America/Boise,-6.0
+JER,Jersey Airport,Jerome,ID,USA,42.72663639,-114.4571506,E,America/Boise,-6.0
+LLJ,Challis,Challis,ID,USA,44.52297806,-114.2175642,,America/Boise,-6.0
+LWS,Lewiston Nez Perce County Airport,Lewiston,ID,USA,46.37449806,-117.01539440000002,A,America/Los_Angeles,-7.0
+MYL,McCall Municipal Airport,McCall,ID,USA,44.88879556,-116.1017497,A,America/Boise,-6.0
+PIH,Pocatello Regional Airport,Pocatello,ID,USA,42.91130556,-112.5958611,A,America/Boise,-6.0
+RXE,Rexburg-Madison County,Rexburg,ID,USA,43.83391139,-111.805105,,America/Boise,-6.0
+S66,Homedale Municipal,Homedale,ID,USA,43.61488056,-116.9215372,,America/Boise,-6.0
+S67,Nampa Muni,Nampa,ID,USA,43.58133333,-116.5230556,,America/Boise,-6.0
+S68,Orofino Municipal,Orofino,ID,USA,46.49129139,-116.2768061,,America/Los_Angeles,-7.0
+S72,St Maries Municipal,St Maries,ID,USA,47.32768722,-116.5773906,,America/Los_Angeles,-7.0
+S73,Kamiah Municipal,Kamiah,ID,USA,46.21934028,-116.0134736,,America/Los_Angeles,-7.0
+S80,Idaho County,Grangeville,ID,USA,45.94255806,-116.1234158,,America/Los_Angeles,-7.0
+S83,Shoshone County,Kellogg,ID,USA,47.54769889,-116.1885008,,America/Los_Angeles,-7.0
+S87,Weiser Municipal,Weiser,ID,USA,44.20683056,-116.9623869,,America/Boise,-6.0
+S89,Craigmont Municipal,Craigmont,ID,USA,46.24710917,-116.4801447,,America/Los_Angeles,-7.0
+SMN,Lemhi County Airport,Salmon,ID,USA,45.12047778,-113.8820103,A,America/Boise,-6.0
+SUN,Friedman Memorial Airport,Hailey,ID,USA,43.50484139,-114.2965903,A,America/Boise,-6.0
+SZT,San Cristobal de las Casas Airport,Sandpoint,ID,USA,48.29965139,-116.5597681,N,America/Los_Angeles,-7.0
+TWF,Joslin Field Magic Valley Regional Airport,Twin Falls,ID,USA,42.48180389,-114.4877356,A,America/Boise,-6.0
+U02,McCarley,Blackfoot,ID,USA,43.20925,-112.3495861,,America/Boise,-6.0
+U03,Buhl Municipal,Buhl,ID,USA,42.59157139,-114.7967178,,America/Boise,-6.0
+U10,Preston,Preston,ID,USA,42.10690806,-111.9125389,,America/Boise,-6.0
+U36,Aberdeen Municipal,Aberdeen,ID,USA,42.92102222,-112.8811053,,America/Boise,-6.0
+U59,Driggs-Reed Memorial,Driggs,ID,USA,43.74193056,-111.0978608,,America/Boise,-6.0
+U70,Cascade,Cascade,ID,USA,44.4937825,-116.0162422,,America/Boise,-6.0
+U76,Mountain Home Municipal,Mountain Home,ID,USA,43.13125278,-115.7295944,,America/Boise,-6.0
+U82,Council Municipal,Council,ID,USA,44.7498875,-116.4468092,,America/Boise,-6.0

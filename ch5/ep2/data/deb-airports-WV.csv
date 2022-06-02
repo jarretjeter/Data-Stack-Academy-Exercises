@@ -1,0 +1,25 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+3I2,Mason County,Point Pleasant,WV,USA,38.91463889,-82.09858333,,America/New_York,-4.0
+48I,Braxton County,Sutton,WV,USA,38.68704444,-80.65176083,,America/New_York,-4.0
+4G7,Fairmont Muni,Fairmont,WV,USA,39.44816667,-80.16702778,,America/New_York,-4.0
+4I0,Mingo County,Williamson,WV,USA,37.68760139,-82.26097306,,America/New_York,-4.0
+6L4,Logan County,Logan,WV,USA,37.85567778,-81.91589722,,America/New_York,-4.0
+74D,Marshall Cty,Moundsville,WV,USA,39.88083333,-80.73577778,,America/New_York,-4.0
+79D,Philippi-Barbour County Regional,Philippi,WV,USA,39.16620778,-80.06258056,,America/New_York,-4.0
+BKW,Raleigh County Memorial Airport,Beckley,WV,USA,37.78732833,-81.12416417,A,America/New_York,-4.0
+BLF,Mercer County Airport,Bluefield,WV,USA,37.29579944,-81.20769056,A,America/New_York,-4.0
+CKB,North Central West Virginia Airport,Clarksburg,WV,USA,39.29663889,-80.22808333,A,America/New_York,-4.0
+CRW,Yeager Airport,Charleston,WV,USA,38.37315083,-81.59318972,A,America/New_York,-4.0
+EKN,Elkins-Randolph Co-Jennings Randolph Field,Elkins,WV,USA,38.88944444,-79.85713889,A,America/New_York,-4.0
+HLG,Wheeling Ohio County Airport,Wheeling,WV,USA,40.175,-80.64627778,A,America/New_York,-4.0
+HTS,Tri-State/Milton J. Ferguson Field,Huntington,WV,USA,38.36666667,-82.55802778,A,America/New_York,-4.0
+I16,Kee ,Pineville,WV,USA,37.60044444,-81.55927778,,America/New_York,-4.0
+I18,Jackson County,Ravenswood,WV,USA,38.92977778,-81.81947222,,America/New_York,-4.0
+I25,Welch Muni,Welch,WV,USA,37.41678056,-81.52899417,,America/New_York,-4.0
+LWB,Greenbrier Valley Airport,Lewisburg,WV,USA,37.85830556,-80.39947222,U,America/New_York,-4.0
+MGW,Morgantown Municipal Walter L. Bill Hart Field,Morgantown,WV,USA,39.6429075,-79.91631417,A,America/New_York,-4.0
+MRB,Eastern WV Regional Airport/Shepherd Field,Martinsburg,WV,USA,39.40193278,-77.98458139,A,America/New_York,-4.0
+PKB,Mid Ohio Valley Regional Airport,Parkersburg,WV,USA,39.34510333,-81.43920194,A,America/New_York,-4.0
+SXL,Sligo Airport,Summersville,WV,USA,38.23163889,-80.87080556,E,America/New_York,-4.0
+W22,Upshur County Regional,Buckhannon,WV,USA,39.00035833,-80.27392778,,America/New_York,-4.0
+W99,Grant County,Petersburg,WV,USA,38.99419444,-79.14438889,,America/New_York,-4.0

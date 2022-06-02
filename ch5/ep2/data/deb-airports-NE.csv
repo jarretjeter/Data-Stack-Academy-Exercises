@@ -1,0 +1,74 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+07K,Central City Municipal,Central City,NE,USA,41.11668056,-98.05033639,,America/Chicago,-5.0
+08K,Harvard State,Harvard,NE,USA,40.65138528,-98.07978667,,America/Chicago,-5.0
+09K,Sargent Municipal,Sargent,NE,USA,41.63695083,-99.34038139,,America/Chicago,-5.0
+0B4,Hartington Municipal,Hartington,NE,USA,42.60355556,-97.25263889,,America/Chicago,-5.0
+0C4,Pender Municipal,Pender,NE,USA,42.11388722,-96.72892556,,America/Chicago,-5.0
+0F4,Loup City Municipal,Loup City,NE,USA,41.29028694,-98.99064278,,America/Chicago,-5.0
+0G3,Tecumseh Municipal,Tecumseh,NE,USA,40.39944417,-96.17139694,,America/Chicago,-5.0
+0V3,Pioneer Village ,Minden,NE,USA,40.5149125,-98.94565083,,America/Chicago,-5.0
+12K,Superior Municipal,Superior,NE,USA,40.04636111,-98.06011111,,America/Chicago,-5.0
+1V2,Grant County ,Hyannis,NE,USA,42.00942944,-101.7693439,,America/Denver,-6.0
+47V,Curtis Municipal,Curtis,NE,USA,40.63750778,-100.4712539,,America/Chicago,-5.0
+4D9,Alma Municipal,Alma,NE,USA,40.11389972,-99.34565306,,America/Chicago,-5.0
+4V9,Antelope County,Neligh,NE,USA,42.11222889,-98.0386775,,America/Chicago,-5.0
+50K,Pawnee City Municipal,Pawnee City,NE,USA,40.11611111,-96.19445278,,America/Chicago,-5.0
+6K3,Creighton Municipal,Creighton,NE,USA,42.47083694,-97.88367778,,America/Chicago,-5.0
+6N8,Thomas County ,Thedford,NE,USA,41.96217028,-100.5690139,,America/Chicago,-5.0
+7K8,Martin ,South Sioux City,NE,USA,42.45416111,-96.47253111,,America/Chicago,-5.0
+7V7,Red Cloud Municipal,Red Cloud,NE,USA,40.08473556,-98.54061694,,America/Chicago,-5.0
+8V2,Stuart-Atkinson Municipal,Atkinson,NE,USA,42.56250167,-99.03787611,,America/Chicago,-5.0
+93Y,David City Municipal,David City,NE,USA,41.23334583,-97.11698111,,America/Chicago,-5.0
+99Y,Greeley Municipal,Greeley,NE,USA,41.55834528,-98.54618528,,America/Chicago,-5.0
+9V5,Modisett ,Rushville,NE,USA,42.73748639,-102.4448947,,America/Denver,-6.0
+AFK,Nebraska City Municipal,Nebraska City,NE,USA,40.60688889,-95.86569444,,America/Chicago,-5.0
+AHQ,Wahoo Municipal,Wahoo,NE,USA,41.24133333,-96.59402778,,America/Chicago,-5.0
+AIA,Alliance Municipal Airport,Alliance,NE,USA,42.05325,-102.8037222,A,America/Denver,-6.0
+ANW,Ainsworth Municipal,Ainsworth,NE,USA,42.57922222,-99.99297222,,America/Chicago,-5.0
+AUH,Abu Dhabi International Airport,Aurora,NE,USA,40.89413889,-97.99455556,U,America/Chicago,-5.0
+BBW,Broken Bow Municipal,Broken Bow,NE,USA,41.43645056,-99.64216861,,America/Chicago,-5.0
+BFF,Western Neb. Rgnl/William B. Heilig Airport,Scottsbluff,NE,USA,41.87402778,-103.5956389,A,America/Denver,-6.0
+BIE,Beatrice Municipal,Beatrice,NE,USA,40.30127778,-96.75411111,,America/Chicago,-5.0
+BUB,Cram ,Burwell,NE,USA,41.77669444,-99.14975,,America/Chicago,-5.0
+BVN,Albion Municipal,Albion,NE,USA,41.72857778,-98.05575972,,America/Chicago,-5.0
+CDR,Chadron Municipal Airport,Chadron,NE,USA,42.83755556,-103.0954167,A,America/Denver,-6.0
+CEK,Chelyabinsk Balandino Airport,Crete,NE,USA,40.61791667,-96.92488889,N,America/Chicago,-5.0
+CNP,Neerlerit Inaat Airport,Chappell,NE,USA,41.07747222,-102.4640556,E,America/Denver,-6.0
+CSB,Caransebeş Airport,Cambridge,NE,USA,40.30658333,-100.1620833,E,America/Chicago,-5.0
+CZD,Cozad Municipal,Cozad,NE,USA,40.86911111,-100.0042222,,America/Chicago,-5.0
+EAR,Kearney Municipal,Kearney,NE,USA,40.72702778,-99.00677778,,America/Chicago,-5.0
+FBY,Fairbury Municipal,Fairbury,NE,USA,40.18297222,-97.16927778,,America/Chicago,-5.0
+FET,Fremont Municipal Airport,Fremont,NE,USA,41.44913889,-96.52019444,A,America/Chicago,-5.0
+FMZ,Fairmont State,Fairmont,NE,USA,40.58569444,-97.57305556,,America/Chicago,-5.0
+FNB,Neubrandenburg Airport,Falls City,NE,USA,40.07878611,-95.59199167,\N,America/Chicago,-5.0
+GGF,Grant Municipal,Grant,NE,USA,40.86952778,-101.7328611,,America/Denver,-6.0
+GRI,Central Nebraska Regional Airport,Grand Island,NE,USA,40.96747222,-98.30861111,A,America/Chicago,-5.0
+GRN,Gordon Municipal,Gordon,NE,USA,42.80597222,-102.17525,,America/Denver,-6.0
+HDE,Brewster Field,Holdredge,NE,USA,40.45269444,-99.33733333,A,America/Chicago,-5.0
+HJH,Hebron Municipal,Hebron,NE,USA,40.15225,-97.58697222,,America/Chicago,-5.0
+HSI,Hastings Municipal,Hastings,NE,USA,40.60525,-98.42788889,,America/Chicago,-5.0
+IBM,Robert E. Arraj ,Kimball,NE,USA,41.18805556,-103.6773889,,America/Denver,-6.0
+IML,Imperial Municipal,Imperial,NE,USA,40.50930556,-101.6205278,,America/Denver,-6.0
+JYR,Jiroft Airport,York,NE,USA,40.89675,-97.62277778,E,America/Chicago,-5.0
+K01,Farington ,Auburn,NE,USA,40.38750167,-95.78916167,,America/Chicago,-5.0
+K46,Blair Municipal,Blair,NE,USA,41.41805139,-96.1136275,,America/Chicago,-5.0
+LBF,North Platte Regional Airport Lee Bird Field,North Platte,NE,USA,41.12621194,-100.6836542,A,America/Chicago,-5.0
+LCG,A Coruña Airport,Wayne,NE,USA,42.24188889,-96.98141667,E,America/Chicago,-5.0
+LNK,Lincoln Airport,Lincoln,NE,USA,40.85097222,-96.75925,A,America/Chicago,-5.0
+LXN,Jim Kelly Field,Lexington,NE,USA,40.791,-99.77727778,A,America/Chicago,-5.0
+MCK,Mc Cook Ben Nelson Regional Airport,McCook,NE,USA,40.20638889,-100.5918056,A,America/Chicago,-5.0
+MLE,Malé International Airport,Omaha,NE,USA,41.196000000000005,-96.11227778,U,America/Chicago,-5.0
+ODX,Evelyn Sharp ,Ord,NE,USA,41.62425,-98.95236111,,America/Chicago,-5.0
+OFK,Karl Stefan Memorial Airport,Norfolk,NE,USA,41.98546389,-97.43511111,A,America/Chicago,-5.0
+OGA,Searle ,Ogallala,NE,USA,41.11961111,-101.7689444,,America/Denver,-6.0
+OKS,Garden County,Oshkosh,NE,USA,41.40097222,-102.3550278,,America/Denver,-6.0
+OLU,Columbus Municipal,Columbus,NE,USA,41.448,-97.34263889,,America/Chicago,-5.0
+OMA,Eppley Airfield,Omaha,NE,USA,41.30251861,-95.89417306,A,America/Chicago,-5.0
+ONL,O Neill Municipal,O Neill,NE,USA,42.46988889,-98.68805556,,America/Chicago,-5.0
+PMV,Del Caribe Santiago Mariño International Airport,Plattsmouth,NE,USA,40.95025,-95.91788889,U,America/Chicago,-5.0
+RBE,Ratanakiri Airport,Bassett,NE,USA,42.56966667,-99.56836111,U,America/Chicago,-5.0
+SCB,Scribner State,Scribner,NE,USA,41.61033333,-96.62986111,,America/Chicago,-5.0
+SNY,Sidney Municipal-Lloyd W Carr Field,Sidney,NE,USA,41.10133333,-102.9852778,A,America/Denver,-6.0
+SWT,Strezhevoy Airport,Seward,NE,USA,40.86525806,-97.10931306,N,America/Chicago,-5.0
+TQE,Municipal,Tekamah,NE,USA,41.76352778,-96.17794444,,America/Chicago,-5.0
+VTN,Miller Field,Valentine,NE,USA,42.85767194,-100.547355,\N,America/Chicago,-5.0

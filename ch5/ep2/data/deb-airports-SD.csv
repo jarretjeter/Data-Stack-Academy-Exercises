@@ -1,0 +1,58 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+0D8,Gettysburg Municipal,Gettysburg,SD,USA,44.98730556,-99.9535,,America/Chicago,-5.0
+0V6,Mission Sioux,Mission,SD,USA,43.30694778,-100.6281936,,America/Chicago,-5.0
+1D1,Milbank Municipal,Milbank,SD,USA,45.23053806,-96.56596556,,America/Chicago,-5.0
+1D3,Platte Municipal,Platte,SD,USA,43.40332833,-98.82952972,,America/Chicago,-5.0
+1D7,Webster Municipal,Webster,SD,USA,45.29329111,-97.51369889,,America/Chicago,-5.0
+1D8,Redfield Municipal,Redfield,SD,USA,44.86247611,-98.52953972,,America/Chicago,-5.0
+3FU,Faulkton Municipal,Faulkton,SD,USA,45.03191861,-99.11566417,,America/Chicago,-5.0
+5V8,Kadoka Municipal,Kadoka,SD,USA,43.83332611,-101.4970881,,America/Denver,-6.0
+66D,Sturgis Municipal,Sturgis,SD,USA,44.41761111,-103.3747778,,America/Denver,-6.0
+6V0,Edgemont Municipal,Edgemont,SD,USA,43.29525056,-103.8435325,,America/Denver,-6.0
+6V4,Wall Municipal,Wall,SD,USA,43.99498861,-102.2504367,,America/Denver,-6.0
+84D,Cheyenne Eagle Butte,Eagle Butte,SD,USA,44.984375,-101.2510417,,America/Denver,-6.0
+8D3,Sisseton Municipal,Sisseton,SD,USA,45.67079278,-96.99619167,,America/Chicago,-5.0
+8D7,Clark County,Clark,SD,USA,44.89570278,-97.71191361,,America/Chicago,-5.0
+8D9,Howard Municipal,Howard,SD,USA,44.02914056,-97.53784778,,America/Chicago,-5.0
+98D,Onida Municipal,Onida,SD,USA,44.70414917,-100.1087353,,America/Chicago,-5.0
+9D0,Highmore Municipal,Highmore,SD,USA,44.54165056,-99.44622306,,America/Chicago,-5.0
+9D1,Gregory Municipal,Gregory,SD,USA,43.22174722,-99.4033,,America/Chicago,-5.0
+9D2,Harding County,Buffalo,SD,USA,45.58055222,-103.5296356,,America/Denver,-6.0
+9V6,Martin Municipal,Martin,SD,USA,43.16564083,-101.7126953,,America/Denver,-6.0
+9V9,Chamberlain Municipal,Chamberlain,SD,USA,43.76612222,-99.32134,,America/Chicago,-5.0
+ABR,Aberdeen Regional Airport,Aberdeen,SD,USA,45.44905556,-98.42183333,A,America/Chicago,-5.0
+AGZ,Aggeneys Airport,Wagner,SD,USA,43.06332694,-98.29618972,U,America/Chicago,-5.0
+ATY,Watertown Regional Airport,Watertown,SD,USA,44.91398056,-97.15471944,A,America/Chicago,-5.0
+BKX,Brookings Municipal,Brookings,SD,USA,44.30483333,-96.81694444,,America/Chicago,-5.0
+BTN,Britton Municipal,Britton,SD,USA,45.81522222,-97.74313889,,America/Chicago,-5.0
+CUT,Cutral-Co Airport,Custer,SD,USA,43.73331611,-103.6176947,N,America/Denver,-6.0
+D07,Faith Municipal,Faith,SD,USA,45.03609417,-102.0198803,,America/Denver,-6.0
+EFC,Belle Fourche Municipal,Belle Fourche,SD,USA,44.7342075,-103.8619925,,America/Denver,-6.0
+FSD,Joe Foss Field Airport,Sioux Falls,SD,USA,43.58135111,-96.74170028,A,America/Chicago,-5.0
+HON,Huron Regional Airport,Huron,SD,USA,44.38520056,-98.2285425,A,America/Chicago,-5.0
+HSR,Hot Springs Municipal,Hot Springs,SD,USA,43.36824528,-103.3881378,,America/Denver,-6.0
+IEN,Pine Ridge,Pine Ridge,SD,USA,43.02257694,-102.5110728,,America/Denver,-6.0
+LEM,Lemmon Municipal,Lemmon,SD,USA,45.91869722,-102.1061778,,America/Denver,-6.0
+MBG,Mobridge Municipal Airport,Mobridge,SD,USA,45.54650361,-100.4079192,\N,America/Chicago,-5.0
+MDS,Middle Caicos Airport,Madison,SD,USA,44.01597222,-97.08593333,U,America/Chicago,-5.0
+MHE,Mitchell Municipal Airport,Mitchell,SD,USA,43.77483333,-98.03861111,A,America/Chicago,-5.0
+MKA,Miller Municipal,Miller,SD,USA,44.52524444,-98.95811444,,America/Chicago,-5.0
+PHP,Philip,Philip,SD,USA,44.04862722,-101.5990603,,America/Denver,-6.0
+PIR,Pierre Regional Airport,Pierre,SD,USA,44.38267694,-100.285965,A,America/Chicago,-5.0
+RAP,Rapid City Regional Airport,Rapid City,SD,USA,44.04532139,-103.0573708,A,America/Denver,-6.0
+SD07,Bison Municipal,Bison,SD,USA,45.51859778,-102.4671042,,America/Denver,-6.0
+SD10,Canton Municipal,Canton,SD,USA,43.30888889,-96.571,,America/Chicago,-5.0
+SD12,Wilder,De Smet,SD,USA,44.43080278,-97.56118861,,America/Chicago,-5.0
+SD16,Eureka Municipal,Eureka,SD,USA,45.79998111,-99.6420625,,America/Chicago,-5.0
+SD18,Flandreau Municipal,Flandreau,SD,USA,44.00386056,-96.59310139,,America/Chicago,-5.0
+SD22,Hoven Municipal,Hoven,SD,USA,45.25755861,-99.79783944,,America/Chicago,-5.0
+SD28,McLaughlin Municipal,McLaughlin,SD,USA,45.79680833,-100.7842503,,America/Denver,-6.0
+SD32,Murdo Municipal,Murdo,SD,USA,43.85165639,-100.7120811,,America/Chicago,-5.0
+SD33,Parkston Municipal,Parkston,SD,USA,43.37915361,-97.97118278,,America/Chicago,-5.0
+SD34,Presho Municipal ,Presho,SD,USA,43.90637833,-100.0370669,,America/Chicago,-5.0
+SFD,San Fernando De Apure Airport,Winner,SD,USA,43.39058278,-99.84256194,U,America/Chicago,-5.0
+SPF,Black Hills Airport-Clyde Ice Field,Spearfish,SD,USA,44.48022222,-103.7768889,A,America/Denver,-6.0
+VMR,Harold Davidson ,Vermillion,SD,USA,42.76528917,-96.93425472,,America/Chicago,-5.0
+Y03,Springfield Municipal,Springfield,SD,USA,42.87999833,-97.90117972,,America/Chicago,-5.0
+Y14,Marv Skie-Lincoln County,Tea,SD,USA,43.45747694,-96.80199528,,America/Chicago,-5.0
+YKN,Chan Gurney Municipal Airport,Yankton,SD,USA,42.91669444,-97.38594444,A,America/Chicago,-5.0

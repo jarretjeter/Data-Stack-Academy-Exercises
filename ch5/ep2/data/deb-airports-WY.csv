@@ -1,0 +1,33 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+82V,Pine Bluffs Municipal,Pine Bluffs,WY,USA,41.15331528,-104.1302292,,America/Denver,-6.0
+9U4,Dixon,Dixon,WY,USA,41.03829806,-107.4972869,,America/Denver,-6.0
+AFO,Afton Municipal,Afton,WY,USA,42.71124583,-110.9421639,,America/Denver,-6.0
+BPI,Miley Memorial Field,Big Piney,WY,USA,42.58506972,-110.1111531,\N,America/Denver,-6.0
+BYG,Johnson County,Buffalo,WY,USA,44.38108528,-106.72178970000002,,America/Denver,-6.0
+COD,Yellowstone Regional Airport,Cody,WY,USA,44.52019417,-109.02379609999998,A,America/Denver,-6.0
+CPR,Casper-Natrona County International Airport,Casper,WY,USA,42.90835556,-106.46446609999998,A,America/Denver,-6.0
+CYS,Cheyenne Regional Jerry Olson Field,Cheyenne,WY,USA,41.1557225,-104.8118381,A,America/Denver,-6.0
+DGW,Converse County,Douglas,WY,USA,42.79725,-105.3857361,,America/Denver,-6.0
+EAN,Phifer Airfield,Wheatland,WY,USA,42.05552528,-104.9327492,,America/Denver,-6.0
+ECS,Mondell ,Newcastle,WY,USA,43.88545056,-104.3179178,,America/Denver,-6.0
+EMM,Kemmerer Municipal,Kemmerer,WY,USA,41.82494611,-110.5590586,,America/Denver,-6.0
+EVW,Evanston-Uinta County Airport-Burns Field,Evanston,WY,USA,41.27494528,-111.03212859999998,A,America/Denver,-6.0
+FBR,Fort Bridger Airport,Fort Bridger,WY,USA,41.39193583,-110.4067961,A,America/Denver,-6.0
+GCC,Gillette Campbell County Airport,Gillette,WY,USA,44.34889806,-105.5393614,A,America/Denver,-6.0
+GEY,South Big Horn County,Greybull,WY,USA,44.51644444,-108.0831944,,America/Denver,-6.0
+JAC,Jackson Hole Airport,Jackson,WY,USA,43.60732417,-110.7377389,A,America/Denver,-6.0
+LAR,Laramie Regional Airport,Laramie,WY,USA,41.31205,-105.6749864,A,America/Denver,-6.0
+LND,Hunt Field,Lander,WY,USA,42.81523611,-108.7298392,E,America/Denver,-6.0
+LSK,Lusk Muni,Lusk,WY,USA,42.75380806,-104.4045536,,America/Denver,-6.0
+PNA,Pamplona Airport,Pinedale,WY,USA,42.79549917,-109.8070944,E,America/Denver,-6.0
+POY,Powell Muni,Powell,WY,USA,44.86797222,-108.793,,America/Denver,-6.0
+RIW,Riverton Regional Airport,Riverton,WY,USA,43.064235,-108.4598411,A,America/Denver,-6.0
+RKS,Southwest Wyoming Regional Airport,Rock Springs,WY,USA,41.5942175,-109.0651928,A,America/Denver,-6.0
+RWL,Rawlins Municipal Airport/Harvey Field,Rawlins,WY,USA,41.8055975,-107.19993999999998,A,America/Denver,-6.0
+SAA,Shively Field,Saratoga,WY,USA,41.44485944,-106.8235264,A,America/Denver,-6.0
+SHR,Sheridan County Airport,Sheridan,WY,USA,44.76919556,-106.9802794,A,America/Denver,-6.0
+THP,Hot Springs County-Thermopolis Municipal,Thermopolis,WY,USA,43.65828917,-108.21315420000002,,America/Denver,-6.0
+TOR,Torrington Muni,Torrington,WY,USA,42.0645475,-104.1526986,,America/Denver,-6.0
+U25,Dubois Municipal,Dubois,WY,USA,43.54834722,-109.6902611,,America/Denver,-6.0
+U68,North Big Horn County,Cowley/Lovell/Byron,WY,USA,44.91167028,-108.4455092,,America/Denver,-6.0
+WRL,Worland Municipal Airport,Worland,WY,USA,43.96571306,-107.9508308,A,America/Denver,-6.0

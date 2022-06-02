@@ -1,0 +1,6 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+STT,Cyril E. King Airport,Charlotte Amalie,VI,USA,18.33730556,-64.97336111,U,America/St_Thomas,-4.0
+STX,Henry E Rohlsen Airport,Christiansted,VI,USA,17.70188889,-64.79855556,U,America/St_Thomas,-4.0
+X66,Charlotte Amalie Harbor Seaplane Base,Charlotte Amalie,VI,USA,18.33856722,-64.94070111,,America/St_Thomas,-4.0
+X67,Christiansted Harbor Seaplane Base,Christiansted,VI,USA,17.74719528,-64.70486444,,America/St_Thomas,-4.0
+X96,Cruz Bay Harbor Seaplane Base,Cruz Bay,VI,USA,18.33689833,-64.79958306,,America/St_Thomas,-4.0

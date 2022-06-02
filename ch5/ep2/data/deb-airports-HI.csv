@@ -1,0 +1,17 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+HDH,Dillingham Airfield,Mokuleia,HI,USA,21.57947361,-158.1972814,A,Pacific/Honolulu,-10.0
+HI01,Princeville,Hanalei,HI,USA,22.20919,-159.44553390000002,,Pacific/Honolulu,-10.0
+HNL,Daniel K Inouye International Airport,Honolulu,HI,USA,21.31869111,-157.92240719999998,N,Pacific/Honolulu,-10.0
+HNM,Hana Airport,Hana,HI,USA,20.79563722,-156.0144378,A,Pacific/Honolulu,-10.0
+ITO,Hilo International Airport,Hilo,HI,USA,19.72026306,-155.04847030000002,N,Pacific/Honolulu,-10.0
+JHM,Kapalua Airport,Lahaina,HI,USA,20.96293639,-156.67303169999997,N,Pacific/Honolulu,-10.0
+JRF,Kalaeloa Airport,Kapolei,HI,USA,21.30735389,-158.0703017,U,Pacific/Honolulu,-10.0
+KOA,Ellison Onizuka Kona International At Keahole Airport,Kailua/Kona,HI,USA,19.73876583,-156.0456314,N,Pacific/Honolulu,-10.0
+LIH,Lihue Airport,Lihue,HI,USA,21.97598306,-159.3389581,N,Pacific/Honolulu,-10.0
+LNY,Lanai Airport,Lanai City,HI,USA,20.78561111,-156.95141809999998,N,Pacific/Honolulu,-10.0
+LUP,Kalaupapa Airport,Kalaupapa,HI,USA,21.21104028,-156.97359719999997,A,Pacific/Honolulu,-10.0
+MKK,Molokai Airport,Kaunakakai,HI,USA,21.15288583,-157.0962561,N,Pacific/Honolulu,-10.0
+MUE,Waimea Kohala Airport,Kamuela,HI,USA,20.00132694,-155.66810719999998,A,Pacific/Honolulu,-10.0
+OGG,Kahului Airport,Kahului,HI,USA,20.89864972,-156.43045780000003,N,Pacific/Honolulu,-10.0
+PAK,Port Allen,Hanapepe,HI,USA,21.89686833,-159.60332169999998,,Pacific/Honolulu,-10.0
+UPP,Upolu Airport,Hawi,HI,USA,20.26525583,-155.8599875,A,Pacific/Honolulu,-10.0

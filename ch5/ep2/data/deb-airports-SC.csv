@@ -1,0 +1,53 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+27J,Newberry Municipal,Newberry,SC,USA,34.30927778,-81.63972222,,America/New_York,-4.0
+34A,Laurens County,Laurens,SC,USA,34.50705556,-81.94719444,,America/New_York,-4.0
+35A,"Union County, Troy Shelton ",Union,SC,USA,34.68680111,-81.64121167,,America/New_York,-4.0
+3J1,Ridgeland,Ridgeland,SC,USA,32.49268694,-80.99233028,,America/New_York,-4.0
+47J,Cheraw Municipal,Cheraw,SC,USA,34.71258333,-79.95794444,,America/New_York,-4.0
+50J,Berkeley County,Moncks Corner,SC,USA,33.18605556,-80.03563889,,America/New_York,-4.0
+52J,Lee County,Bishopville,SC,USA,34.24459889,-80.23729333,,America/New_York,-4.0
+5J9,Twin City,Loris,SC,USA,34.08848361,-78.86462028,,America/New_York,-4.0
+6J0,Corporate,Pelion,SC,USA,33.79463889,-81.24586111,,America/New_York,-4.0
+6J2,St George,St George,SC,USA,33.1955,-80.50847222,,America/New_York,-4.0
+6J4,Saluda County,Saluda,SC,USA,33.92680111,-81.79455306,,America/New_York,-4.0
+73J,Beaufort County,Beaufort,SC,USA,32.4121375,-80.63455083,,America/New_York,-4.0
+88J,Allendale County,Allendale,SC,USA,32.99512944,-81.27024583,,America/New_York,-4.0
+8S5,East Cooper,Mt Pleasant,SC,USA,32.89783333,-79.78286111,,America/New_York,-4.0
+99N,Bamburg County,Bamburg,SC,USA,33.30515528,-81.10898917,,America/New_York,-4.0
+9A6,Chester Municipal,Chester,SC,USA,34.78933333,-81.19577778,,America/New_York,-4.0
+AIK,Aiken Regional Airport,Aiken,SC,USA,33.64955556,-81.68447222,A,America/New_York,-4.0
+AND,Anderson Regional Airport,Anderson,SC,USA,34.49494444,-82.70902778,A,America/New_York,-4.0
+BBP,Bembridge Airport,Bennettsville,SC,USA,34.62170861,-79.73435944,E,America/New_York,-4.0
+BNL,Barnwell County,Barnwell,SC,USA,33.25777778,-81.38833333,,America/New_York,-4.0
+CAE,Columbia Metropolitan Airport,Columbia,SC,USA,33.93884,-81.11953944,A,America/New_York,-4.0
+CDN,Woodward Field,Camden,SC,USA,34.28358333,-80.56486111,A,America/New_York,-4.0
+CEU,Oconee County Regional Airport,Clemson,SC,USA,34.67205556,-82.88644444,A,America/New_York,-4.0
+CHS,Charleston Air Force Base-International Airport,Charleston,SC,USA,32.89864639,-80.04050583,A,America/New_York,-4.0
+CKI,Croker Island Airport,Kingstree,SC,USA,33.71722222,-79.85697222,N,America/New_York,-4.0
+CRE,Grand Strand Airport,North Myrtle Beach,SC,USA,33.81175,-78.72394444,A,America/New_York,-4.0
+CUB,Jim Hamilton L.B. Owens Airport,Columbia,SC,USA,33.97047222,-80.99525,A,America/New_York,-4.0
+DYB,Summerville,Summerville,SC,USA,33.06344444,-80.27933333,,America/New_York,-4.0
+FDW,Fairfield County,Winnsboro,SC,USA,34.31547222,-81.10880556,,America/New_York,-4.0
+FLO,Florence Regional Airport,Florence,SC,USA,34.18536111,-79.72388889,A,America/New_York,-4.0
+GGE,Georgetown County Airport,Georgetown,SC,USA,33.31169444,-79.31958333,A,America/New_York,-4.0
+GMU,Greenville Downtown Airport,Greenville,SC,USA,34.84794444,-82.35,A,America/New_York,-4.0
+GRD,Greenwood County,Greenwood,SC,USA,34.24872222,-82.15908333,,America/New_York,-4.0
+GSP,Greenville Spartanburg International Airport,Greer,SC,USA,34.89566722,-82.21885833,A,America/New_York,-4.0
+GYH,Donaldson Center,Greenville,SC,USA,34.75831917,-82.37641500000001,,America/New_York,-4.0
+HVS,Hartsville Regional Airport,Hartsville,SC,USA,34.40308333,-80.11922222,A,America/New_York,-4.0
+HXD,Delingha Airport,Hilton Head Island,SC,USA,32.22436111,-80.69747222,N,America/New_York,-4.0
+HYW,Conway-Horry County,Conway,SC,USA,33.8285,-79.12216667,,America/New_York,-4.0
+JZI,Charleston Executive,Charleston,SC,USA,32.70086111,-80.00291667,,America/New_York,-4.0
+LKR,Lancaster County,Lancaster,SC,USA,34.72291667,-80.85458333,,America/New_York,-4.0
+LQK,Pickens County,Pickens,SC,USA,34.80997222,-82.70288889,,America/New_York,-4.0
+MAO,Eduardo Gomes International Airport,Marion,SC,USA,34.18116667,-79.33472222,S,America/New_York,-4.0
+MNI,John A. Osborne Airport,Manning,SC,USA,33.58711111,-80.20866667,N,America/New_York,-4.0
+MYR,Myrtle Beach International Airport,Myrtle Beach,SC,USA,33.67975,-78.92833333,A,America/New_York,-4.0
+OGB,Orangeburg Municipal Airport,Orangeburg,SC,USA,33.46094444,-80.85891667,\N,America/New_York,-4.0
+PHH,Andrews Municipal,Andrews,SC,USA,33.45169472,-79.52620111,,America/New_York,-4.0
+PYG,Pageland,Pageland,SC,USA,34.74213889,-80.34519444,,America/New_York,-4.0
+RBW,Walterboro Municipal,Walterboro,SC,USA,32.92052778,-80.64125,,America/New_York,-4.0
+SMS,Sainte Marie Airport,Sumter,SC,USA,33.99569444,-80.3615,U,America/New_York,-4.0
+SPA,Spartanburg Downtown Memorial Airport,Spartanburg,SC,USA,34.91572222,-81.9565,A,America/New_York,-4.0
+UDG,Darlington County,Darlington,SC,USA,34.44919444,-79.89036111,,America/New_York,-4.0
+UZA,Rock Hill Municipal/Bryant ,Rock Hill,SC,USA,34.98783333,-81.05716667,,America/New_York,-4.0

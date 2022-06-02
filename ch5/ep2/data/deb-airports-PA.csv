@@ -1,0 +1,72 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+11D,Clarion Cty,Clarion,PA,USA,41.22581222,-79.44098972,,America/New_York,-4.0
+1N9,Allentown Queen City Muni,Allentown,PA,USA,40.57027778,-75.48830556,,America/New_York,-4.0
+22N,Carbon Cty-Jake Arner Memorial,Lehighton,PA,USA,40.80950889,-75.76149639,,America/New_York,-4.0
+29D,Grove City,Grove City,PA,USA,41.14597611,-80.16592194,,America/New_York,-4.0
+2G3,Connellsville,Connellsville,PA,USA,39.95893667,-79.65713306,,America/New_York,-4.0
+2G9,Somerset County,Somerset,PA,USA,40.03911111,-79.01455556,,America/New_York,-4.0
+40N,Chester Cty-G O Carlson,Coatesville,PA,USA,39.97897222,-75.86547222,,America/New_York,-4.0
+4G1,Greenville Muni,Greenville,PA,USA,41.44683167,-80.39126167,,America/New_York,-4.0
+5G8,Pittsburgh Boquet Airpark,Jeanette,PA,USA,40.37645722,-79.60837583,,America/New_York,-4.0
+6G1,Titusville,Titusville,PA,USA,41.60880861,-79.74133111,,America/New_York,-4.0
+8G2,Lawrence,Corry,PA,USA,41.90755611,-79.64105083,,America/New_York,-4.0
+8G7,Zelienople,Zelienople,PA,USA,40.80161944,-80.16072889,,America/New_York,-4.0
+9G1,West Penn,Tarentum,PA,USA,40.60423333,-79.82060611,,America/New_York,-4.0
+9G8,Ebensburg,Ebensburg,PA,USA,40.46121083,-78.77524389,,America/New_York,-4.0
+ABE,Lehigh Valley International Airport,Allentown,PA,USA,40.65236278,-75.44040167,A,America/New_York,-4.0
+AFJ,Washington County,Washington,PA,USA,40.13648833,-80.29020083,,America/New_York,-4.0
+AGC,Allegheny County Airport,Pittsburgh,PA,USA,40.35440139,-79.93016889,A,America/New_York,-4.0
+AOO,Altoona Blair County Airport,Altoona,PA,USA,40.29637222,-78.32002306,A,America/New_York,-4.0
+AVP,Wilkes Barre Scranton International Airport,Wilkes-Barre/Scranton,PA,USA,41.33814944,-75.72426750000001,A,America/New_York,-4.0
+BFD,Bradford Regional Airport,Bradford,PA,USA,41.80306778,-78.64012083,A,America/New_York,-4.0
+BTP,Butler Cty,Butler,PA,USA,40.77692611,-79.94972417,,America/New_York,-4.0
+BVI,Birdsville Airport,Beaver Falls,PA,USA,40.77248083,-80.39142556,O,America/New_York,-4.0
+CXY,Capital City,Harrisburg,PA,USA,40.21713889,-76.85147222,,America/New_York,-4.0
+DUJ,DuBois Regional Airport,Du Bois,PA,USA,41.17826611,-78.89869778,A,America/New_York,-4.0
+DYL,Doylestown Airport,Doylestown,PA,USA,40.33305028,-75.12233833,A,America/New_York,-4.0
+ERI,Erie International Tom Ridge Field,Erie,PA,USA,42.08202139,-80.17621556,A,America/New_York,-4.0
+FIG,Fria Airport,Clearfield,PA,USA,41.04861306,-78.41310306,N,America/New_York,-4.0
+FKL,Venango Regional Airport,Franklin,PA,USA,41.37787361,-79.86036167,A,America/New_York,-4.0
+GKJ,Port Meadville,Meadville,PA,USA,41.62652667,-80.21472750000001,,America/New_York,-4.0
+HMZ,Bedford County,Bedford,PA,USA,40.08536861,-78.51221778,,America/New_York,-4.0
+HZL,Hazleton Municipal Airport,Hazleton,PA,USA,40.98677778,-75.99488889,A,America/New_York,-4.0
+IDI,Indiana Cty/Jimmy Stewart,Indiana,PA,USA,40.63222222,-79.10552778,,America/New_York,-4.0
+IPT,Williamsport Regional Airport,Williamsport,PA,USA,41.24183583,-76.92109556,A,America/New_York,-4.0
+JST,John Murtha Johnstown Cambria County Airport,Johnstown,PA,USA,40.31611111,-78.83394444,A,America/New_York,-4.0
+LBE,Arnold Palmer Regional Airport,Latrobe,PA,USA,40.275940000000006,-79.40479722,A,America/New_York,-4.0
+LHV,William T. Piper Memorial Airport,Lock Haven,PA,USA,41.13618028,-77.42053556,A,America/New_York,-4.0
+LNS,Lancaster Airport,Lancaster,PA,USA,40.12171528,-76.29609778,A,America/New_York,-4.0
+MDT,Harrisburg International Airport,Harrisburg,PA,USA,40.19349528,-76.76340361,A,America/New_York,-4.0
+MPO,Pocono Mountains Municipal Airport,Mount Pocono,PA,USA,41.1374775,-75.37887833,A,America/New_York,-4.0
+N10,Perkiomen Valley,Collegeville,PA,USA,40.20404833,-75.43026306,,America/New_York,-4.0
+N13,Bloomsburg Muni,Bloomsburg,PA,USA,40.99778111,-76.43605583,,America/New_York,-4.0
+N27,Bradford County,Towanda,PA,USA,41.74324028,-76.44457083,,America/New_York,-4.0
+N30,Cherry Ridge,Honesdale,PA,USA,41.51533861,-75.25148139,,America/New_York,-4.0
+N35,Punxsutawney Muni,Punxsutawney,PA,USA,40.96667472,-78.93000528,,America/New_York,-4.0
+N38,Grand Canyon State,Wellsboro,PA,USA,41.72790028,-77.39651139,,America/New_York,-4.0
+N47,Pottstown Muni,Pottstown,PA,USA,40.26040083,-75.67085306,,America/New_York,-4.0
+N53,Stroudsburg-Pocono,East Stroudsburg,PA,USA,41.03587167,-75.16067889,,America/New_York,-4.0
+N57,New Garden Flying ,Toughkenamon,PA,USA,39.83052639,-75.76974472,,America/New_York,-4.0
+N67,Wings ,Ambler,PA,USA,40.13647333,-75.26702972,,America/New_York,-4.0
+N68,Chambersburg Muni,Chambersburg,PA,USA,39.97295167,-77.64326778,,America/New_York,-4.0
+N79,Northumberland Cty,Shamokin,PA,USA,40.83692306,-76.55245611,,America/New_York,-4.0
+N99,Brandywine,West Chester,PA,USA,39.99472222,-75.58333333,,America/New_York,-4.0
+OYM,St Marys Muni,St Marys,PA,USA,41.41247778,-78.50263139,,America/New_York,-4.0
+P45,Mount Pleasant-Scottdale,Mount Pleasant,PA,USA,40.10840556,-79.54142694,,America/New_York,-4.0
+P53,Rostraver,Monongahela,PA,USA,40.20972222,-79.83144444,,America/New_York,-4.0
+PHL,Philadelphia International Airport,Philadelphia,PA,USA,39.87195278,-75.24114083,A,America/New_York,-4.0
+PIT,Pittsburgh International Airport,Pittsburgh,PA,USA,40.49146583,-80.23287083,A,America/New_York,-4.0
+PNE,Northeast Philadelphia Airport,Philadelphia,PA,USA,40.08194417,-75.01058667,A,America/New_York,-4.0
+PSB,Mid-State,Philipsburg,PA,USA,40.88439139,-78.08734167,,America/New_York,-4.0
+PTW,Pottstown Limerick,Pottstown,PA,USA,40.23957167,-75.55662528,,America/New_York,-4.0
+RDG,Reading Regional Carl A Spaatz Field,Reading,PA,USA,40.3785,-75.96525,A,America/New_York,-4.0
+RVL,Mifflin Cty,Reedsville,PA,USA,40.67737417,-77.62682833,,America/New_York,-4.0
+SEG,Penn Valley,Selinsgrove,PA,USA,40.82052917,-76.86377611,,America/New_York,-4.0
+THV,York,York,PA,USA,39.916995,-76.87302611,,America/New_York,-4.0
+UCP,New Castle Muni,New Castle,PA,USA,41.02533778,-80.41337194,,America/New_York,-4.0
+UKT,Quakertown Airport,Quakertown,PA,USA,40.43521194,-75.38192861,A,America/New_York,-4.0
+UNV,University Park,State College,PA,USA,40.84927778,-77.84869444,,America/New_York,-4.0
+W05,Gettysburg  & Travel Center,Gettysburg,PA,USA,39.84092833,-77.27415139,,America/New_York,-4.0
+WAY,Greene Cty,Waynesburg,PA,USA,39.900075,-80.13311667,,America/New_York,-4.0
+WBW,Wilkes Barre Wyoming Valley Airport,Wilkes-Barre,PA,USA,41.29717222,-75.85120556,A,America/New_York,-4.0
+ZER,Ziro Airport,Pottsville,PA,USA,40.70644889,-76.37314667,N,America/New_York,-4.0

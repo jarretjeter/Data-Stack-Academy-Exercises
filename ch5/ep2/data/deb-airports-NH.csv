@@ -1,0 +1,15 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+2B3,Parlin ,Newport,NH,USA,43.38812944,-72.18925417,,America/New_York,-4.0
+AFN,Jaffrey Municipal Silver Ranch,Jaffrey,NH,USA,42.80513417,-72.00302194,,America/New_York,-4.0
+ASH,Boire Field,Nashua,NH,USA,42.78176306,-71.51477944,A,America/New_York,-4.0
+BML,Berlin Municipal,Berlin,NH,USA,44.57537278,-71.17593167,,America/New_York,-4.0
+CNH,Claremont Municipal,Claremont,NH,USA,43.37043194,-72.36867667,,America/New_York,-4.0
+CON,Concord Municipal Airport,Concord,NH,USA,43.20273278,-71.50228556,A,America/New_York,-4.0
+DAW,Skyhaven,Rochester,NH,USA,43.28406194,-70.92925472,,America/New_York,-4.0
+EEN,Dillant Hopkins Airport,Keene,NH,USA,42.89839944,-72.27078111,A,America/New_York,-4.0
+HIE,Mt Washington Regional,Whitefield,NH,USA,44.36761639,-71.54447111,,America/New_York,-4.0
+LCI,Laconia Municipal,Laconia,NH,USA,43.57272806,-71.41890028,,America/New_York,-4.0
+LEB,Lebanon Municipal Airport,Lebanon,NH,USA,43.62637222,-72.30426722,A,America/New_York,-4.0
+MHT,Manchester-Boston Regional Airport,Manchester,NH,USA,42.93451639,-71.43705583,A,America/New_York,-4.0
+NH12,Plymouth Municipal,Plymouth,NH,USA,43.77923806,-71.75369056,,America/New_York,-4.0
+PSM,Portsmouth International at Pease Airport,Portsmouth,NH,USA,43.07795889,-70.82327333,A,America/New_York,-4.0

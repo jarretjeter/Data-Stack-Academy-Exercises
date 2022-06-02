@@ -1,0 +1,36 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+13N,Trinca,Andover,NJ,USA,40.96676444,-74.78016556,,America/New_York,-4.0
+17N,Cross Keys,Cross Keys,NJ,USA,39.70547583,-75.03300306,,America/New_York,-4.0
+19N,Camden,Berlin,NJ,USA,39.77842056,-74.94780389,,America/New_York,-4.0
+1N4,Woodbine Muni ,Woodbine,NJ,USA,39.21915,-74.794765,,America/New_York,-4.0
+1N7,Blairstown,Blairstown,NJ,USA,40.97114556,-74.99747556,,America/New_York,-4.0
+26N,Ocean City Muni cipal,Ocean City,NJ,USA,39.26347222,-74.60747222,,America/New_York,-4.0
+39N,Princeton,Princeton,NJ,USA,40.39834833,-74.65760361,,America/New_York,-4.0
+3N6,Old Bridge,Old Bridge,NJ,USA,40.32988667,-74.34678694,,America/New_York,-4.0
+47N,Central Jersey Regional,Manville,NJ,USA,40.52438417,-74.59839194,,America/New_York,-4.0
+4N1,Greenwood Lake,West Milford,NJ,USA,41.12854806,-74.34584611,,America/New_York,-4.0
+7N7,Spitfire Aerodrome,Pedrictown,NJ,USA,39.73556333,-75.39772111,,America/New_York,-4.0
+ACY,Atlantic City International Airport,Atlantic City,NJ,USA,39.45758333,-74.57716667,A,America/New_York,-4.0
+AIY,Atlantic City Municipal,Atlantic City,NJ,USA,39.36002778,-74.45608333,,America/New_York,-4.0
+BLM,Allaire Arpt,Belmar/Farmingdale,NJ,USA,40.18691806,-74.12488694,,America/New_York,-4.0
+CDW,Essex County Airport,Caldwell,NJ,USA,40.87522278,-74.28135667,A,America/New_York,-4.0
+EWR,Newark Liberty International Airport,Newark,NJ,USA,40.69249722,-74.16866056,A,America/New_York,-4.0
+FWN,Sussex ,Sussex,NJ,USA,41.20020667,-74.62305056,,America/New_York,-4.0
+LDJ,Linden Airport,Linden,NJ,USA,40.61744722,-74.24459417,A,America/New_York,-4.0
+MIV,Millville Municipal Airport,Millville,NJ,USA,39.36780556,-75.07222222,A,America/New_York,-4.0
+MJX,Robert J. Miller Airpark,Toms River,NJ,USA,39.92749806,-74.29237917,,America/New_York,-4.0
+MMU,Morristown Municipal Airport,Morristown,NJ,USA,40.79935,-74.41487472,A,America/New_York,-4.0
+N07,Lincoln Park,Lincoln Park,NJ,USA,40.94752444,-74.31450139,,America/New_York,-4.0
+N12,Lakewood,Lakewood,NJ,USA,40.0667825,-74.17764167,,America/New_York,-4.0
+N14,Flying W,Lumbrerton,NJ,USA,39.93427778,-74.80725,,America/New_York,-4.0
+N40,Sky Manor ,Pittstown,NJ,USA,40.56626889,-74.97864139,,America/New_York,-4.0
+N51,Solberg-Hunterdon,Readington,NJ,USA,40.58286278,-74.73656222,,America/New_York,-4.0
+N73,Red Lion,Vincentown,NJ,USA,39.90415167,-74.74954917,,America/New_York,-4.0
+N81,Hammonton Muni,Hammonton,NJ,USA,39.66746889,-74.75773444,,America/New_York,-4.0
+N85,Alexandria ,Pittstown,NJ,USA,40.58757389,-75.01942056,,America/New_York,-4.0
+N87,Trenton-Robbinsville,Robbinsville,NJ,USA,40.21394333,-74.60179472,,America/New_York,-4.0
+SMQ,Sampit(Hasan) Airport,Somerville,NJ,USA,40.62599083,-74.67024333,N,America/New_York,-4.0
+TEB,Teterboro Airport,Teterboro,NJ,USA,40.85010139,-74.06083611,A,America/New_York,-4.0
+TTN,Trenton Mercer Airport,Trenton,NJ,USA,40.27669111,-74.81346833,A,America/New_York,-4.0
+VAY,South Jersey Reg,Mount Holly,NJ,USA,39.94289056,-74.84571944,,America/New_York,-4.0
+WWD,Cape May County Airport,Wildwood,NJ,USA,39.00850694,-74.90827389,A,America/New_York,-4.0

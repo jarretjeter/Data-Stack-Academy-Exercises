@@ -1,0 +1,33 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+05U,Eureka,Eureka,NV,USA,39.60416667,-116.0050597,,America/Los_Angeles,-7.0
+06U,Jackpot/Hayden ,Jackpot,NV,USA,41.97602222,-114.65809109999998,,America/Los_Angeles,-7.0
+0L5,Goldfield,Goldfield,NV,USA,37.71798833,-117.2384119,,America/Los_Angeles,-7.0
+0L7,Jean,Jean,NV,USA,35.76827222,-115.3296378,,America/Los_Angeles,-7.0
+0L9,Echo Bay,Overton,NV,USA,36.31108972,-114.4638672,,America/Los_Angeles,-7.0
+10U,Owyhee,Owyhee,NV,USA,41.95323306,-116.1876014,,America/Los_Angeles,-7.0
+1L1,Lincoln Co,Panaca,NV,USA,37.78746444,-114.4216567,,America/Los_Angeles,-7.0
+4SD,Reno/Stead,Reno,NV,USA,39.66738111,-119.8754169,,America/Los_Angeles,-7.0
+61B,Boulder City Municipal,Boulder City,NV,USA,35.94748028,-114.8610967,,America/Los_Angeles,-7.0
+67L,Mesquite,Mesquite,NV,USA,36.83497556,-114.0552453,,America/Los_Angeles,-7.0
+9U3,Austin,Austin,NV,USA,39.46798056,-117.1953703,,America/Los_Angeles,-7.0
+B08,Silver Springs,Silver Springs,NV,USA,39.40324917,-119.25182920000002,,America/Los_Angeles,-7.0
+BAM,Battle Mountain,Battle Mountain,NV,USA,40.59904583,-116.8743358,,America/Los_Angeles,-7.0
+BTY,Beatty,Beatty,NV,USA,36.86105722,-116.7870036,,America/Los_Angeles,-7.0
+CXP,Tunggul Wulung Airport,Carson City,NV,USA,39.19222972,-119.7343611,N,America/Los_Angeles,-7.0
+EKO,Elko Regional Airport,Elko,NV,USA,40.82492611,-115.79169640000002,A,America/Los_Angeles,-7.0
+ELY,Ely Airport Yelland Field,Ely,NV,USA,39.29969444,-114.8418889,A,America/Los_Angeles,-7.0
+FLX,Fallon Municipal,Fallon,NV,USA,39.499545,-118.7490197,,America/Los_Angeles,-7.0
+GAB,Gabbs,Gabbs,NV,USA,38.92409111,-117.9590072,,America/Los_Angeles,-7.0
+HTH,Hawthorne Municipal,Hawthorne,NV,USA,38.54436583,-118.6343003,,America/Los_Angeles,-7.0
+L15,Henderson,Las Vegas,NV,USA,35.97636444,-115.1327708,,America/Los_Angeles,-7.0
+L92,Alamo Landing ,Alamo,NV,USA,37.36246083,-115.1944622,,America/Los_Angeles,-7.0
+LAS,McCarran International Airport,Las Vegas,NV,USA,36.08036111,-115.15233329999998,A,America/Los_Angeles,-7.0
+LOL,Derby Field,Lovelock,NV,USA,40.066405,-118.5651664,\N,America/Los_Angeles,-7.0
+LWL,Wells Municipal/Harriet ,Wells,NV,USA,41.11853306,-114.9222661,,America/Los_Angeles,-7.0
+MEV,Minden-Tahoe,Minden,NV,USA,39.00030889,-119.7508064,,America/Los_Angeles,-7.0
+O43,Yerington Municipal,Yerington,NV,USA,39.00408444,-119.1579303,,America/Los_Angeles,-7.0
+RNO,Reno Tahoe International Airport,Reno,NV,USA,39.49857611,-119.7680647,A,America/Los_Angeles,-7.0
+TPH,Tonopah Airport,Tonopah,NV,USA,38.06020222,-117.08715359999998,\N,America/Los_Angeles,-7.0
+U08,Perkins ,Overton,NV,USA,36.56803,-114.4433133,,America/Los_Angeles,-7.0
+VGT,North Las Vegas Airport,Las Vegas,NV,USA,36.21166667,-115.19575,U,America/Los_Angeles,-7.0
+WMC,Winnemucca Municipal Airport,Winnemucca,NV,USA,40.89661111,-117.8058889,\N,America/Los_Angeles,-7.0

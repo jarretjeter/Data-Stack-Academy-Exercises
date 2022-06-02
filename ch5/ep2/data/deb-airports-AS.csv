@@ -1,0 +1,4 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+FAQ,Fitiuta,Fitiuta Village,AS,USA,14.21577583,-169.42390580000003,,,0.0
+PPG,Pago Pago International Airport,Pago Pago,AS,USA,14.33102278,-170.71052580000003,U,,0.0
+Z08,Ofu,Ofu Village,AS,USA,14.18435056,-169.6700236,,,0.0

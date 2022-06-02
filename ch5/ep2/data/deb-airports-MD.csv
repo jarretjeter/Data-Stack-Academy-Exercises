@@ -1,0 +1,19 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+2G4,Garrett County,Oakland,MD,USA,39.58027778,-79.33941667,,America/New_York,-4.0
+2W5,Maryland,Indian Head,MD,USA,38.60053667,-77.07296917,,America/New_York,-4.0
+2W6,Captain Walter Francis Duke Regional ,Leonardtown,MD,USA,38.31536111,-76.55011111,,America/New_York,-4.0
+BWI,Baltimore/Washington International Thurgood Marshall Airport,Baltimore,MD,USA,39.17540167,-76.66819833,A,America/New_York,-4.0
+CBE,Greater Cumberland Regional Airport,Cumberland,MD,USA,39.61541667,-78.76086361,A,America/New_York,-4.0
+CGE,Cambridge-Dorchester,Cambridge,MD,USA,38.53930556,-76.03036111,,America/New_York,-4.0
+CGS,College Park,College Park,MD,USA,38.98058333,-76.92230556,,America/New_York,-4.0
+DMW,Carroll County,Westminster,MD,USA,39.60827778,-77.00766667,,America/New_York,-4.0
+ESN,Easton Newnam Field,Easton,MD,USA,38.80416667,-76.069,A,America/New_York,-4.0
+FDK,Frederick Municipal,Frederick,MD,USA,39.41758333,-77.37430556,,America/New_York,-4.0
+FME,Tipton Airport,Odenton,MD,USA,39.08538667,-76.75941444,A,America/New_York,-4.0
+GAI,Montgomery County Airpark,Gaithersburg,MD,USA,39.16833611,-77.166,A,America/New_York,-4.0
+HGR,Hagerstown Regional Richard A Henson Field,Hagerstown,MD,USA,39.70794444,-77.7295,A,America/New_York,-4.0
+MTN,Martin State Airport,Baltimore,MD,USA,39.32566333,-76.41376556,A,America/New_York,-4.0
+OXB,Osvaldo Vieira International Airport,Ocean City,MD,USA,38.31044444,-75.12397222,N,America/New_York,-4.0
+SBY,Salisbury Ocean City Wicomico Regional Airport,Salisbury,MD,USA,38.34052611,-75.51028806,A,America/New_York,-4.0
+W29,Bay Bridge Industrial,Stevensville,MD,USA,38.97638889,-76.32963889,,America/New_York,-4.0
+W41,Crisfield Municipal,Crisfield,MD,USA,38.01679028,-75.82882056,,America/New_York,-4.0

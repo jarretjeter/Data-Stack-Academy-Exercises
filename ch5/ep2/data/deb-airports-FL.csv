@@ -1,0 +1,101 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+01J,Hilliard Airpark,Hilliard,FL,USA,30.6880125,-81.90594389,,America/New_York,-4.0
+1J0,Tri-County,Bonifay,FL,USA,30.84577778,-85.60138889,,America/Chicago,-5.0
+23J,Herlong,Jacksonville,FL,USA,30.27778889,-81.80594722,,America/New_York,-4.0
+24J,Suwannee County,Live Oak,FL,USA,30.30105583,-83.02318778,,America/New_York,-4.0
+28J,Kay Larkin,Palatka,FL,USA,29.65863889,-81.68855556,,America/New_York,-4.0
+2IS,Airglades,Clewiston,FL,USA,26.74200972,-81.04978917,,America/New_York,-4.0
+2J9,Quincy Municipal,Quincy,FL,USA,30.59786111,-84.55741667,,America/New_York,-4.0
+2R4,Peter Prince ,Milton,FL,USA,30.63762083,-86.99365278,,America/Chicago,-5.0
+40J,Perry-Foley,Perry,FL,USA,30.06927778,-83.58058333,,America/New_York,-4.0
+42J,Keystone Airpark,Keystone Heights,FL,USA,29.84475,-82.04752778,,America/New_York,-4.0
+54J,Defuniak Springs,Defuniak Springs,FL,USA,30.7313,-86.15160833,,America/Chicago,-5.0
+55J,Fernandina Beach Municipal,Fernandina Beach,FL,USA,30.61170083,-81.462345,,America/New_York,-4.0
+AAF,Apalachicola Regional Airport,Apalachicola,FL,USA,29.72754583,-85.02744778,A,America/New_York,-4.0
+APF,Naples Municipal Airport,Naples,FL,USA,26.15247222,-81.77544444,A,America/New_York,-4.0
+AVO,Avon Park Executive Airport,Avon Park,FL,USA,27.591145,-81.52785333,A,America/New_York,-4.0
+BCT,Boca Raton Airport,Boca Raton,FL,USA,26.37848667,-80.10769667,A,America/New_York,-4.0
+BKV,Hernando County,Brooksville,FL,USA,28.47359722,-82.45542139,,America/New_York,-4.0
+BOW,Bartow Municipal Airport,Bartow,FL,USA,27.9433575,-81.78344167,U,America/New_York,-4.0
+CDK,George T Lewis,Cedar Key,FL,USA,29.137745,-83.04984361,,America/New_York,-4.0
+CEW,Bob Sikes Airport,Crestview,FL,USA,30.77883333,-86.52211111,A,America/Chicago,-5.0
+CGC,Crystal River,Crystal River,FL,USA,28.86727778,-82.57130556,,America/New_York,-4.0
+CLW,Clearwater Air Park,Clearwater,FL,USA,27.97668639,-82.75874028,A,America/New_York,-4.0
+COI,Merritt Island,Merritt Island,FL,USA,28.34158944,-80.6854975,,America/New_York,-4.0
+CRG,Jacksonville Executive at Craig Airport,Jacksonville,FL,USA,30.33633333,-81.51444444,\N,America/New_York,-4.0
+CTY,Cross City Airport,Cross City,FL,USA,29.63552778,-83.10475,A,America/New_York,-4.0
+DAB,Daytona Beach International Airport,Daytona Beach,FL,USA,29.17991667,-81.05805556,A,America/New_York,-4.0
+DED,Dehradun Airport,Deland,FL,USA,29.06698056,-81.28394167,N,America/New_York,-4.0
+DTS,Destin-Ft. Walton Beach,Destin,FL,USA,30.40006111,-86.47147722,,America/Chicago,-5.0
+EVB,New Smyrna Beach Municipal,New Smyrna Beach,FL,USA,29.05580556,-80.94836111,,America/New_York,-4.0
+EYW,Key West International Airport,Key West,FL,USA,24.55611111,-81.75955556,A,America/New_York,-4.0
+F37,Wauchula Municipal,Wauchula,FL,USA,27.51364889,-81.88063917,,America/New_York,-4.0
+F45,North Palm Beach County General Aviation,West Palm Beach,FL,USA,26.84537306,-80.22148111,,America/New_York,-4.0
+FLL,Fort Lauderdale Hollywood International Airport,Ft. Lauderdale,FL,USA,26.07258333,-80.15275,A,America/New_York,-4.0
+FMY,Page Field,Ft. Myers,FL,USA,26.58661111,-81.86325,A,America/New_York,-4.0
+FPR,St Lucie County International Airport,Ft. Pierce,FL,USA,27.49505556,-80.36827778,A,America/New_York,-4.0
+FXE,Fort Lauderdale Executive Airport,Ft. Lauderdale,FL,USA,26.19728,-80.17070833,A,America/New_York,-4.0
+GIF,Winter Haven Regional Airport - Gilbert Field,Winter Haven,FL,USA,28.06291667,-81.75330556,A,America/New_York,-4.0
+GNV,Gainesville Regional Airport,Gainesville,FL,USA,29.69005556,-82.27177778,A,America/New_York,-4.0
+HWO,North Perry Airport,Hollywood,FL,USA,26.00142417,-80.24052056,A,America/New_York,-4.0
+IMM,Immokalee Regional Airport,Immokalee,FL,USA,26.43316667,-81.40102778,A,America/New_York,-4.0
+ISM,Kissimmee Gateway Airport,Orlando,FL,USA,28.28980556,-81.43708333,A,America/New_York,-4.0
+JAX,Jacksonville International Airport,Jacksonville,FL,USA,30.49405556,-81.68786111,A,America/New_York,-4.0
+LAL,Lakeland Linder International Airport,Lakeland,FL,USA,27.98891667,-82.01855556,A,America/New_York,-4.0
+LCQ,Lake City Gateway Airport,Lake City,FL,USA,30.18205556,-82.57686111,A,America/New_York,-4.0
+LEE,Leesburg International Airport,Leesburg,FL,USA,28.82274417,-81.80900722,A,America/New_York,-4.0
+LNA,Palm Beach County Park Airport,Lantana,FL,USA,26.593000000000004,-80.08505556,A,America/New_York,-4.0
+MAI,Mangochi Airport,Marianna,FL,USA,30.83780556,-85.18188889,\N,America/Chicago,-5.0
+MCO,Orlando International Airport,Orlando,FL,USA,28.42888889,-81.31602778,A,America/New_York,-4.0
+MIA,Miami International Airport,Miami,FL,USA,25.79325,-80.29055556,A,America/New_York,-4.0
+MKY,Mackay Airport,Marco Island,FL,USA,25.99502778,-81.67252778,O,America/New_York,-4.0
+MLB,Melbourne International Airport,Melbourne,FL,USA,28.10275,-80.64580556,A,America/New_York,-4.0
+MTH,The Florida Keys Marathon Airport,Marathon,FL,USA,24.72614083,-81.05137806,A,America/New_York,-4.0
+OBE,Okeechobee County Airport,Okeechobee,FL,USA,27.26282306,-80.84978306,A,America/New_York,-4.0
+OCF,Ocala International Airport - Jim Taylor Field,Ocala,FL,USA,29.17261111,-82.22416667,A,America/New_York,-4.0
+OMN,Ormond Beach Municipal,Ormond Beach,FL,USA,29.30113889,-81.11380556,,America/New_York,-4.0
+OPF,Opa-locka Executive Airport,Miami,FL,USA,25.907,-80.27838889,A,America/New_York,-4.0
+ORL,Orlando Executive Airport,Orlando,FL,USA,28.54547222,-81.33294444,A,America/New_York,-4.0
+PBI,Palm Beach International Airport,West Palm Beach,FL,USA,26.68316194,-80.09559417,A,America/New_York,-4.0
+PCM,Plant City Municipal,Plant City,FL,USA,28.00021667,-82.16424167,,America/New_York,-4.0
+PFN,Panama City-Bay Co International Airport,Panama City,FL,USA,30.21208333,-85.68280556,A,America/Chicago,-5.0
+PGD,Charlotte County Airport,Punta Gorda,FL,USA,26.92019444,-81.99052778,A,America/New_York,-4.0
+PHK,Palm Beach County Glades Airport,Pahokee,FL,USA,26.78503861,-80.69335528,A,America/New_York,-4.0
+PIE,St Petersburg Clearwater International Airport,St. Petersburg,FL,USA,27.91076333,-82.68743944,A,America/New_York,-4.0
+PMP,Pompano Beach Airpark,Pompano Beach,FL,USA,26.24713889,-80.11105556,,America/New_York,-4.0
+PNS,Pensacola Regional Airport,Pensacola,FL,USA,30.47330556,-87.18744444,A,America/Chicago,-5.0
+RSW,Southwest Florida International Airport,Ft. Myers,FL,USA,26.53616667,-81.75516667,A,America/New_York,-4.0
+SEF,Sebring Regional Airport,Sebring,FL,USA,27.45640278,-81.3424,A,America/New_York,-4.0
+SFB,Orlando Sanford International Airport,Orlando,FL,USA,28.77764,-81.23748944,A,America/New_York,-4.0
+SGJ,St. Augustine,St. Augustine,FL,USA,29.95925,-81.33975,,America/New_York,-4.0
+SPG,Albert Whitted Airport,St. Petersburg,FL,USA,27.76511111,-82.62697222,A,America/New_York,-4.0
+SRQ,Sarasota Bradenton International Airport,Sarasota,FL,USA,27.39533333,-82.55411111,A,America/New_York,-4.0
+SUA,Witham Field,Stuart,FL,USA,27.18169444,-80.22108333,A,America/New_York,-4.0
+TIX,Space Coast Regional Airport,Titusville,FL,USA,28.51479944,-80.7992275,A,America/New_York,-4.0
+TLH,Tallahassee Regional Airport,Tallahassee,FL,USA,30.39652778,-84.35033333,A,America/New_York,-4.0
+TMB,Kendall-Tamiami Executive Airport,Miami,FL,USA,25.64788889,-80.43277778,A,America/New_York,-4.0
+TNT,Dade Collier Training and Transition Airport,Miami,FL,USA,25.86180556,-80.89699999999999,A,America/New_York,-4.0
+TPA,Tampa International Airport,Tampa,FL,USA,27.97547222,-82.53325,A,America/New_York,-4.0
+TPF,Peter O Knight Airport,Tampa,FL,USA,27.91557833,-82.44926083,U,America/New_York,-4.0
+VNC,Venice Municipal Airport,Venice,FL,USA,27.07161111,-82.44033333,A,America/New_York,-4.0
+VPS,Destin-Ft Walton Beach Airport,Valparaiso,FL,USA,30.48325,-86.5254,A,America/Chicago,-5.0
+VQQ,Cecil Airport,Jacksonville,FL,USA,30.21867306,-81.87666444,A,America/New_York,-4.0
+VRB,Vero Beach Regional Airport,Vero Beach,FL,USA,27.65555556,-80.41794444,A,America/New_York,-4.0
+X01,Everglades,Everglades,FL,USA,25.84871167,-81.39007944,,America/New_York,-4.0
+X06,Arcadia Municipal,Arcadia,FL,USA,27.19199444,-81.83730472,,America/New_York,-4.0
+X07,Lake Wales Municipal,Lake Wales,FL,USA,27.89380556,-81.62038889,,America/New_York,-4.0
+X10,Belle Glade Municipal,Belle Glade,FL,USA,26.70089833,-80.66227972,,America/New_York,-4.0
+X14,Labelle Municipal,Labelle,FL,USA,26.74423278,-81.43257556,,America/New_York,-4.0
+X16,Vandenberg ,Tampa,FL,USA,28.01398389,-82.34527917,,America/New_York,-4.0
+X21,Arthur Dunn Airpark,Titusville,FL,USA,28.62234556,-80.835695,,America/New_York,-4.0
+X23,Umatilla Municipal,Umatilla,FL,USA,28.922765,-81.65174111,,America/New_York,-4.0
+X26,Sebastian Municipal,Sebastian,FL,USA,27.81280389,-80.49560833,,America/New_York,-4.0
+X35,Dunnellon/Marion Co.,Dunellon,FL,USA,29.06177778,-82.37658333,,America/New_York,-4.0
+X40,Inverness,Inverness,FL,USA,28.80859639,-82.31648167,,America/New_York,-4.0
+X44,Watson Island Base,Miami,FL,USA,25.77833333,-80.17027778,,America/New_York,-4.0
+X46,Opa-Locka West,Miami,FL,USA,25.94898194,-80.42338694,,America/New_York,-4.0
+X47,Flagler County,Bunnell,FL,USA,29.46738889,-81.20633333,,America/New_York,-4.0
+X51,Homestead General Aviation,Homestead,FL,USA,25.49872139,-80.55422528,,America/New_York,-4.0
+X59,Valkaria,Valkaria,FL,USA,27.96196472,-80.55977556,,America/New_York,-4.0
+X60,Williston Municipal,Williston,FL,USA,29.35422,-82.47288194,,America/New_York,-4.0
+ZPH,Zephyrhills Municipal Airport,Zephyrhills,FL,USA,28.22806472,-82.15591639,A,America/New_York,-4.0

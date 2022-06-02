@@ -1,0 +1,90 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+04Y,Hawley Municipal,Hawley,MN,USA,46.88384889,-96.35089861,,America/Chicago,-5.0
+10D,Winsted Municipal,Winsted,MN,USA,44.94996278,-94.0669175,,America/Chicago,-5.0
+12D,Tower Municipal,Tower,MN,USA,47.81833333,-92.29166667,,America/Chicago,-5.0
+12Y,Le Sueur Municipal,Le Sueur,MN,USA,44.43746472,-93.91274083,,America/Chicago,-5.0
+14Y,Todd Field ,Long Prairie,MN,USA,45.89857556,-94.87391,,America/Chicago,-5.0
+1D6,Hector Municipal,Hector,MN,USA,44.73107278,-94.71471333,,America/Chicago,-5.0
+21D,Lake Elmo,St Paul,MN,USA,44.99748861,-92.85568111,,America/Chicago,-5.0
+27D,Myers ,Canby,MN,USA,44.72801889,-96.26309972,,America/Chicago,-5.0
+3N8,Mahnomen County ,Mahnomen,MN,USA,47.25996056,-95.92809778,,America/Chicago,-5.0
+49Y,Fillmore County,Preston,MN,USA,43.67676,-92.17973444,,America/Chicago,-5.0
+8Y2,Buffalo Municipal,Buffalo,MN,USA,45.15904694,-93.84330361,,America/Chicago,-5.0
+ACQ,Waseca Municipal,Waseca,MN,USA,44.07346389,-93.55294361,,America/Chicago,-5.0
+ADC,Wadena Municipal ,Wadena,MN,USA,46.45026972,-95.21095472,,America/Chicago,-5.0
+AEL,Albert Lea Municipal,Albert Lea,MN,USA,43.68151278,-93.36723778,,America/Chicago,-5.0
+AIT,Aitutaki Airport,Aitkin,MN,USA,46.5484225,-93.6768,U,America/Chicago,-5.0
+ANE,Angers-Loire Airport,Minneapolis,MN,USA,45.145,-93.21138889,E,America/Chicago,-5.0
+AUM,Austin Municipal,Austin,MN,USA,43.66499083,-92.933385,,America/Chicago,-5.0
+AXN,Chandler Field,Alexandria,MN,USA,45.86629833,-95.39466806,\N,America/Chicago,-5.0
+BBB,Benson Municipal,Benson,MN,USA,45.3319325,-95.650565,,America/Chicago,-5.0
+BDE,Baudette International Airport,Baudette,MN,USA,48.72741667,-94.61030556,A,America/Chicago,-5.0
+BFW,Sidi Bel Abbes Airport,Silver Bay,MN,USA,47.24902778,-91.41558333,N,America/Chicago,-5.0
+BJI,Bemidji Regional Airport,Bemidji,MN,USA,47.50942417,-94.93372333,A,America/Chicago,-5.0
+BRD,Brainerd Lakes Regional Airport,Brainerd,MN,USA,46.39785806,-94.1372275,U,America/Chicago,-5.0
+CBG,Cambridge Airport,Cambridge,MN,USA,45.55854639,-93.26464361,E,America/Chicago,-5.0
+CHU,Chuathbaluk Airport,Caledonia,MN,USA,43.59635861,-91.50394639,A,America/Chicago,-5.0
+CKC,Cherkasy International Airport,Grand Marais,MN,USA,47.83830556,-90.38313889,E,America/Chicago,-5.0
+CKN,Crookston Muni Kirkwood ,Crookston,MN,USA,47.84169417,-96.62162028,,America/Chicago,-5.0
+COQ,Choibalsan Airport,Cloquet,MN,USA,46.70016833,-92.50552861,U,America/Chicago,-5.0
+D19,Quentin Aanenson ,Luverne,MN,USA,43.62080278,-96.21864028,,America/Chicago,-5.0
+D42,Springfield Municipal,Springfield,MN,USA,44.23107,-94.99893444,,America/Chicago,-5.0
+DLH,Duluth International Airport,Duluth,MN,USA,46.84209028,-92.19364861,A,America/Chicago,-5.0
+DTL,Detroit Lakes -Wething ,Detroit Lakes,MN,USA,46.82520861,-95.8856875,,America/Chicago,-5.0
+DXX,Madison-Lac Qui Parle County ,Madison,MN,USA,44.98624,-96.17773611,,America/Chicago,-5.0
+DYT,Sky Harbor,Duluth,MN,USA,46.72186083,-92.04343889,,America/Chicago,-5.0
+ELO,El Dorado Airport,Ely,MN,USA,47.82454639,-91.83073056,N,America/Chicago,-5.0
+ETH,Eilat Airport,Wheaton,MN,USA,45.78046056,-96.54353972,E,America/Chicago,-5.0
+EVM,Eveleth-Virginia Muni,Eveleth,MN,USA,47.42507778,-92.49846944,,America/Chicago,-5.0
+FBL,Faribault Municipal,Faribault,MN,USA,44.32468556,-93.31082889,,America/Chicago,-5.0
+FCM,Flying Cloud Airport,Minneapolis,MN,USA,44.82724111,-93.45714639,A,America/Chicago,-5.0
+FFM,Fergus Falls Muni-Einar Mickelson,Fergus Falls,MN,USA,46.28439389,-96.15668556,,America/Chicago,-5.0
+FRM,Fairmont Municipal,Fairmont,MN,USA,43.64394111,-94.41561556,,America/Chicago,-5.0
+FSE,Fosston Municipal,Fosston,MN,USA,47.59282028,-95.77349889,,America/Chicago,-5.0
+GHW,Glenwood Municipal ,Glenwood,MN,USA,45.64389167,-95.32043056,,America/Chicago,-5.0
+GPZ,Grand Rapids Itasca Co-Gordon Newstrom field,Grand Rapids,MN,USA,47.21110333,-93.50984472,A,America/Chicago,-5.0
+HCD,Hutchinson Municipal,Hutchinson,MN,USA,44.85890667,-94.38178917,,America/Chicago,-5.0
+HCO,Hallock Municipal,Hallock,MN,USA,48.75273139,-96.94300306,,America/Chicago,-5.0
+HIB,Range Regional Airport,Hibbing,MN,USA,47.38659917,-92.83899333,A,America/Chicago,-5.0
+INL,Falls International Airport,International Falls,MN,USA,48.56618722,-93.40306667,A,America/Chicago,-5.0
+JKJ,Moorhead Municipal ,Moorhead,MN,USA,46.83919194,-96.66313028,,America/Chicago,-5.0
+JMR,Mora Municipal,Mora,MN,USA,45.88609722,-93.27177833,,America/Chicago,-5.0
+JYG,St James Municipal,St James,MN,USA,43.98631833,-94.55793722,,America/Chicago,-5.0
+LJF,Litchfield Municipal,Litchfield,MN,USA,45.09712889,-94.50726833,,America/Chicago,-5.0
+LVN,Airlake ,Minneapolis,MN,USA,44.62785361,-93.22810806,,America/Chicago,-5.0
+LXL,Little Falls - Morrison County,Little Falls,MN,USA,45.94943778,-94.34708472,,America/Chicago,-5.0
+MIC,Crystal,Minneapolis,MN,USA,45.06198611,-93.3539375,,America/Chicago,-5.0
+MJQ,Jackson Municipal,Jackson,MN,USA,43.65004111,-94.98654611,,America/Chicago,-5.0
+MKT,Mankato Regional,Mankato,MN,USA,44.22164528,-93.91874333,,America/Chicago,-5.0
+MML,Marshall Muni - Ryan ,Marshall,MN,USA,44.45006611,-95.82234028,,America/Chicago,-5.0
+MOX,Morris Municipal,Morris,MN,USA,45.56651667,-95.96763611,,America/Chicago,-5.0
+MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,MN,USA,44.88054694,-93.2169225,A,America/Chicago,-5.0
+MVE,Montevideo-Chippewa County ,Montevideo,MN,USA,44.96905556,-95.71025,,America/Chicago,-5.0
+MWM,Windom Municipal,Windom,MN,USA,43.91340167,-95.10940833,,America/Chicago,-5.0
+ONA,Winona Muni-Max Conrad,Winona,MN,USA,44.07721306,-91.70831694,,America/Chicago,-5.0
+ORB,Örebro Airport,Orr,MN,USA,48.01592194,-92.85605139,E,America/Chicago,-5.0
+OTG,Worthington Municipal,Worthington,MN,USA,43.65506611,-95.57920917,,America/Chicago,-5.0
+OWA,Owatonna Degner Regional,Owatonna,MN,USA,44.12339722,-93.26061667,,America/Chicago,-5.0
+PKD,Park Rapids Municipal,Park Rapids,MN,USA,46.90062583,-95.07313278,,America/Chicago,-5.0
+PNM,Princeton Municipal,Princeton,MN,USA,45.55986778,-93.60821611,,America/Chicago,-5.0
+PQN,Pipestone Municipal,Pipestone,MN,USA,43.98330333,-96.30031083,,America/Chicago,-5.0
+PWC,Pine River Regional,Pine River,MN,USA,46.7247875,-94.3817,,America/Chicago,-5.0
+RGK,Gorno-Altaysk Airport,Red Wing,MN,USA,44.58935611,-92.48496889,N,America/Chicago,-5.0
+ROS,Islas Malvinas Airport,Rush City,MN,USA,45.69801389,-92.95298972,N,America/Chicago,-5.0
+ROX,Roseau Municipal,Roseau,MN,USA,48.85603806,-95.69703861,,America/Chicago,-5.0
+RRT,Warroad Intl Swede Carlson ,Warroad,MN,USA,48.94138889,-95.34838889,,America/Chicago,-5.0
+RST,Rochester International Airport,Rochester,MN,USA,43.90882639,-92.49798722,A,America/Chicago,-5.0
+RWF,Redwood Falls Municipal Airport,Redwood Falls,MN,USA,44.54720389,-95.082255,\N,America/Chicago,-5.0
+SAZ,Staples Municipal,Staples,MN,USA,46.38087944,-94.80660167,,America/Chicago,-5.0
+SBU,Springbok Airport,Blue Earth,MN,USA,43.59534389,-94.09284833,U,America/Chicago,-5.0
+SGS,South St.Paul Municipal,South St Paul,MN,USA,44.85713278,-93.03285389,,America/Chicago,-5.0
+STC,St Cloud Regional Airport,St Cloud,MN,USA,45.54532417,-94.05833667,A,America/Chicago,-5.0
+STP,St Paul Downtown Holman Field,St Paul,MN,USA,44.9344725,-93.05999861,A,America/Chicago,-5.0
+TOB,Gamal Abdel Nasser Airport,Dodge Center,MN,USA,44.018,-92.8315,N,America/Chicago,-5.0
+TVF,Thief River Falls Regional Airport,Thief River Falls,MN,USA,48.06550028,-96.18336083,A,America/Chicago,-5.0
+TWM,Richard B. Helgeson,Two Harbors,MN,USA,47.049225,-91.74514167,,America/Chicago,-5.0
+ULM,New Ulm Municipal,New Ulm,MN,USA,44.31957306,-94.50230778,,America/Chicago,-5.0
+VVV,Ortonville Municipal,Ortonville,MN,USA,45.30566472,-96.42442278,,America/Chicago,-5.0
+XVG,Longville Municipal,Longville,MN,USA,46.99016361,-94.20400222,,America/Chicago,-5.0
+Y63,Elbow Lake Municipal,Elbow Lake,MN,USA,45.98607111,-95.99199861,,America/Chicago,-5.0
+Y68,Tracy Municipal,Tracy,MN,USA,44.24995694,-95.60445389,,America/Chicago,-5.0

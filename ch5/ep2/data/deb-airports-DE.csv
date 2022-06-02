@@ -1,0 +1,6 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+33N,Delaware Airpark,Dover,DE,USA,39.21837556,-75.59642667,,America/New_York,-4.0
+DOV,Dover Air Force Base,Dover,DE,USA,39.1301125,-75.46631028,A,America/New_York,-4.0
+EVY,Summit Airpark,Middletown,DE,USA,39.52038889,-75.72044444,,America/New_York,-4.0
+GED,Sussex County Airport,Georgetown,DE,USA,38.68919444,-75.35888889,A,America/New_York,-4.0
+ILG,New Castle Airport,Wilmington,DE,USA,39.67872222,-75.60652778,A,America/New_York,-4.0

@@ -1,0 +1,73 @@
+iata,name,city,state,country,lat,long,dst,tz,utc_offset
+1A5,Macon County,Franklin,NC,USA,35.222595,-83.41904389,,America/New_York,-4.0
+24A,Jackson County,Sylva,NC,USA,35.3168625,-83.20936806,,America/New_York,-4.0
+37W,Harnett County,Erwin,NC,USA,35.37880028,-78.73362917,,America/New_York,-4.0
+3A3,Anson County,Wadesboro,NC,USA,35.02397611,-80.08127333,,America/New_York,-4.0
+43A,Montgomery County,Star,NC,USA,35.38819528,-79.79281667,,America/New_York,-4.0
+45J,Rockingham-Hamlet,Rockingham,NC,USA,34.89107083,-79.75905806,,America/New_York,-4.0
+4W1,Elizabethtown Municipal,Elizabethtown,NC,USA,34.60183722,-78.57973306,,America/New_York,-4.0
+5W8,Siler City Municipal,Siler City,NC,USA,35.7029175,-79.50529972,,America/New_York,-4.0
+60J,Ocean Isle,Ocean Isle Beach,NC,USA,33.90850556,-78.43667222,,America/New_York,-4.0
+6A3,Andrews-Murphy,Andrews,NC,USA,35.19453167,-83.86490194,,America/New_York,-4.0
+7A8,Avery County/Morrison ,Spruce Pine,NC,USA,35.94457028,-81.99566944,,America/New_York,-4.0
+7W6,Hyde County,Englehard,NC,USA,35.5623925,-75.95518417,,America/New_York,-4.0
+9W7,Currituck County,Currituck,NC,USA,36.39893194,-76.01631111,,America/New_York,-4.0
+ACZ,Zabol Airport,Wallace,NC,USA,34.71789028,-78.00362444,E,America/New_York,-4.0
+AKH,Prince Sultan Air Base,Gastonia,NC,USA,35.20265944,-81.1498675,N,America/New_York,-4.0
+ASJ,Amami Airport,Ahoskie,NC,USA,36.29752583,-77.17085556,U,America/New_York,-4.0
+AVL,Asheville Regional Airport,Asheville,NC,USA,35.43619444,-82.54180556,A,America/New_York,-4.0
+BUY,Bunbury Airport,Burlington,NC,USA,36.04854333,-79.47488694,U,America/New_York,-4.0
+CLT,Charlotte Douglas International Airport,Charlotte,NC,USA,35.21401111,-80.94312583,A,America/New_York,-4.0
+CPC,Aviador C. Campos Airport,Whiteville,NC,USA,34.27287278,-78.71499278,N,America/New_York,-4.0
+CTZ,Sampson County,Clinton,NC,USA,34.97561194,-78.36461528,,America/New_York,-4.0
+DPL,Dipolog Airport,Kenansville,NC,USA,35.00006444,-77.981695,N,America/New_York,-4.0
+ECG,Elizabeth City Regional Airport & Coast Guard Air Station,Elizabeth City,NC,USA,36.26057417,-76.17459778,A,America/New_York,-4.0
+EDE,Edenton Municipal,Edenton,NC,USA,36.027735,-76.56709333,,America/New_York,-4.0
+EHO,Shelby Municipal,Shelby,NC,USA,35.25555556,-81.60099722,,America/New_York,-4.0
+EQY,Monroe,Monroe,NC,USA,35.01884306,-80.62023444,,America/New_York,-4.0
+ETC,Edgecombe County,Tarboro,NC,USA,35.93710083,-77.54663833,,America/New_York,-4.0
+EWN,Coastal Carolina Regional Airport,New Bern,NC,USA,35.07297222,-77.04294444,A,America/New_York,-4.0
+EXX,Davidson County,Lexington,NC,USA,35.78114028,-80.30378194,,America/New_York,-4.0
+FAY,Fayetteville Regional Grannis Field,Fayetteville,NC,USA,34.99147222,-78.88,A,America/New_York,-4.0
+FFA,First Flight Airport,Kill Devil Hills,NC,USA,36.01822278,-75.67128694,A,America/New_York,-4.0
+FQD,Rutherford County-Marchman ,Rutherfordton,NC,USA,35.42822222,-81.93507778,,America/New_York,-4.0
+GSO,Piedmont Triad International Airport,Greensboro,NC,USA,36.09774694,-79.9372975,A,America/New_York,-4.0
+GWW,Goldsboro-Wayne Municipal,Goldsboro,NC,USA,35.46055444,-77.96493306,,America/New_York,-4.0
+HKY,Hickory Regional Airport,Hickory,NC,USA,35.74114639,-81.38954889,A,America/New_York,-4.0
+HNZ,Henderson-Oxford,Oxford,NC,USA,36.36156111,-78.52916639,,America/New_York,-4.0
+HSE,Billy Mitchell,Hatteras,NC,USA,35.2327875,-75.617795,,America/New_York,-4.0
+ILM,Wilmington International Airport,Wilmington,NC,USA,34.27061111,-77.90255556,A,America/New_York,-4.0
+INT,Smith Reynolds Airport,Winston-Salem,NC,USA,36.13372222,-80.222,A,America/New_York,-4.0
+IPJ,Lincoln County,Lincolnton,NC,USA,35.48332889,-81.16125833,,America/New_York,-4.0
+ISO,Kinston Regional Jetport At Stallings Field,Kinston,NC,USA,35.32807944,-77.61552611,A,America/New_York,-4.0
+JNX,Naxos Airport,Smithfield,NC,USA,35.54094139,-78.39032944,E,America/New_York,-4.0
+JQF,Concord Regional,Concord,NC,USA,35.38520694,-80.70971389,,America/New_York,-4.0
+LBT,Lumberton Regional Airport,Lumberton,NC,USA,34.60991667,-79.05944444,A,America/New_York,-4.0
+LHZ,Franklin County,Louisburg,NC,USA,36.02334528,-78.33027139,,America/New_York,-4.0
+MCZ,Zumbi dos Palmares Airport,Williamston,NC,USA,35.86219306,-77.17820278,S,America/New_York,-4.0
+MEB,Melbourne Essendon Airport,Maxton,NC,USA,34.79193917,-79.36584778,O,America/New_York,-4.0
+MQI,Dare County Regional,Manteo,NC,USA,35.91898806,-75.69553944,,America/New_York,-4.0
+MRH,Michael J. Smith,Beaufort,NC,USA,34.73355028,-76.66059611,,America/New_York,-4.0
+MRN,Foothills Regional Airport,Morganton,NC,USA,35.82149222,-81.61073639,A,America/New_York,-4.0
+MWK,Tarempa Airport,Mount Airy,NC,USA,36.459735,-80.55295722,N,America/New_York,-4.0
+NC14,Rockingham County NC Shiloh,Reidsville,NC,USA,36.43722083,-79.85101,,America/New_York,-4.0
+NC67,Ashe County,West Jefferson,NC,USA,36.43243111,-81.41968472,,America/New_York,-4.0
+OAJ,Albert J Ellis Airport,Jacksonville,NC,USA,34.82916444,-77.61213778,A,America/New_York,-4.0
+OCW,Warren Field,Washington,NC,USA,35.57046806,-77.04981306,A,America/New_York,-4.0
+PGV,Pitt Greenville Airport,Greenville,NC,USA,35.63523944,-77.38532028,A,America/New_York,-4.0
+PMZ,Palmar Sur Airport,Plymouth,NC,USA,35.80843944,-76.75927694,U,America/New_York,-4.0
+RDU,Raleigh Durham International Airport,Raleigh,NC,USA,35.87763889,-78.78747222,A,America/New_York,-4.0
+RUQ,Rowan County,Salisbury,NC,USA,35.64588583,-80.52029306,,America/New_York,-4.0
+RWI,Rocky Mount Wilson Regional Airport,Rocky Mount,NC,USA,35.85498861,-77.89295611,A,America/New_York,-4.0
+RZZ,Halifax County,Roanoke Rapids,NC,USA,36.43945583,-77.70934139,,America/New_York,-4.0
+SOP,Moore County Airport,Pinehurst/Southern Pines,NC,USA,35.23735278,-79.39116944,A,America/New_York,-4.0
+SUT,Brunswick County,Southport,NC,USA,33.92925694,-78.07499167,,America/New_York,-4.0
+SVH,Statesville Regional Airport,Statesville,NC,USA,35.76526389,-80.95673611,A,America/New_York,-4.0
+TDF,Person County,Roxboro,NC,USA,36.28489194,-78.98422694,,America/New_York,-4.0
+TTA,Tan Tan Airport,Sanford,NC,USA,35.58247222,-79.10136111,N,America/New_York,-4.0
+UKF,Wilkes County,North Wilkesboro,NC,USA,36.22284028,-81.0983375,,America/New_York,-4.0
+VUJ,Stanly County,Albemarle,NC,USA,35.41669472,-80.15079556,,America/New_York,-4.0
+W40,Mt Olive Municipal,Mt Olive,NC,USA,35.22224722,-78.03779444,,America/New_York,-4.0
+W44,Asheboro Municipal,Asheboro,NC,USA,35.6538825,-79.8950425,,America/New_York,-4.0
+W95,Ocracoke Island,Ocracoke,NC,USA,35.10117083,-75.96595278,,America/New_York,-4.0
+ZEF,Elkin Municipal,Elkin,NC,USA,36.28002361,-80.78606861,,America/New_York,-4.0
