@@ -1,0 +1,13 @@
+numpy==1.20.2
+pandas==1.2.4
+gcsfs==2021.5.0
+SQLAlchemy==1.4.13
+shortuuid==1.0.1
+Flask==2.1.0
+gunicorn==20.1.0
+jupyterlab==3.0.14
+notebook==6.3.0
+jupyterthemes==0.20.0
+# gcp functions local rnutime
+functions-framework
+google-cloud-bigquery==2.17.0
